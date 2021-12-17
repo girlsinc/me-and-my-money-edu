@@ -1,0 +1,22 @@
+{
+  "path": "C:/repos/me-and-my-money-edu/src/pages/course/me-and-my-money/making-money-my-friend/page-four",
+  "github": null,
+  "previousText": "Page 3",
+  "previousUrl": "/course/me-and-my-money/making-money-my-friend/page-three",
+  "nextText": "Page 1",
+  "nextUrl": "/course/me-and-my-money/money-messages/page-one",
+  "courseModuleId": "5",
+  "sessionId": "4",
+  "pageId": "4",
+  "body": [
+    "div",
+    null
+  ],
+  "pageInfo": {
+    "courseModuleId": "5",
+    "sessionId": "4",
+    "pageId": "4"
+  },
+  "headings": [],
+  "pageClass": "page-c-repos-me-and-my-money-edu-src-pages-course-me-and-my-money-making-money-my-friend-page-four"
+}

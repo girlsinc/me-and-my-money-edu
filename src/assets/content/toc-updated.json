@@ -1,0 +1,850 @@
+{
+  "id": 1,
+  "name": "Me and My Money",
+  "courseModules": [
+    {
+      "id": 1,
+      "number": 0,
+      "name": "Introduction",
+      "urlName": "introduction",
+      "preventNumbering": true,
+      "sessions": [
+        {
+          "id": 1,
+          "number": 0,
+          "name": "Welcome",
+          "urlName": "welcome",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "",
+              "previousUrl": "",
+              "nextText": "Page 2",
+              "nextUrl": "/course/introduction/welcome/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/introduction/welcome/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/introduction/welcome/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/introduction/welcome/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/introduction/welcome/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/introduction/welcome/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/me-and-my-money/attitudes-toward-money/page-one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "number": 1,
+      "name": "Me and My Money",
+      "urlName": "me-and-my-money",
+      "sessions": [
+        {
+          "id": 1,
+          "number": 0,
+          "name": "Attitudes Toward Money",
+          "urlName": "attitudes-toward-money",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/introduction/welcome/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/me-and-my-money/attitudes-toward-money/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/me-and-my-money/attitudes-toward-money/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/me-and-my-money/attitudes-toward-money/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/me-and-my-money/attitudes-toward-money/page-two",
+              "nextText": "Page 1",
+              "nextUrl": "/course/me-and-my-money/making-money-my-friend/page-one"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "Making Money My Friend",
+          "urlName": "making-money-my-friend",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 3",
+              "previousUrl": "/course/me-and-my-money/attitudes-toward-money/page-three",
+              "nextText": "Page 2",
+              "nextUrl": "/course/me-and-my-money/making-money-my-friend/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/me-and-my-money/making-money-my-friend/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/me-and-my-money/making-money-my-friend/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/me-and-my-money/making-money-my-friend/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/me-and-my-money/making-money-my-friend/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/me-and-my-money/making-money-my-friend/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/me-and-my-money/money-messages/page-one"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Money Messages",
+          "urlName": "money-messages",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/me-and-my-money/making-money-my-friend/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/me-and-my-money/money-messages/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/me-and-my-money/money-messages/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/me-and-my-money/money-messages/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/me-and-my-money/money-messages/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/me-and-my-money/money-messages/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/me-and-my-money/money-messages/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/me-and-my-money/walk-through-a-bank/page-one"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 3,
+          "name": "Walk Through a Bank",
+          "urlName": "walk-through-a-bank",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/me-and-my-money/money-messages/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/me-and-my-money/walk-through-a-bank/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/me-and-my-money/walk-through-a-bank/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/me-and-my-money/walk-through-a-bank/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/me-and-my-money/walk-through-a-bank/page-two",
+              "nextText": "Page 1",
+              "nextUrl": "/course/me-and-my-money/money-in-the-media/page-one"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 4,
+          "name": "Money in the Media",
+          "urlName": "money-in-the-media",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 3",
+              "previousUrl": "/course/me-and-my-money/walk-through-a-bank/page-three",
+              "nextText": "Page 2",
+              "nextUrl": "/course/me-and-my-money/money-in-the-media/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/me-and-my-money/money-in-the-media/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/me-and-my-money/money-in-the-media/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/me-and-my-money/money-in-the-media/page-two",
+              "nextText": "Page 1",
+              "nextUrl": "/course/me-and-my-money/financial-opinion/page-one"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 5,
+          "name": "Financial Opinion",
+          "urlName": "financial-opinion",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 3",
+              "previousUrl": "/course/me-and-my-money/money-in-the-media/page-three",
+              "nextText": "Page 2",
+              "nextUrl": "/course/me-and-my-money/financial-opinion/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/me-and-my-money/financial-opinion/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/me-and-my-money/financial-opinion/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/me-and-my-money/financial-opinion/page-two",
+              "nextText": "Page 1",
+              "nextUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": 2,
+      "name": "Planning, Tracking and Saving",
+      "urlName": "planning-tracking-and-saving",
+      "comingSoon": true,
+      "sessions": [
+        {
+          "id": 1,
+          "number": 0,
+          "name": "Budgets: Enemies of Debt",
+          "urlName": "budgets-enemies-of-debt",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 3",
+              "previousUrl": "/course/me-and-my-money/financial-opinion/page-three",
+              "nextText": "Page 2",
+              "nextUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-one"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "Checking and Savings Accounts",
+          "urlName": "checking-and-savings-accounts",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/planning-tracking-and-saving/tracking-progress/page-one"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Tracking Progress",
+          "urlName": "tracking-progress",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/planning-tracking-and-saving/tracking-progress/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/planning-tracking-and-saving/tracking-progress/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/planning-tracking-and-saving/tracking-progress/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/planning-tracking-and-saving/tracking-progress/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/planning-tracking-and-saving/tracking-progress/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/planning-tracking-and-saving/tracking-progress/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/planning-tracking-and-saving/making-your-budget/page-one"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 3,
+          "name": "Making Your Budget",
+          "urlName": "making-your-budget",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/planning-tracking-and-saving/tracking-progress/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/planning-tracking-and-saving/making-your-budget/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/planning-tracking-and-saving/making-your-budget/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/planning-tracking-and-saving/making-your-budget/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/planning-tracking-and-saving/making-your-budget/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/planning-tracking-and-saving/making-your-budget/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/planning-tracking-and-saving/making-your-budget/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/making-money/visualize-your-future/page-one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": 3,
+      "name": "Making Money",
+      "urlName": "making-money",
+      "comingSoon": true,
+      "sessions": [
+        {
+          "id": 1,
+          "number": 0,
+          "name": "Visualize Your Future",
+          "urlName": "visualize-your-future",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/planning-tracking-and-saving/making-your-budget/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/making-money/visualize-your-future/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/making-money/visualize-your-future/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/making-money/visualize-your-future/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/making-money/visualize-your-future/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/making-money/visualize-your-future/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/making-money/visualize-your-future/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/making-money/choosing-a-career/page-one"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "Choosing a Career",
+          "urlName": "choosing-a-career",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/making-money/visualize-your-future/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/making-money/choosing-a-career/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/making-money/choosing-a-career/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/making-money/choosing-a-career/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/making-money/choosing-a-career/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/making-money/choosing-a-career/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/making-money/choosing-a-career/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/making-money/work-life-balance/page-one"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Work-Life Balance",
+          "urlName": "work-life-balance",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/making-money/choosing-a-career/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/making-money/work-life-balance/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/making-money/work-life-balance/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/making-money/work-life-balance/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/making-money/work-life-balance/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/making-money/work-life-balance/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/making-money/work-life-balance/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/making-money/determining-progress/page-one"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 3,
+          "name": "Determining Progress",
+          "urlName": "determining-progress",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/making-money/work-life-balance/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/making-money/determining-progress/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/making-money/determining-progress/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/making-money/determining-progress/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/making-money/determining-progress/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/making-money/determining-progress/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/making-money/determining-progress/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": 4,
+      "name": "Investing for the Future",
+      "urlName": "investing-for-the-future",
+      "comingSoon": true,
+      "sessions": [
+        {
+          "id": 1,
+          "number": 0,
+          "name": "Smart Money - Dumb Money",
+          "urlName": "smart-money-dumb-money",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/making-money/determining-progress/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/investing-for-the-future/stock-market-game/page-one"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "The Stock Market Game",
+          "urlName": "stock-market-game",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/investing-for-the-future/stock-market-game/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/investing-for-the-future/stock-market-game/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/investing-for-the-future/stock-market-game/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/investing-for-the-future/stock-market-game/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/investing-for-the-future/stock-market-game/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/investing-for-the-future/stock-market-game/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/investing-for-the-future/dumb-money/page-one"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Dumb Money",
+          "urlName": "dumb-money",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/investing-for-the-future/stock-market-game/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/investing-for-the-future/dumb-money/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/investing-for-the-future/dumb-money/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/investing-for-the-future/dumb-money/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/investing-for-the-future/dumb-money/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/investing-for-the-future/dumb-money/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/investing-for-the-future/dumb-money/page-three",
+              "nextText": "Page 1",
+              "nextUrl": "/course/investing-for-the-future/on-your-own/page-one"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 3,
+          "name": "On Your Own",
+          "urlName": "on-your-own",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Page 1",
+              "urlName": "page-one",
+              "previousText": "Page 4",
+              "previousUrl": "/course/investing-for-the-future/dumb-money/page-four",
+              "nextText": "Page 2",
+              "nextUrl": "/course/investing-for-the-future/on-your-own/page-two"
+            },
+            {
+              "id": 2,
+              "name": "Page 2",
+              "urlName": "page-two",
+              "previousText": "Page 1",
+              "previousUrl": "/course/investing-for-the-future/on-your-own/page-one",
+              "nextText": "Page 3",
+              "nextUrl": "/course/investing-for-the-future/on-your-own/page-three"
+            },
+            {
+              "id": 3,
+              "name": "Page 3",
+              "urlName": "page-three",
+              "previousText": "Page 2",
+              "previousUrl": "/course/investing-for-the-future/on-your-own/page-two",
+              "nextText": "Page 4",
+              "nextUrl": "/course/investing-for-the-future/on-your-own/page-four"
+            },
+            {
+              "id": 4,
+              "name": "Page 4",
+              "urlName": "page-four",
+              "previousText": "Page 3",
+              "previousUrl": "/course/investing-for-the-future/on-your-own/page-three",
+              "nextText": "",
+              "nextUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "path": "C:/repos/me-and-my-money-edu/src/pages/course/module-one/session-two/page-two",
+  "github": null,
+  "previousText": "Page 1",
+  "previousUrl": "/course/module-one/session-two/page-one",
+  "nextText": "Page 3",
+  "nextUrl": "/course/module-one/session-two/page-three",
+  "courseModuleId": "3",
+  "sessionId": "4",
+  "pageId": "4",
+  "body": [
+    "div",
+    null,
+    [
+      "h2",
+      {
+        "id": "multiple-choice"
+      },
+      " ",
+      [
+        "a",
+        {
+          "href": "#multiple-choice"
+        },
+        "Multiple Choice"
+      ],
+      " "
+    ],
+    " ",
+    [
+      "sparkle-quiz-container",
+      {
+        "question-ids": "50,51,52"
+      }
+    ]
+  ],
+  "title": "Quiz",
+  "pageInfo": {
+    "courseModuleId": "3",
+    "sessionId": "4",
+    "pageId": "4"
+  },
+  "headings": [
+    {
+      "text": "Multiple Choice",
+      "href": "#multiple-choice"
+    }
+  ],
+  "pageClass": "page-c-repos-me-and-my-money-edu-src-pages-course-module-one-session-two-page-two"
+}

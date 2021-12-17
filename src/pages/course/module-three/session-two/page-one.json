@@ -1,0 +1,22 @@
+{
+  "path": "C:/repos/me-and-my-money-edu/src/pages/course/module-three/session-two/page-one",
+  "github": null,
+  "previousText": "Page 4",
+  "previousUrl": "/course/module-three/session-three/page-four",
+  "nextText": "Page 2",
+  "nextUrl": "/course/module-three/session-two/page-two",
+  "courseModuleId": "3",
+  "sessionId": "4",
+  "pageId": "4",
+  "body": [
+    "div",
+    null
+  ],
+  "pageInfo": {
+    "courseModuleId": "3",
+    "sessionId": "4",
+    "pageId": "4"
+  },
+  "headings": [],
+  "pageClass": "page-c-repos-me-and-my-money-edu-src-pages-course-module-three-session-two-page-one"
+}

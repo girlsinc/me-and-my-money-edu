@@ -1,0 +1,91 @@
+{
+  "path": "C:/repos/me-and-my-money-edu/src/pages/course/module-one/session-one/page-four",
+  "github": null,
+  "previousText": "Page 3",
+  "previousUrl": "/course/module-one/session-one/page-three",
+  "nextText": "Page 1",
+  "nextUrl": "/course/module-one/session-two/page-one",
+  "courseModuleId": "3",
+  "sessionId": "4",
+  "pageId": "4",
+  "body": [
+    "div",
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      "Create Your Compass"
+    ],
+    " ",
+    [
+      "h3",
+      {
+        "id": "the-living-compass-activity"
+      },
+      " ",
+      [
+        "a",
+        {
+          "href": "#the-living-compass-activity"
+        },
+        "The Living Compass Activity"
+      ],
+      " "
+    ],
+    " ",
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        " Log on to our Mind & Body Platform and complete the Compass questions."
+      ],
+      " ",
+      [
+        "li",
+        null,
+        " Once done, post your results to the GCW!"
+      ],
+      " "
+    ],
+    " ",
+    [
+      "ul",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        [
+          "a",
+          {
+            "href": "https://www.livingcompass.org/programintroduction"
+          },
+          "https://www.livingcompass.org/programintroduction"
+        ]
+      ],
+      " "
+    ],
+    " ",
+    [
+      "p",
+      null,
+      [
+        "sparkle-compass",
+        null
+      ]
+    ]
+  ],
+  "title": "Compass",
+  "pageInfo": {
+    "courseModuleId": "3",
+    "sessionId": "4",
+    "pageId": "4"
+  },
+  "headings": [],
+  "pageClass": "page-c-repos-me-and-my-money-edu-src-pages-course-module-one-session-one-page-four"
+}
