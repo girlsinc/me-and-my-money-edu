@@ -1,6 +1,6 @@
 ---
-previousText: "Page 1"
-previousUrl: "/course/making-money/work-life-balance/page-one"
+previousText: "Lesson Roadmap"
+previousUrl: "/course/making-money/work-life-balance/roadmap"
 nextText: "Page 3"
 nextUrl: "/course/making-money/work-life-balance/page-three"
 courseModuleId: "5"

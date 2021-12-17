@@ -1,6 +1,6 @@
 ---
-previousText: "Page 1"
-previousUrl: "/course/me-and-my-money/walk-through-a-bank/page-one"
+previousText: "Lesson Roadmap"
+previousUrl: "/course/me-and-my-money/walk-through-a-bank/roadmap"
 nextText: "Page 3"
 nextUrl: "/course/me-and-my-money/walk-through-a-bank/page-three"
 courseModuleId: "5"

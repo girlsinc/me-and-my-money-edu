@@ -1,6 +1,6 @@
 ---
-previousText: "Page 1"
-previousUrl: "/course/planning-tracking-and-saving/tracking-progress/page-one"
+previousText: "Lesson Roadmap"
+previousUrl: "/course/planning-tracking-and-saving/tracking-progress/roadmap"
 nextText: "Page 3"
 nextUrl: "/course/planning-tracking-and-saving/tracking-progress/page-three"
 courseModuleId: "5"

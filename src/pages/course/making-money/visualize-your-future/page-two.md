@@ -1,6 +1,6 @@
 ---
-previousText: "Page 1"
-previousUrl: "/course/making-money/visualize-your-future/page-one"
+previousText: "Lesson Roadmap"
+previousUrl: "/course/making-money/visualize-your-future/roadmap"
 nextText: "Page 3"
 nextUrl: "/course/making-money/visualize-your-future/page-three"
 courseModuleId: "5"

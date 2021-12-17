@@ -1,6 +1,6 @@
 ---
-previousText: "Page 1"
-previousUrl: "/course/me-and-my-money/attitudes-toward-money/page-one"
+previousText: "Lesson Roadmap"
+previousUrl: "/course/me-and-my-money/attitudes-toward-money/roadmap"
 nextText: "Page 3"
 nextUrl: "/course/me-and-my-money/attitudes-toward-money/page-three"
 courseModuleId: "5"

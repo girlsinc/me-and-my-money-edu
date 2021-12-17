@@ -1,6 +1,6 @@
 ---
-previousText: "Page 1"
-previousUrl: "/course/investing-for-the-future/dumb-money/page-one"
+previousText: "Lesson Roadmap"
+previousUrl: "/course/investing-for-the-future/dumb-money/roadmap"
 nextText: "Page 3"
 nextUrl: "/course/investing-for-the-future/dumb-money/page-three"
 courseModuleId: "5"
