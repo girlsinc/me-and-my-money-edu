@@ -218,7 +218,7 @@
             "number": 2,
             "name": "Planning, Tracking and Saving",
             "urlName": "planning-tracking-and-saving",
-            "comingSoon": true,
+            "comingSoon": false,
             "sessions": [
                 {
                     "id": 1,
