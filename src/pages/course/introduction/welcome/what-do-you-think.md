@@ -9,7 +9,6 @@ pageId: "4"
 ---
 
 
-
 # What Do You Think?
 ## Answer the questions below to explore your views on money
 

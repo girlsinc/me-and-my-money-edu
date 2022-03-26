@@ -9,3 +9,5 @@ pageId: "4"
 ---
 
 
+# Making Money My Friend
+![Animation Placeholder](/assets/img/animation-placeholder.jpg)

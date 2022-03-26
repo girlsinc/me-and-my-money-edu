@@ -9,3 +9,5 @@ pageId: "4"
 ---
 
 
+# Save Early and Often
+![Animation Placeholder](/assets/img/animation-placeholder.jpg)

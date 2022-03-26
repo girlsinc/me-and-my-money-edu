@@ -10,8 +10,38 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Become aware of the money messages we hear everyday, including in your family "
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Learn the difference between wants and needs "
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Become aware of your own relationship to money-What is It? "
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Understand that money is energy"
+      ],
+      " "
+    ]
   ],
+  "title": "Summary of What's Your Money Story",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

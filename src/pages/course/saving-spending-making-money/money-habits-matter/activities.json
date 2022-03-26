@@ -10,8 +10,26 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Explore different ways to bank: Branch, Online, Credit union"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Walk Through a Bank"
+      ],
+      " "
+    ]
   ],
+  "title": "Activities",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

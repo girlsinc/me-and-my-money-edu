@@ -9,3 +9,7 @@ pageId: "4"
 ---
 
 
+# Summary of The Importance of Saving
+1. Learn the importance and benefits of saving
+2. Learn about compound interest
+3. Learn to identify goals for your savings

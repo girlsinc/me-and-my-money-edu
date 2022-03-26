@@ -9,3 +9,8 @@ pageId: "4"
 ---
 
 
+# Summary of Your Relationshop to Money
+
+1. Identify Attitudes You Want to Change
+2. Find a Role Model Whose Attitude Toward Money You Admire
+3. Be Careful of the Company You Keep

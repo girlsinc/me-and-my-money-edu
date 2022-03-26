@@ -10,8 +10,22 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "img",
+        {
+          "src": "/assets/img/animation-placeholder.jpg",
+          "alt": "Animation Placeholder"
+        }
+      ]
+    ]
   ],
+  "title": "Your Spending Habits Can Get You in Trouble",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

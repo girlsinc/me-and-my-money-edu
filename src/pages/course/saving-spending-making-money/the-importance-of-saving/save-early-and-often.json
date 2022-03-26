@@ -10,8 +10,22 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "img",
+        {
+          "src": "/assets/img/animation-placeholder.jpg",
+          "alt": "Animation Placeholder"
+        }
+      ]
+    ]
   ],
+  "title": "Save Early and Often",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

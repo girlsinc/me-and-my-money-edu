@@ -9,3 +9,8 @@ pageId: "4"
 ---
 
 
+# Summary of Making Money
+
+1. How to Identify Business opportunities
+2. to Assess the Need for a new product or Service
+3. to Identify the Key Elements of a Business Plan

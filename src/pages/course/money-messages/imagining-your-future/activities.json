@@ -10,8 +10,39 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Create your “Future Me” using the ",
+        [
+          "a",
+          {
+            "href": ""
+          },
+          "Companion App"
+        ]
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Prepare a presentation before the class for the class about their career choice and the financial implications of it"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Play the game: you’ve just been given $1000. Describe to a partner what you will do with it"
+      ],
+      " "
+    ]
   ],
+  "title": "Activties",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

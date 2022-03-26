@@ -9,7 +9,6 @@ pageId: "4"
 ---
 
 
-
 ![Roadmap](/assets/img/roadmap.png)
 # Roadmap for Money Habits Matter
 1. Learn to keep track of what you’re  spending and what you have left over to save; keep track of how much you have, whats coming in, what you’re spending

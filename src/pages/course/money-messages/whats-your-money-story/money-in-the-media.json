@@ -1,0 +1,68 @@
+{
+  "path": "C:/repos/me-and-my-money-edu/src/pages/course/money-messages/whats-your-money-story/money-in-the-media",
+  "github": null,
+  "previousText": "Your Money Story",
+  "previousUrl": "/course/money-messages/whats-your-money-story/your-money-story",
+  "nextText": "Activities",
+  "nextUrl": "/course/money-messages/whats-your-money-story/activities",
+  "courseModuleId": "5",
+  "sessionId": "4",
+  "pageId": "4",
+  "body": [
+    "div",
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "sparkle-youtube",
+        {
+          "src": "https://youtu.be/gUhRKVIjJtw"
+        }
+      ],
+      " ",
+      [
+        "sparkle-youtube",
+        {
+          "src": "https://www.youtube.com/embed/WQGS1kkp0cw"
+        }
+      ]
+    ],
+    " ",
+    [
+      "iframe",
+      {
+        "width": "560",
+        "height": "315",
+        "src": "https://www.youtube-nocookie.com/embed/gUhRKVIjJtw",
+        "title": "YouTube video player",
+        "frameborder": "0",
+        "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+        "allowfullscreen": ""
+      }
+    ],
+    " ",
+    [
+      "iframe",
+      {
+        "width": "560",
+        "height": "315",
+        "src": "https://www.youtube-nocookie.com/embed/WQGS1kkp0cw",
+        "title": "YouTube video player",
+        "frameborder": "0",
+        "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+        "allowfullscreen": ""
+      }
+    ]
+  ],
+  "title": "Money in the Media",
+  "pageInfo": {
+    "courseModuleId": "5",
+    "sessionId": "4",
+    "pageId": "4"
+  },
+  "headings": [],
+  "pageClass": "page-c-repos-me-and-my-money-edu-src-pages-course-money-messages-whats-your-money-story-money-in-the-media"
+}

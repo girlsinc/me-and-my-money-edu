@@ -82,20 +82,29 @@
               "urlName": "your-money-story",
               "previousText": "Lesson Roadmap",
               "previousUrl": "/course/money-messages/whats-your-money-story/roadmap",
+              "nextText": "Money in the Media",
+              "nextUrl": "/course/money-messages/whats-your-money-story/money-in-the-media"
+            },
+            {
+              "id": 3,
+              "name": "Money in the Media",
+              "urlName": "money-in-the-media",
+              "previousText": "Your Money Story",
+              "previousUrl": "/course/money-messages/whats-your-money-story/your-money-story",
               "nextText": "Activities",
               "nextUrl": "/course/money-messages/whats-your-money-story/activities"
             },
             {
-              "id": 3,
+              "id": 4,
               "name": "Activities",
               "urlName": "activities",
-              "previousText": "Your Money Story",
-              "previousUrl": "/course/money-messages/whats-your-money-story/your-money-story",
+              "previousText": "Money in the Media",
+              "previousUrl": "/course/money-messages/whats-your-money-story/money-in-the-media",
               "nextText": "Let's Talk About It",
               "nextUrl": "/course/money-messages/whats-your-money-story/discussion"
             },
             {
-              "id": 4,
+              "id": 5,
               "name": "Let's Talk About It",
               "urlName": "discussion",
               "previousText": "Activities",
@@ -104,7 +113,7 @@
               "nextUrl": "/course/money-messages/whats-your-money-story/summary"
             },
             {
-              "id": 5,
+              "id": 6,
               "name": "Wrap it up",
               "urlName": "summary",
               "previousText": "Let's Talk About It",

@@ -8,4 +8,6 @@ sessionId: "4"
 pageId: "4"
 ---
 
+![Roadmap](/assets/img/lets-talk-about-it.png)
+# Let's Talk About It
 

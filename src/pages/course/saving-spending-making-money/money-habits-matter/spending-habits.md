@@ -9,3 +9,5 @@ pageId: "4"
 ---
 
 
+# Your Spending Habits Can Get You in Trouble
+![Animation Placeholder](/assets/img/animation-placeholder.jpg)

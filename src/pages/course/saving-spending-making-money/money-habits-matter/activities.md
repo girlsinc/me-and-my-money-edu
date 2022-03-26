@@ -8,4 +8,7 @@ sessionId: "4"
 pageId: "4"
 ---
 
+# Activities
 
+1. Explore different ways to bank: Branch, Online, Credit union
+2. Walk Through a Bank

@@ -10,8 +10,32 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "How to Identify Business opportunities"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "to Assess the Need for a new product or Service"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "to Identify the Key Elements of a Business Plan"
+      ],
+      " "
+    ]
   ],
+  "title": "Summary of Making Money",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

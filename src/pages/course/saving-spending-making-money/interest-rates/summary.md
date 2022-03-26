@@ -9,3 +9,7 @@ pageId: "4"
 ---
 
 
+# Roadmap for Interest Rates
+1. How Banks Make a Profit
+2. How Banks Set Interest Rates
+3. the Benefits and Challenges of Credit Cards

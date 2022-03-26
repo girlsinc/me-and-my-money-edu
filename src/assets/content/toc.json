@@ -67,16 +67,21 @@
                         },
                         {
                             "id": 3,
+                            "name": "Money in the Media",
+                            "urlName": "money-in-the-media"
+                        },
+                        {
+                            "id": 4,
                             "name": "Activities",
                             "urlName": "activities"
                         },
                         {
-                            "id": 4,
+                            "id": 5,
                             "name": "Let's Talk About It",
                             "urlName": "discussion"
                         },
                         {
-                            "id": 5,
+                            "id": 6,
                             "name": "Wrap it up",
                             "urlName": "summary"
                         }

@@ -10,8 +10,22 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "img",
+        {
+          "src": "/assets/img/lets-talk-about-it.png",
+          "alt": "Roadmap"
+        }
+      ]
+    ]
   ],
+  "title": "Let's Talk About It",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

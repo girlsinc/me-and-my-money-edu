@@ -10,8 +10,32 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Set lofty goals - It is possible to attain your dreams"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Enter careers that will give give you a lifestyle you choose, as well as inner satisfaction."
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Avoid being limited by others ideas of who and what you should become."
+      ],
+      " "
+    ]
   ],
+  "title": "Summary of Imagining Your Future",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",
