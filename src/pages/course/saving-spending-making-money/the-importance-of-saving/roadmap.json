@@ -10,8 +10,46 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "img",
+        {
+          "src": "/assets/img/roadmap.png",
+          "alt": "Roadmap"
+        }
+      ]
+    ],
+    "  ",
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Learn the importance and benefits of saving"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Learn about compound interest"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Learn to identify goals for your savings"
+      ],
+      " "
+    ]
   ],
+  "title": "Roadmap for The Importance of Saving",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

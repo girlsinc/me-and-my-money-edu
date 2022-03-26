@@ -10,13 +10,45 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "h2",
+      {
+        "id": "answer-the-questions-below-to-explore-your-views-on-money"
+      },
+      " ",
+      [
+        "a",
+        {
+          "href": "#answer-the-questions-below-to-explore-your-views-on-money"
+        },
+        "Answer the questions below to explore your views on money"
+      ],
+      " "
+    ],
+    " ",
+    [
+      "p",
+      null,
+      [
+        "sparkle-quiz",
+        {
+          "question-id": "61"
+        }
+      ]
+    ]
   ],
+  "title": "What Do You Think?",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",
     "pageId": "4"
   },
-  "headings": [],
+  "headings": [
+    {
+      "text": "Answer the questions below to explore your views on money",
+      "href": "#answer-the-questions-below-to-explore-your-views-on-money"
+    }
+  ],
   "pageClass": "page-c-repos-me-and-my-money-edu-src-pages-course-introduction-welcome-what-do-you-think"
 }

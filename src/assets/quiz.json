@@ -1,20 +1,20 @@
 {
     "50": {
         "questionId": 50,
-        "questionText": "What are the three options for dealing with emotions?",
+        "questionText": "At 21% interest rate, how long would it take to double your money/debt?",
         "questionType": "MULTIPLE-CHOICE",
         "showOptionNumber": true,
         "options": [
             {
-                "option": "Repress",
+                "option": "Around 3 years",
                 "correct": true,
                 "feedback": ""
             },
             {
-                "option": "explode"
+                "option": "Around 5 years"
             },
             {
-                "option": "express"
+                "option": "Around 7 years"
             }
         ]
     },

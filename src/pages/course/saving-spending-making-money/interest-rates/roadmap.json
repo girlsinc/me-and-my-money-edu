@@ -10,8 +10,46 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "img",
+        {
+          "src": "/assets/img/roadmap.png",
+          "alt": "Roadmap"
+        }
+      ]
+    ],
+    "  ",
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Learn How Banks Make a Profit"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Learn How Banks Set Interest Rates"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Learn the Benefits and Challenges of Credit Cards"
+      ],
+      " "
+    ]
   ],
+  "title": "Roadmap for Interest Rates",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

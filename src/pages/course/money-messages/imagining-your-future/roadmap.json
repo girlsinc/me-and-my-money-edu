@@ -10,8 +10,46 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "img",
+        {
+          "src": "/assets/img/roadmap.png",
+          "alt": "Roadmap"
+        }
+      ]
+    ],
+    "  ",
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Setting lofty goals - It is possible to attain your dreams"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Entering careers that will give give you a lifestyle you choose, as well as inner satisfaction."
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Avoiding being limited by others ideas of who and what you should become."
+      ],
+      " "
+    ]
   ],
+  "title": "Roadmap for Imagining Your Future",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

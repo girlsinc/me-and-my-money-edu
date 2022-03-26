@@ -10,8 +10,46 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "img",
+        {
+          "src": "/assets/img/roadmap.png",
+          "alt": "Roadmap"
+        }
+      ]
+    ],
+    "  ",
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Learn How to Identify Business opportunities"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Learn to Assess the Need for a new product or Service"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Learn to Identify the Key Elements of a Business Plan"
+      ],
+      " "
+    ]
   ],
+  "title": "Roadmap for Making Money",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",

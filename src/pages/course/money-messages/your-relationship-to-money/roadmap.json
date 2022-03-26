@@ -10,8 +10,46 @@
   "pageId": "4",
   "body": [
     "div",
-    null
+    null,
+    [
+      "p",
+      {
+        "class": "intro"
+      },
+      [
+        "img",
+        {
+          "src": "/assets/img/roadmap.png",
+          "alt": "Roadmap"
+        }
+      ]
+    ],
+    "  ",
+    [
+      "ol",
+      null,
+      " ",
+      [
+        "li",
+        null,
+        "Identify Attitudes You Want to Change"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Find a Role Model Whose Attitude Toward Money You Admire"
+      ],
+      " ",
+      [
+        "li",
+        null,
+        "Be Careful of the Company You Keep"
+      ],
+      " "
+    ]
   ],
+  "title": "Roadmap for Your Relationshop to Money",
   "pageInfo": {
     "courseModuleId": "5",
     "sessionId": "4",
