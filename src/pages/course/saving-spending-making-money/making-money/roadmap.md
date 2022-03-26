@@ -1,0 +1,11 @@
+---
+previousText: "Wrap it up"
+previousUrl: "/course/saving-spending-making-money/interest-rates/summary"
+nextText: "Making Money by Solving Problems"
+nextUrl: "/course/saving-spending-making-money/making-money/making-money-by-solving-problems"
+courseModuleId: "5"
+sessionId: "4"
+pageId: "4"
+---
+
+

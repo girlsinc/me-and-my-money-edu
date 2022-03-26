@@ -17,26 +17,26 @@
                     "pages": [
                         {
                             "id": 1,
-                            "name": "Page 1",
-                            "urlName": "page-one"
+                            "name": "Meet the Giga Girls",
+                            "urlName": "meet-the-giga-girls"
                         },
                        
                         {
                             "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
+                            "name": "Roadmap to Me & My Money",
+                            "urlName": "roadmap"
                         },
                         
                         {
                             "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
+                            "name": "What do you know?",
+                            "urlName": "what-do-you-know"
                         },
                       
                         {
                             "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
+                            "name": "What do you think?",
+                            "urlName": "what-do-you-think"
                         }
                        
                     ]
@@ -46,14 +46,14 @@
         {
             "id": 2,
             "number": 1,
-            "name": "Me and My Money",
-            "urlName": "me-and-my-money",
+            "name": "Money Messages",
+            "urlName": "money-messages",
             "sessions": [
                 {
                     "id": 1,
                     "number": 0,
-                    "name": "Attitudes Toward Money",
-                    "urlName": "attitudes-toward-money",
+                    "name": "What's Your Money Story",
+                    "urlName": "whats-your-money-story",
                     "pages": [
                         {
                             "id": 1,
@@ -62,14 +62,23 @@
                         },                       
                         {
                             "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
+                            "name": "Your Money Story",
+                            "urlName": "your-money-story"
                         },
-                        
                         {
                             "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
+                            "name": "Activities",
+                            "urlName": "activities"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Let's Talk About It",
+                            "urlName": "discussion"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Wrap it up",
+                            "urlName": "summary"
                         }
                        
                     ]
@@ -77,30 +86,33 @@
                 {
                     "id": 2,
                     "number": 1,
-                    "name": "Making Money My Friend",
-                    "urlName": "making-money-my-friend",
+                    "name": "Imagining Your Future",
+                    "urlName": "imagining-your-future",
                     "pages": [
                         {
                             "id": 1,
                             "name": "Lesson Roadmap",
                             "urlName": "roadmap"
-                        },
+                        },                       
                         {
                             "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
+                            "name": "The Future You",
+                            "urlName": "the-future-you"
                         },
-                        
                         {
                             "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
+                            "name": "Activities",
+                            "urlName": "activities"
                         },
-                      
                         {
                             "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
+                            "name": "Let's Talk About It",
+                            "urlName": "discussion"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Wrap it up",
+                            "urlName": "summary"
                         }
                        
                     ]
@@ -108,105 +120,33 @@
                 {
                     "id": 3,
                     "number": 2,
-                    "name": "Money Messages",
-                    "urlName": "money-messages",
+                    "name": "Your Relationship to Money",
+                    "urlName": "your-relationship-to-money",
                     "pages": [
                         {
                             "id": 1,
                             "name": "Lesson Roadmap",
                             "urlName": "roadmap"
-                        },
+                        },                       
                         {
                             "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
+                            "name": "Making Money My Friend",
+                            "urlName": "making-money-my-friend"
                         },
-                        
                         {
                             "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
+                            "name": "Activities",
+                            "urlName": "activities"
                         },
-                      
                         {
                             "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 4,
-                    "number": 3,
-                    "name": "Walk Through a Bank",
-                    "urlName": "walk-through-a-bank",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
+                            "name": "Let's Talk About It",
+                            "urlName": "discussion"
                         },
                         {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 5,
-                    "number": 4,
-                    "name": "Money in the Media",
-                    "urlName": "money-in-the-media",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 6,
-                    "number": 5,
-                    "name": "Financial Opinion",
-                    "urlName": "financial-opinion",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
+                            "id": 5,
+                            "name": "Wrap it up",
+                            "urlName": "summary"
                         }
                        
                     ]
@@ -216,36 +156,40 @@
         {
             "id": 3,
             "number": 2,
-            "name": "Planning, Tracking and Saving",
-            "urlName": "planning-tracking-and-saving",
+            "name": "Saving It, Spending It, Making It",
+            "urlName": "saving-spending-making-money",
             "comingSoon": false,
             "sessions": [
                 {
                     "id": 1,
                     "number": 0,
-                    "name": "Budgets: Enemies of Debt",
-                    "urlName": "budgets-enemies-of-debt",
+                    "name": "The Importance of Saving",
+                    "urlName": "the-importance-of-saving",
                     "pages": [
                         {
                             "id": 1,
                             "name": "Lesson Roadmap",
                             "urlName": "roadmap"
-                        },                        {
+                        },                       
+                        {
                             "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
+                            "name": "Save Early and Often",
+                            "urlName": "save-early-and-often"
                         },
-                        
                         {
                             "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
+                            "name": "Activities",
+                            "urlName": "activities"
                         },
-                      
                         {
                             "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
+                            "name": "Let's Talk About It",
+                            "urlName": "discussion"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Wrap it up",
+                            "urlName": "summary"
                         }
                        
                     ]
@@ -253,29 +197,68 @@
                 {
                     "id": 2,
                     "number": 1,
-                    "name": "Checking and Savings Accounts",
-                    "urlName": "checking-and-savings-accounts",
+                    "name": "Money Habits Matter",
+                    "urlName": "money-habits-matter",
                     "pages": [
                         {
                             "id": 1,
                             "name": "Lesson Roadmap",
                             "urlName": "roadmap"
-                        },                        {
+                        },                       
+                        {
                             "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
+                            "name": "Your Spending Habits Can Get You in Trouble",
+                            "urlName": "spending-habits"
                         },
-                        
                         {
                             "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
+                            "name": "Activities",
+                            "urlName": "activities"
                         },
-                      
                         {
                             "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
+                            "name": "Let's Talk About It",
+                            "urlName": "discussion"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Wrap it up",
+                            "urlName": "summary"
+                        }
+
+                       
+                    ]
+                },
+                {
+                    "id": 3,
+                    "number": 2,
+                    "name": "Interest Rates",
+                    "urlName": "interest-rates",
+                    "pages": [
+                        {
+                            "id": 1,
+                            "name": "Lesson Roadmap",
+                            "urlName": "roadmap"
+                        },                       
+                        {
+                            "id": 2,
+                            "name": "How Much Does This Money Cost?",
+                            "urlName": "cost-of-money"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Activities",
+                            "urlName": "activities"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Let's Talk About It",
+                            "urlName": "discussion"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Wrap it up",
+                            "urlName": "summary"
                         }
                        
                     ]
@@ -283,59 +266,33 @@
                 {
                     "id": 3,
                     "number": 2,
-                    "name": "Tracking Progress",
-                    "urlName": "tracking-progress",
+                    "name": "Making Money",
+                    "urlName": "making-money",
                     "pages": [
                         {
                             "id": 1,
                             "name": "Lesson Roadmap",
                             "urlName": "roadmap"
-                        },                        {
+                        },                       
+                        {
                             "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
+                            "name": "Making Money by Solving Problems",
+                            "urlName": "making-money-by-solving-problems"
                         },
-                        
                         {
                             "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
+                            "name": "Activities",
+                            "urlName": "activities"
                         },
-                      
                         {
                             "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 3,
-                    "number": 2,
-                    "name": "Making Your Budget",
-                    "urlName": "making-your-budget",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
+                            "name": "Let's Talk About It",
+                            "urlName": "discussion"
                         },
-                        
                         {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
+                            "id": 5,
+                            "name": "Wrap it up",
+                            "urlName": "summary"
                         }
                        
                     ]
@@ -345,128 +302,21 @@
         {
             "id": 4,
             "number": 3,
-            "name": "Making Money",
-            "urlName": "making-money",
+            "name": "Budgeting",
+            "urlName": "budgeting",
             "comingSoon": true,
             "sessions": [
                 {
                     "id": 1,
                     "number": 0,
-                    "name": "Visualize Your Future",
-                    "urlName": "visualize-your-future",
+                    "name": "Budgeting",
+                    "urlName": "budgeting",
                     "pages": [
                         {
                             "id": 1,
                             "name": "Lesson Roadmap",
                             "urlName": "roadmap"
-                        },                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
                         }
-                       
-                    ]
-                },
-                {
-                    "id": 2,
-                    "number": 1,
-                    "name": "Choosing a Career",
-                    "urlName": "choosing-a-career",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 2,
-                    "number": 1,
-                    "name": "Work-Life Balance",
-                    "urlName": "work-life-balance",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 3,
-                    "number": 2,
-                    "name": "Determining Progress",
-                    "urlName": "determining-progress",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
                     ]
                 }
             ]

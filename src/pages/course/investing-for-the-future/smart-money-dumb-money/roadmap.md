@@ -1,6 +1,6 @@
 ---
-previousText: "Page 4"
-previousUrl: "/course/making-money/determining-progress/page-four"
+previousText: "Lesson Roadmap"
+previousUrl: "/course/budgeting/budgeting/roadmap"
 nextText: "Page 2"
 nextUrl: "/course/investing-for-the-future/smart-money-dumb-money/page-two"
 courseModuleId: "5"

@@ -17,39 +17,39 @@
           "pages": [
             {
               "id": 1,
-              "name": "Page 1",
-              "urlName": "page-one",
+              "name": "Meet the Giga Girls",
+              "urlName": "meet-the-giga-girls",
               "previousText": "",
               "previousUrl": "",
-              "nextText": "Page 2",
-              "nextUrl": "/course/introduction/welcome/page-two"
+              "nextText": "Roadmap to Me & My Money",
+              "nextUrl": "/course/introduction/welcome/roadmap"
             },
             {
               "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
-              "previousText": "Page 1",
-              "previousUrl": "/course/introduction/welcome/page-one",
-              "nextText": "Page 3",
-              "nextUrl": "/course/introduction/welcome/page-three"
+              "name": "Roadmap to Me & My Money",
+              "urlName": "roadmap",
+              "previousText": "Meet the Giga Girls",
+              "previousUrl": "/course/introduction/welcome/meet-the-giga-girls",
+              "nextText": "What do you know?",
+              "nextUrl": "/course/introduction/welcome/what-do-you-know"
             },
             {
               "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/introduction/welcome/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/introduction/welcome/page-four"
+              "name": "What do you know?",
+              "urlName": "what-do-you-know",
+              "previousText": "Roadmap to Me & My Money",
+              "previousUrl": "/course/introduction/welcome/roadmap",
+              "nextText": "What do you think?",
+              "nextUrl": "/course/introduction/welcome/what-do-you-think"
             },
             {
               "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/introduction/welcome/page-three",
+              "name": "What do you think?",
+              "urlName": "what-do-you-think",
+              "previousText": "What do you know?",
+              "previousUrl": "/course/introduction/welcome/what-do-you-know",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/me-and-my-money/attitudes-toward-money/roadmap"
+              "nextUrl": "/course/money-messages/whats-your-money-story/roadmap"
             }
           ]
         }
@@ -58,234 +58,165 @@
     {
       "id": 2,
       "number": 1,
-      "name": "Me and My Money",
-      "urlName": "me-and-my-money",
+      "name": "Money Messages",
+      "urlName": "money-messages",
       "sessions": [
         {
           "id": 1,
           "number": 0,
-          "name": "Attitudes Toward Money",
-          "urlName": "attitudes-toward-money",
+          "name": "What's Your Money Story",
+          "urlName": "whats-your-money-story",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/introduction/welcome/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/me-and-my-money/attitudes-toward-money/page-two"
+              "previousText": "What do you think?",
+              "previousUrl": "/course/introduction/welcome/what-do-you-think",
+              "nextText": "Your Money Story",
+              "nextUrl": "/course/money-messages/whats-your-money-story/your-money-story"
             },
             {
               "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
+              "name": "Your Money Story",
+              "urlName": "your-money-story",
               "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/me-and-my-money/attitudes-toward-money/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/me-and-my-money/attitudes-toward-money/page-three"
+              "previousUrl": "/course/money-messages/whats-your-money-story/roadmap",
+              "nextText": "Activities",
+              "nextUrl": "/course/money-messages/whats-your-money-story/activities"
             },
             {
               "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/me-and-my-money/attitudes-toward-money/page-two",
+              "name": "Activities",
+              "urlName": "activities",
+              "previousText": "Your Money Story",
+              "previousUrl": "/course/money-messages/whats-your-money-story/your-money-story",
+              "nextText": "Let's Talk About It",
+              "nextUrl": "/course/money-messages/whats-your-money-story/discussion"
+            },
+            {
+              "id": 4,
+              "name": "Let's Talk About It",
+              "urlName": "discussion",
+              "previousText": "Activities",
+              "previousUrl": "/course/money-messages/whats-your-money-story/activities",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/money-messages/whats-your-money-story/summary"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Let's Talk About It",
+              "previousUrl": "/course/money-messages/whats-your-money-story/discussion",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/me-and-my-money/making-money-my-friend/roadmap"
+              "nextUrl": "/course/money-messages/imagining-your-future/roadmap"
             }
           ]
         },
         {
           "id": 2,
           "number": 1,
-          "name": "Making Money My Friend",
-          "urlName": "making-money-my-friend",
+          "name": "Imagining Your Future",
+          "urlName": "imagining-your-future",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 3",
-              "previousUrl": "/course/me-and-my-money/attitudes-toward-money/page-three",
-              "nextText": "Page 2",
-              "nextUrl": "/course/me-and-my-money/making-money-my-friend/page-two"
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/money-messages/whats-your-money-story/summary",
+              "nextText": "The Future You",
+              "nextUrl": "/course/money-messages/imagining-your-future/the-future-you"
             },
             {
               "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
+              "name": "The Future You",
+              "urlName": "the-future-you",
               "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/me-and-my-money/making-money-my-friend/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/me-and-my-money/making-money-my-friend/page-three"
+              "previousUrl": "/course/money-messages/imagining-your-future/roadmap",
+              "nextText": "Activities",
+              "nextUrl": "/course/money-messages/imagining-your-future/activities"
             },
             {
               "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/me-and-my-money/making-money-my-friend/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/me-and-my-money/making-money-my-friend/page-four"
+              "name": "Activities",
+              "urlName": "activities",
+              "previousText": "The Future You",
+              "previousUrl": "/course/money-messages/imagining-your-future/the-future-you",
+              "nextText": "Let's Talk About It",
+              "nextUrl": "/course/money-messages/imagining-your-future/discussion"
             },
             {
               "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/me-and-my-money/making-money-my-friend/page-three",
+              "name": "Let's Talk About It",
+              "urlName": "discussion",
+              "previousText": "Activities",
+              "previousUrl": "/course/money-messages/imagining-your-future/activities",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/money-messages/imagining-your-future/summary"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Let's Talk About It",
+              "previousUrl": "/course/money-messages/imagining-your-future/discussion",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/me-and-my-money/money-messages/roadmap"
+              "nextUrl": "/course/money-messages/your-relationship-to-money/roadmap"
             }
           ]
         },
         {
           "id": 3,
           "number": 2,
-          "name": "Money Messages",
-          "urlName": "money-messages",
+          "name": "Your Relationship to Money",
+          "urlName": "your-relationship-to-money",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/me-and-my-money/making-money-my-friend/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/me-and-my-money/money-messages/page-two"
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/money-messages/imagining-your-future/summary",
+              "nextText": "Making Money My Friend",
+              "nextUrl": "/course/money-messages/your-relationship-to-money/making-money-my-friend"
             },
             {
               "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
+              "name": "Making Money My Friend",
+              "urlName": "making-money-my-friend",
               "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/me-and-my-money/money-messages/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/me-and-my-money/money-messages/page-three"
+              "previousUrl": "/course/money-messages/your-relationship-to-money/roadmap",
+              "nextText": "Activities",
+              "nextUrl": "/course/money-messages/your-relationship-to-money/activities"
             },
             {
               "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/me-and-my-money/money-messages/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/me-and-my-money/money-messages/page-four"
+              "name": "Activities",
+              "urlName": "activities",
+              "previousText": "Making Money My Friend",
+              "previousUrl": "/course/money-messages/your-relationship-to-money/making-money-my-friend",
+              "nextText": "Let's Talk About It",
+              "nextUrl": "/course/money-messages/your-relationship-to-money/discussion"
             },
             {
               "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/me-and-my-money/money-messages/page-three",
+              "name": "Let's Talk About It",
+              "urlName": "discussion",
+              "previousText": "Activities",
+              "previousUrl": "/course/money-messages/your-relationship-to-money/activities",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/money-messages/your-relationship-to-money/summary"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Let's Talk About It",
+              "previousUrl": "/course/money-messages/your-relationship-to-money/discussion",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/me-and-my-money/walk-through-a-bank/roadmap"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "number": 3,
-          "name": "Walk Through a Bank",
-          "urlName": "walk-through-a-bank",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/me-and-my-money/money-messages/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/me-and-my-money/walk-through-a-bank/page-two"
-            },
-            {
-              "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/me-and-my-money/walk-through-a-bank/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/me-and-my-money/walk-through-a-bank/page-three"
-            },
-            {
-              "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/me-and-my-money/walk-through-a-bank/page-two",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/me-and-my-money/money-in-the-media/roadmap"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "number": 4,
-          "name": "Money in the Media",
-          "urlName": "money-in-the-media",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Page 3",
-              "previousUrl": "/course/me-and-my-money/walk-through-a-bank/page-three",
-              "nextText": "Page 2",
-              "nextUrl": "/course/me-and-my-money/money-in-the-media/page-two"
-            },
-            {
-              "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/me-and-my-money/money-in-the-media/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/me-and-my-money/money-in-the-media/page-three"
-            },
-            {
-              "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/me-and-my-money/money-in-the-media/page-two",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/me-and-my-money/financial-opinion/roadmap"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "number": 5,
-          "name": "Financial Opinion",
-          "urlName": "financial-opinion",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Page 3",
-              "previousUrl": "/course/me-and-my-money/money-in-the-media/page-three",
-              "nextText": "Page 2",
-              "nextUrl": "/course/me-and-my-money/financial-opinion/page-two"
-            },
-            {
-              "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/me-and-my-money/financial-opinion/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/me-and-my-money/financial-opinion/page-three"
-            },
-            {
-              "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/me-and-my-money/financial-opinion/page-two",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/roadmap"
+              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/roadmap"
             }
           ]
         }
@@ -294,183 +225,219 @@
     {
       "id": 3,
       "number": 2,
-      "name": "Planning, Tracking and Saving",
-      "urlName": "planning-tracking-and-saving",
-      "comingSoon": true,
+      "name": "Saving It, Spending It, Making It",
+      "urlName": "saving-spending-making-money",
+      "comingSoon": false,
       "sessions": [
         {
           "id": 1,
           "number": 0,
-          "name": "Budgets: Enemies of Debt",
-          "urlName": "budgets-enemies-of-debt",
+          "name": "The Importance of Saving",
+          "urlName": "the-importance-of-saving",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 3",
-              "previousUrl": "/course/me-and-my-money/financial-opinion/page-three",
-              "nextText": "Page 2",
-              "nextUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-two"
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/money-messages/your-relationship-to-money/summary",
+              "nextText": "Save Early and Often",
+              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/save-early-and-often"
             },
             {
               "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
+              "name": "Save Early and Often",
+              "urlName": "save-early-and-often",
               "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-three"
+              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/roadmap",
+              "nextText": "Activities",
+              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/activities"
             },
             {
               "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-four"
+              "name": "Activities",
+              "urlName": "activities",
+              "previousText": "Save Early and Often",
+              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/save-early-and-often",
+              "nextText": "Let's Talk About It",
+              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/discussion"
             },
             {
               "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-three",
+              "name": "Let's Talk About It",
+              "urlName": "discussion",
+              "previousText": "Activities",
+              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/activities",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/summary"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Let's Talk About It",
+              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/discussion",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/roadmap"
+              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/roadmap"
             }
           ]
         },
         {
           "id": 2,
           "number": 1,
-          "name": "Checking and Savings Accounts",
-          "urlName": "checking-and-savings-accounts",
+          "name": "Money Habits Matter",
+          "urlName": "money-habits-matter",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/planning-tracking-and-saving/budgets-enemies-of-debt/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-two"
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/summary",
+              "nextText": "Your Spending Habits Can Get You in Trouble",
+              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/spending-habits"
             },
             {
               "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
+              "name": "Your Spending Habits Can Get You in Trouble",
+              "urlName": "spending-habits",
               "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-three"
+              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/roadmap",
+              "nextText": "Activities",
+              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/activities"
             },
             {
               "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-four"
+              "name": "Activities",
+              "urlName": "activities",
+              "previousText": "Your Spending Habits Can Get You in Trouble",
+              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/spending-habits",
+              "nextText": "Let's Talk About It",
+              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/discussion"
             },
             {
               "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-three",
+              "name": "Let's Talk About It",
+              "urlName": "discussion",
+              "previousText": "Activities",
+              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/activities",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/summary"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Let's Talk About It",
+              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/discussion",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/planning-tracking-and-saving/tracking-progress/roadmap"
+              "nextUrl": "/course/saving-spending-making-money/interest-rates/roadmap"
             }
           ]
         },
         {
           "id": 3,
           "number": 2,
-          "name": "Tracking Progress",
-          "urlName": "tracking-progress",
+          "name": "Interest Rates",
+          "urlName": "interest-rates",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/planning-tracking-and-saving/checking-and-savings-accounts/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/planning-tracking-and-saving/tracking-progress/page-two"
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/summary",
+              "nextText": "How Much Does This Money Cost?",
+              "nextUrl": "/course/saving-spending-making-money/interest-rates/cost-of-money"
             },
             {
               "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
+              "name": "How Much Does This Money Cost?",
+              "urlName": "cost-of-money",
               "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/planning-tracking-and-saving/tracking-progress/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/planning-tracking-and-saving/tracking-progress/page-three"
+              "previousUrl": "/course/saving-spending-making-money/interest-rates/roadmap",
+              "nextText": "Activities",
+              "nextUrl": "/course/saving-spending-making-money/interest-rates/activities"
             },
             {
               "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/planning-tracking-and-saving/tracking-progress/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/planning-tracking-and-saving/tracking-progress/page-four"
+              "name": "Activities",
+              "urlName": "activities",
+              "previousText": "How Much Does This Money Cost?",
+              "previousUrl": "/course/saving-spending-making-money/interest-rates/cost-of-money",
+              "nextText": "Let's Talk About It",
+              "nextUrl": "/course/saving-spending-making-money/interest-rates/discussion"
             },
             {
               "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/planning-tracking-and-saving/tracking-progress/page-three",
+              "name": "Let's Talk About It",
+              "urlName": "discussion",
+              "previousText": "Activities",
+              "previousUrl": "/course/saving-spending-making-money/interest-rates/activities",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/saving-spending-making-money/interest-rates/summary"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Let's Talk About It",
+              "previousUrl": "/course/saving-spending-making-money/interest-rates/discussion",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/planning-tracking-and-saving/making-your-budget/roadmap"
+              "nextUrl": "/course/saving-spending-making-money/making-money/roadmap"
             }
           ]
         },
         {
           "id": 4,
           "number": 3,
-          "name": "Making Your Budget",
-          "urlName": "making-your-budget",
+          "name": "Making Money",
+          "urlName": "making-money",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/planning-tracking-and-saving/tracking-progress/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/planning-tracking-and-saving/making-your-budget/page-two"
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/saving-spending-making-money/interest-rates/summary",
+              "nextText": "Making Money by Solving Problems",
+              "nextUrl": "/course/saving-spending-making-money/making-money/making-money-by-solving-problems"
             },
             {
               "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
+              "name": "Making Money by Solving Problems",
+              "urlName": "making-money-by-solving-problems",
               "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/planning-tracking-and-saving/making-your-budget/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/planning-tracking-and-saving/making-your-budget/page-three"
+              "previousUrl": "/course/saving-spending-making-money/making-money/roadmap",
+              "nextText": "Activities",
+              "nextUrl": "/course/saving-spending-making-money/making-money/activities"
             },
             {
               "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/planning-tracking-and-saving/making-your-budget/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/planning-tracking-and-saving/making-your-budget/page-four"
+              "name": "Activities",
+              "urlName": "activities",
+              "previousText": "Making Money by Solving Problems",
+              "previousUrl": "/course/saving-spending-making-money/making-money/making-money-by-solving-problems",
+              "nextText": "Let's Talk About It",
+              "nextUrl": "/course/saving-spending-making-money/making-money/discussion"
             },
             {
               "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/planning-tracking-and-saving/making-your-budget/page-three",
+              "name": "Let's Talk About It",
+              "urlName": "discussion",
+              "previousText": "Activities",
+              "previousUrl": "/course/saving-spending-making-money/making-money/activities",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/saving-spending-making-money/making-money/summary"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Let's Talk About It",
+              "previousUrl": "/course/saving-spending-making-money/making-money/discussion",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/making-money/visualize-your-future/roadmap"
+              "nextUrl": "/course/budgeting/budgeting/roadmap"
             }
           ]
         }
@@ -479,181 +446,22 @@
     {
       "id": 4,
       "number": 3,
-      "name": "Making Money",
-      "urlName": "making-money",
+      "name": "Budgeting",
+      "urlName": "budgeting",
       "comingSoon": true,
       "sessions": [
         {
           "id": 1,
           "number": 0,
-          "name": "Visualize Your Future",
-          "urlName": "visualize-your-future",
+          "name": "Budgeting",
+          "urlName": "budgeting",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/planning-tracking-and-saving/making-your-budget/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/making-money/visualize-your-future/page-two"
-            },
-            {
-              "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/making-money/visualize-your-future/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/making-money/visualize-your-future/page-three"
-            },
-            {
-              "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/making-money/visualize-your-future/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/making-money/visualize-your-future/page-four"
-            },
-            {
-              "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/making-money/visualize-your-future/page-three",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/making-money/choosing-a-career/roadmap"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "number": 1,
-          "name": "Choosing a Career",
-          "urlName": "choosing-a-career",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/making-money/visualize-your-future/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/making-money/choosing-a-career/page-two"
-            },
-            {
-              "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/making-money/choosing-a-career/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/making-money/choosing-a-career/page-three"
-            },
-            {
-              "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/making-money/choosing-a-career/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/making-money/choosing-a-career/page-four"
-            },
-            {
-              "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/making-money/choosing-a-career/page-three",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/making-money/work-life-balance/roadmap"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "number": 2,
-          "name": "Work-Life Balance",
-          "urlName": "work-life-balance",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/making-money/choosing-a-career/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/making-money/work-life-balance/page-two"
-            },
-            {
-              "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/making-money/work-life-balance/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/making-money/work-life-balance/page-three"
-            },
-            {
-              "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/making-money/work-life-balance/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/making-money/work-life-balance/page-four"
-            },
-            {
-              "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/making-money/work-life-balance/page-three",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/making-money/determining-progress/roadmap"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "number": 3,
-          "name": "Determining Progress",
-          "urlName": "determining-progress",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/making-money/work-life-balance/page-four",
-              "nextText": "Page 2",
-              "nextUrl": "/course/making-money/determining-progress/page-two"
-            },
-            {
-              "id": 2,
-              "name": "Page 2",
-              "urlName": "page-two",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/making-money/determining-progress/roadmap",
-              "nextText": "Page 3",
-              "nextUrl": "/course/making-money/determining-progress/page-three"
-            },
-            {
-              "id": 3,
-              "name": "Page 3",
-              "urlName": "page-three",
-              "previousText": "Page 2",
-              "previousUrl": "/course/making-money/determining-progress/page-two",
-              "nextText": "Page 4",
-              "nextUrl": "/course/making-money/determining-progress/page-four"
-            },
-            {
-              "id": 4,
-              "name": "Page 4",
-              "urlName": "page-four",
-              "previousText": "Page 3",
-              "previousUrl": "/course/making-money/determining-progress/page-three",
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/saving-spending-making-money/making-money/summary",
               "nextText": "Lesson Roadmap",
               "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/roadmap"
             }
@@ -678,8 +486,8 @@
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Page 4",
-              "previousUrl": "/course/making-money/determining-progress/page-four",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/budgeting/budgeting/roadmap",
               "nextText": "Page 2",
               "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-two"
             },
