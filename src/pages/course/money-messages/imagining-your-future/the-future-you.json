@@ -17,10 +17,10 @@
         "class": "intro"
       },
       [
-        "img",
+        "sparkle-animation-player",
         {
-          "src": "/assets/img/animation-placeholder.jpg",
-          "alt": "Animation Placeholder"
+          "src": "./animation/m1l2.js",
+          "composition": "638B95A6DB07944F929B6468659DDD15"
         }
       ]
     ]
