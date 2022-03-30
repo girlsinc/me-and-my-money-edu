@@ -25,3 +25,6 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 .env
 package-lock.json
+
+#ignore course json files
+src/pages/course/**/*.json
