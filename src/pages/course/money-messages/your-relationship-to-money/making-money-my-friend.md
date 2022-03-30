@@ -10,4 +10,4 @@ pageId: "4"
 
 
 # Making Money My Friend
-![Animation Placeholder](/assets/img/animation-placeholder.jpg)
+<sparkle-animation-player src="./animation/m1l3.js" composition="1163EC6AA8104A49BCA181E33ACCBFB2"></sparkle-animation-player>
