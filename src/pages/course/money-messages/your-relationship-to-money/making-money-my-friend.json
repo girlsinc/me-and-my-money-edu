@@ -1,5 +1,5 @@
 {
-  "path": "C:/repos/me-and-my-money-edu/src/pages/course/money-messages/your-relationship-to-money/making-money-my-friend",
+  "path": "F:/SparkleCoures/me-and-my-money-edu/src/pages/course/money-messages/your-relationship-to-money/making-money-my-friend",
   "github": null,
   "previousText": "Lesson Roadmap",
   "previousUrl": "/course/money-messages/your-relationship-to-money/roadmap",
@@ -17,10 +17,10 @@
         "class": "intro"
       },
       [
-        "img",
+        "sparkle-animation-player",
         {
-          "src": "/assets/img/animation-placeholder.jpg",
-          "alt": "Animation Placeholder"
+          "src": "./animation/m1l3.js",
+          "composition": "1163EC6AA8104A49BCA181E33ACCBFB2"
         }
       ]
     ]
@@ -32,5 +32,5 @@
     "pageId": "4"
   },
   "headings": [],
-  "pageClass": "page-c-repos-me-and-my-money-edu-src-pages-course-money-messages-your-relationship-to-money-making-money-my-friend"
+  "pageClass": "page-f-sparklecoures-me-and-my-money-edu-src-pages-course-money-messages-your-relationship-to-money-making-money-my-friend"
 }
