@@ -9,12 +9,3 @@ pageId: "4"
 ---
 
 
-# Roadmap
-
-<img src="/assets/img/roadmap.png" />
-
-# In this lesson you will learn about
-
-- Conscious and subconscious attitudes
-- Impressions of banks
-- Taking charge of your attitudes

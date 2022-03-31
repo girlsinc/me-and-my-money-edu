@@ -147,9 +147,13 @@ export class AppRoot {
           <stencil-router class={layout}>
             <stencil-route style={{ display: 'none' }} routeRender={this.setHistory} />
             <stencil-route-switch scrollTopOffset={0}>
-              <stencil-route url="/" exact={true}>
-                <stencil-router-redirect url={this.getFirstLessonUrl()} />
-              </stencil-route>
+              <stencil-route
+                url="/"
+                exact={true}
+                routeRender={() => {
+                  return <stencil-router-redirect url={this.getFirstLessonUrl()} />;
+                }}
+              />
               <stencil-route url="/unauthorized" routeRender={() => [this.renderHeaderAndMenu(), <sparkle-unauthorized />]} />
               <stencil-route
                 url="/course/:page*"
@@ -212,4 +216,3 @@ export class AppRoot {
   }
 }
 injectHistory(AppRoot);
-
