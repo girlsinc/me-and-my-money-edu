@@ -8,6 +8,7 @@ sessionId: "4"
 pageId: "4"
 ---
 
+
 <sparkle-character-intro position="right" character="yuna">
 Welcome to Lesson on What's Your Money Story
 </sparkle-character-intro>

@@ -10,4 +10,4 @@ pageId: "4"
 
 
 # Making Money By Solving Problems
-![Animation Placeholder](/assets/img/animation-placeholder.jpg)
+<sparkle-animation-player src="./animation/m2l4.js" composition="EECE8C272624E84AA3158D35CA0F324A"></sparkle-animation-player>
