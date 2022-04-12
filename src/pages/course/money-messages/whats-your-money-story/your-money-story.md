@@ -10,4 +10,4 @@ pageId: "4"
 
 
 # What's Your Money Story
-![Animation Placeholder](/assets/img/animation-placeholder.jpg)
+<sparkle-animation-player src="./animation/m1l1.js" composition="4ED0DA6321935945901B9E722BAF61D7"></sparkle-animation-player>
