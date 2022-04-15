@@ -10,4 +10,5 @@ pageId: "4"
 
 
 # Save Early and Often
-![Animation Placeholder](/assets/img/animation-placeholder.jpg)
+
+<sparkle-animation-player src="./animation/m2l1.js" composition="09A70023A181714FB467581C7506EFA7"></sparkle-animation-player>
