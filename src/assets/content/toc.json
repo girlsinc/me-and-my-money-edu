@@ -20,7 +20,6 @@
                             "name": "Meet the Giga Girls",
                             "urlName": "meet-the-giga-girls"
                         },
-                       
                         {
                             "id": 2,
                             "name": "Roadmap to Me & My Money",
@@ -29,16 +28,9 @@
                         
                         {
                             "id": 3,
-                            "name": "What do you know?",
-                            "urlName": "what-do-you-know"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "What do you think?",
-                            "urlName": "what-do-you-think"
+                            "name": "Getting to Know You",
+                            "urlName": "getting-to-know-you-activity-one"
                         }
-                       
                     ]
                 }
             ]
@@ -49,6 +41,31 @@
             "name": "Money Messages",
             "urlName": "money-messages",
             "sessions": [
+                {
+                    "id": 0,
+                    "number": 0,
+                    "preventNumbering": true,
+                    "name": "Introduction",
+                    "urlName": "introduction",
+                    "pages": [
+                        {
+                            "id": 1,
+                            "name": "Module Roadmap",
+                            "urlName": "roadmap"
+                        },
+                        {
+                            "id": 2,
+                            "name": "What do you know?",
+                            "urlName": "what-do-you-know"
+                        },
+                      
+                        {
+                            "id": 3,
+                            "name": "What do you think?",
+                            "urlName": "what-do-you-think"
+                        }
+                    ]
+                },
                 {
                     "id": 1,
                     "number": 0,
@@ -77,11 +94,16 @@
                         },
                         {
                             "id": 5,
-                            "name": "Let's Talk About It",
+                            "name": "Take Action",
                             "urlName": "discussion"
                         },
                         {
                             "id": 6,
+                            "name": "Journal or Post it",
+                            "urlName": "journal-or-post-it"
+                        },
+                        {
+                            "id": 7,
                             "name": "Wrap it up",
                             "urlName": "summary"
                         }
@@ -111,11 +133,16 @@
                         },
                         {
                             "id": 4,
-                            "name": "Let's Talk About It",
-                            "urlName": "discussion"
+                            "name": "Take Action",
+                            "urlName": "take-action"
                         },
                         {
                             "id": 5,
+                            "name": "Journal or Post it",
+                            "urlName": "journal-or-post-it"
+                        },
+                        {
+                            "id": 6,
                             "name": "Wrap it up",
                             "urlName": "summary"
                         }
@@ -145,15 +172,40 @@
                         },
                         {
                             "id": 4,
-                            "name": "Let's Talk About It",
+                            "name": "Take Action",
                             "urlName": "discussion"
                         },
                         {
                             "id": 5,
+                            "name": "Journal or Post it",
+                            "urlName": "journal-or-post-it"
+                        },
+                        {
+                            "id": 6,
                             "name": "Wrap it up",
                             "urlName": "summary"
                         }
                        
+                    ]
+                },
+                {
+                    "id": 4,
+                    "number": 0,
+                    "preventNumbering": true,
+                    "name": "Conclusion",
+                    "urlName": "conclusion",
+                    "pages": [
+                        {
+                            "id": 1,
+                            "name": "What did you learn?",
+                            "urlName": "what-do-you-know"
+                        },
+                      
+                        {
+                            "id": 2,
+                            "name": "What do you think?",
+                            "urlName": "what-do-you-think"
+                        }
                     ]
                 }
             ]
@@ -165,6 +217,31 @@
             "urlName": "saving-spending-making-money",
             "comingSoon": false,
             "sessions": [
+                {
+                    "id": 0,
+                    "number": 0,
+                    "preventNumbering": true,
+                    "name": "Introduction",
+                    "urlName": "introduction",
+                    "pages": [
+                        {
+                            "id": 1,
+                            "name": "Module Roadmap",
+                            "urlName": "roadmap"
+                        },
+                        {
+                            "id": 2,
+                            "name": "What do you know?",
+                            "urlName": "what-do-you-know"
+                        },
+                      
+                        {
+                            "id": 3,
+                            "name": "What do you think?",
+                            "urlName": "what-do-you-think"
+                        }
+                    ]
+                },
                 {
                     "id": 1,
                     "number": 0,
@@ -188,11 +265,16 @@
                         },
                         {
                             "id": 4,
-                            "name": "Let's Talk About It",
+                            "name": "Take Action",
                             "urlName": "discussion"
                         },
                         {
                             "id": 5,
+                            "name": "Journal or Post it",
+                            "urlName": "journal-or-post-it"
+                        },
+                        {
+                            "id": 6,
                             "name": "Wrap it up",
                             "urlName": "summary"
                         }
@@ -222,11 +304,16 @@
                         },
                         {
                             "id": 4,
-                            "name": "Let's Talk About It",
+                            "name": "Take Action",
                             "urlName": "discussion"
                         },
                         {
                             "id": 5,
+                            "name": "Journal or Post it",
+                            "urlName": "journal-or-post-it"
+                        },
+                        {
+                            "id": 6,
                             "name": "Wrap it up",
                             "urlName": "summary"
                         }
@@ -252,16 +339,26 @@
                         },
                         {
                             "id": 3,
+                            "name": "Key Learnings",
+                            "urlName": "key-learnings"
+                        },
+                        {
+                            "id": 4,
                             "name": "Activities",
                             "urlName": "activities"
                         },
                         {
-                            "id": 4,
-                            "name": "Let's Talk About It",
+                            "id": 5,
+                            "name": "Take Action",
                             "urlName": "discussion"
                         },
                         {
-                            "id": 5,
+                            "id": 6,
+                            "name": "Journal or Post it",
+                            "urlName": "journal-or-post-it"
+                        },
+                        {
+                            "id": 7,
                             "name": "Wrap it up",
                             "urlName": "summary"
                         }
@@ -269,7 +366,7 @@
                     ]
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "number": 2,
                     "name": "Making Money",
                     "urlName": "making-money",
@@ -291,15 +388,40 @@
                         },
                         {
                             "id": 4,
-                            "name": "Let's Talk About It",
+                            "name": "Take Action",
                             "urlName": "discussion"
                         },
                         {
                             "id": 5,
+                            "name": "Journal or Post it",
+                            "urlName": "journal-or-post-it"
+                        },
+                        {
+                            "id": 6,
                             "name": "Wrap it up",
                             "urlName": "summary"
                         }
                        
+                    ]
+                },
+                {
+                    "id": 5,
+                    "number": 0,
+                    "preventNumbering": true,
+                    "name": "Conclusion",
+                    "urlName": "conclusion",
+                    "pages": [
+                        {
+                            "id": 1,
+                            "name": "What did you learn?",
+                            "urlName": "what-do-you-know"
+                        },
+                      
+                        {
+                            "id": 2,
+                            "name": "What do you think?",
+                            "urlName": "what-do-you-think"
+                        }
                     ]
                 }
             ]

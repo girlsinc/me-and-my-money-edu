@@ -1,4 +1,206 @@
+
 {
+    "101": {
+        "questionId": 101,
+        "questionText": "What are your thoughts about the importance of money in our lives?",
+        "questionType": "TEXT",
+        "showOptionNumber": true
+    },
+
+    "102": {
+        "questionId": 102,
+        "questionText": "Is energy important in acquiring more money?",
+        "questionType": "MULTIPLE-CHOICE",
+        "showOptionNumber": true,
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    "103": {
+        "questionId": 103,
+        "questionText": "Is your future vision important in having large sums of money one day?",
+        "questionType": "MULTIPLE-CHOICE",
+        "showOptionNumber": true,
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    "104": {
+        "questionId": 104,
+        "questionText": "Is it important to keep company with people who have a good attitude toward money?",
+        "questionType": "MULTIPLE-CHOICE",
+        "showOptionNumber": true,
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    "105": {
+        "questionId": 105,
+        "questionText": "I feel confident with the way I receive, budget and keep track of money either in the form of an allowance or earnings from a job.",
+        "questionType": "OPINION",
+        "scale": "TEN-POINTS"
+    },
+    "106": {
+        "questionId": 106,
+        "questionText": "I always keep my financial commitments. I pay all my bills on time.",
+        "questionType": "OPINION",
+        "scale": "TEN-POINTS"
+    },
+    "107": {
+        "questionId": 107,
+        "questionText": "I am happy with my relationship with money. I have positive feelings about it.",
+        "questionType": "OPINION",
+        "scale": "TEN-POINTS"
+    },
+    "108": {
+        "questionId": 108,
+        "questionText": "I spend wisely. I don’t overspend.",
+        "questionType": "OPINION",
+        "scale": "TEN-POINTS"
+    },
+    "111": {
+        "questionId": 111,
+        "questionText": "Describe the highlights of your experiences with money and share how you felt about them.",
+        "questionType": "TEXT"
+    },
+    "121": {
+        "questionId": 121,
+        "questionText": "Describe the highlights of your most memorable feelings and experiences with money and share how you felt about them.",
+        "questionType": "TEXT"
+    },
+    "131": {
+        "questionId": 131,
+        "questionText": "Rewrite your financial story—-the story you tell yourself about money—and fill it with examples of abundance you wish for!",
+        "questionType": "TEXT"
+    },
+    "201": {
+        "questionId": 201,
+        "questionText": "What are your thoughts about the importance saving money for the future?",
+        "questionType": "TEXT",
+        "showOptionNumber": true
+    },
+
+    "202": {
+        "questionId": 202,
+        "questionText": "Is saving important in acquiring more money?",
+        "questionType": "MULTIPLE-CHOICE",
+        "showOptionNumber": true,
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    "203": {
+        "questionId": 203,
+        "questionText": "Is saving important in having large sums of money one day?",
+        "questionType": "MULTIPLE-CHOICE",
+        "showOptionNumber": true,
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    "204": {
+        "questionId": 204,
+        "questionText": "Is it important to keep company with people who have a good attitude toward saving?",
+        "questionType": "MULTIPLE-CHOICE",
+        "showOptionNumber": true,
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    "205": {
+        "questionId": 205,
+        "questionText": "I feel confident with the way I save money either in the form of part of an allowance or earnings from a job.",
+        "questionType": "OPINION",
+        "scale": "TEN-POINTS"
+    },
+    "206": {
+        "questionId": 206,
+        "questionText": "I always save part of what I make.",
+        "questionType": "OPINION",
+        "scale": "TEN-POINTS"
+    },
+    "207": {
+        "questionId": 207,
+        "questionText": "I have a savings mindset. Money doesn't “burn a hole” in my pocket",
+        "questionType": "OPINION",
+        "scale": "TEN-POINTS"
+    },
+    "208": {
+        "questionId": 208,
+        "questionText": "I like to make money. I'm always looking for new ways to do it.",
+        "questionType": "OPINION",
+        "scale": "TEN-POINTS"
+    },
+    "211": {
+        "questionId": 211,
+        "questionText": "Describe what features you want in a savings account.",
+        "questionType": "TEXT"
+    },
+    "221": {
+        "questionId": 221,
+        "questionText": "Describe your feelings and experience when there was not enough money.",
+        "questionType": "TEXT"
+    },
+    "222": {
+        "questionId": 222,
+        "questionText": "Now describe the new money habits you want to develop to prevent that from happening, ever.",
+        "questionType": "TEXT"
+    },
+    "231": {
+        "questionId": 231,
+        "questionText": "What is the secret to avoiding credit card debt?",
+        "questionType": "TEXT"
+    },
+    "232": {
+        "questionId": 232,
+        "questionText": "What is the next best action, if that is not possible?",
+        "questionType": "TEXT"
+    },
+    "241": {
+        "questionId": 241,
+        "questionText": "Describe the benefits of being an entrepreneur as well as the less attractive aspects of it",
+        "questionType": "TEXT"
+    },
+    "242": {
+        "questionId": 242,
+        "questionText": "Discuss what career opportunities, in addition to entrepreneurial possibilities, appeal to you.",
+        "questionType": "TEXT"
+    },
+    "243": {
+        "questionId": 243,
+        "questionText": "Describe the benefits of being an employee as well as the less attractive aspects of it.",
+        "questionType": "TEXT"
+    },
     "50": {
         "questionId": 50,
         "questionText": "At 21% interest rate, how long would it take to double your money/debt?",
