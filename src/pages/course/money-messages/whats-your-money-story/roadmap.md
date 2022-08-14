@@ -1,6 +1,6 @@
 ---
 previousText: "What do you think?"
-previousUrl: "/course/introduction/welcome/what-do-you-think"
+previousUrl: "/course/money-messages/introduction/what-do-you-think"
 nextText: "Your Money Story"
 nextUrl: "/course/money-messages/whats-your-money-story/your-money-story"
 courseModuleId: "5"
@@ -10,12 +10,13 @@ pageId: "4"
 
 
 <sparkle-character-intro position="right" character="yuna">
-Welcome to Lesson on What's Your Money Story
+Let's jump right in, and hear your Money Story!
 </sparkle-character-intro>
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for What's Your Money Story
-1. Become aware of the money messages we hear everyday, including in your family 
-2. Learn the difference between wants and needs 
-3. Become aware of your own relationship to money-What is It? 
+# Lesson Roadmap 
+# In today’s lesson we’re going to learn: 
+1. Become aware of money messages we hear every day including those from your own family
+2. Learn the difference between wants and needs
+3. Become aware of your own relationship to money, your “money story”
 4. Understand that money is energy

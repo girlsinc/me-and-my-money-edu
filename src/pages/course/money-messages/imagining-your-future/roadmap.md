@@ -11,7 +11,7 @@ pageId: "4"
 
 ![Roadmap](/assets/img/roadmap.png)
 # Roadmap for Imagining Your Future
-1. Setting lofty goals - It is possible to attain your dreams
-2. Entering careers that will give give you a lifestyle you choose, as well as inner satisfaction.
-3. Avoiding being limited by others ideas of who and what you should become.
-
+## In today's lesson we're going to learn to:
+1. Experience the feeling of setting lofty goals, that it is possible to attain your dreams
+2. See the value of entering careers that will give them a lifestyle they choose as well as inner satisfaction.
+3. Learn not to be limited by others ideas of who and what they should become.
