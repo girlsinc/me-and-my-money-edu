@@ -1,6 +1,6 @@
 ---
-previousText: "Wrap it up"
-previousUrl: "/course/saving-spending-making-money/making-money/summary"
+previousText: "What do you think?"
+previousUrl: "/course/saving-spending-making-money/conclusion/what-do-you-think"
 nextText: "Lesson Roadmap"
 nextUrl: "/course/investing-for-the-future/smart-money-dumb-money/roadmap"
 courseModuleId: "5"

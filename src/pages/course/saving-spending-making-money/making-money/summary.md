@@ -1,16 +1,17 @@
 ---
-previousText: "Let's Talk About It"
-previousUrl: "/course/saving-spending-making-money/making-money/discussion"
-nextText: "Lesson Roadmap"
-nextUrl: "/course/budgeting/budgeting/roadmap"
+previousText: "Journal or Post it"
+previousUrl: "/course/saving-spending-making-money/making-money/journal-or-post-it"
+nextText: "What do you know?"
+nextUrl: "/course/saving-spending-making-money/conclusion/what-do-you-know"
 courseModuleId: "5"
 sessionId: "4"
 pageId: "4"
 ---
 
 
-# Summary of Making Money
-
-1. How to Identify Business opportunities
-2. to Assess the Need for a new product or Service
-3. to Identify the Key Elements of a Business Plan
+![Roadmap](/assets/img/roadmap.png)
+# Lesson Summary 
+# Highlights from today’s lesson: 
+1. Learn How to Identify Business opportunities
+2. Learn to Assess the Need for a new product or Service
+3. Learn to Identify the Key Elements of a Business Plan

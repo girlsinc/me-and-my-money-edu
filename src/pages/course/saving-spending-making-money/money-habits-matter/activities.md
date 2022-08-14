@@ -11,5 +11,7 @@ pageId: "4"
 
 # Activities
 
-1. Explore different ways to bank: Branch, Online, Credit union
-2. Walk Through a Bank
+1.	Create a priorities list of your wants vs needs. 
+2.	Describe your plan for saving for college
+3.	Conduct on line research into different kinds of savings accounts
+

@@ -1,8 +1,8 @@
 ---
 previousText: "Activities"
 previousUrl: "/course/saving-spending-making-money/money-habits-matter/activities"
-nextText: "Wrap it up"
-nextUrl: "/course/saving-spending-making-money/money-habits-matter/summary"
+nextText: "Journal or Post it"
+nextUrl: "/course/saving-spending-making-money/money-habits-matter/journal-or-post-it"
 courseModuleId: "5"
 sessionId: "4"
 pageId: "4"
@@ -10,4 +10,6 @@ pageId: "4"
 
 
 ![Roadmap](/assets/img/lets-talk-about-it.png)
-# Let's Talk About It
+# Take Action
+
+Choose a partner and do a “learn to say ‘no’ it’s not in my budget’, roleplay. Everyone is going out to eat after school for French fries and cokes. But you’ve reached your spending limit for the week. Tell them so.
