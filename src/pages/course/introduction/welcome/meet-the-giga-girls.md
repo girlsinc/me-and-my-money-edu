@@ -11,7 +11,7 @@ pageId: "4"
 
 # Introducing: The giga girls!
 
-We're the Giga Girls, and we'll be your guide throughout this course. Hover over each of us, and let's get acquainted!
+We're the Giga Girls, and we'll be your guide throughout this course. Let's get acquainted!
 
 <sparkle-cards>
    <sparkle-card header="Zinab" icon="/assets/img/characters/zynab.png" size="lg">
