@@ -1,7 +1,7 @@
 ---
 previousText: "Journal or Post it"
 previousUrl: "/course/money-messages/your-relationship-to-money/journal-or-post-it"
-nextText: "What do you know?"
+nextText: "What did you learn?"
 nextUrl: "/course/money-messages/conclusion/what-do-you-know"
 courseModuleId: "5"
 sessionId: "4"

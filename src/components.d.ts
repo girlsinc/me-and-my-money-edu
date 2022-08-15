@@ -11,6 +11,10 @@ export namespace Components {
     interface AppRoot {
     }
 }
+export interface AppRootCustomEvent<T> extends CustomEvent<T> {
+    detail: T;
+    target: HTMLAppRootElement;
+}
 declare global {
     interface HTMLAppHomeElement extends Components.AppHome, HTMLStencilElement {
     }
@@ -33,7 +37,7 @@ declare namespace LocalJSX {
     interface AppHome {
     }
     interface AppRoot {
-        "onPageChanged"?: (event: CustomEvent<any>) => void;
+        "onPageChanged"?: (event: AppRootCustomEvent<any>) => void;
     }
     interface IntrinsicElements {
         "app-home": AppHome;

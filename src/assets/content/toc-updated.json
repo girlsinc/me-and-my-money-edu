@@ -251,12 +251,12 @@
               "urlName": "activities",
               "previousText": "Making Money My Friend",
               "previousUrl": "/course/money-messages/your-relationship-to-money/making-money-my-friend",
-              "nextText": "Let's Talk About It",
+              "nextText": "Take Action",
               "nextUrl": "/course/money-messages/your-relationship-to-money/discussion"
             },
             {
               "id": 4,
-              "name": "Let's Talk About It",
+              "name": "Take Action",
               "urlName": "discussion",
               "previousText": "Activities",
               "previousUrl": "/course/money-messages/your-relationship-to-money/activities",
@@ -267,7 +267,7 @@
               "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it",
-              "previousText": "Let's Talk About It",
+              "previousText": "Take Action",
               "previousUrl": "/course/money-messages/your-relationship-to-money/discussion",
               "nextText": "Wrap it up",
               "nextUrl": "/course/money-messages/your-relationship-to-money/summary"
@@ -278,7 +278,7 @@
               "urlName": "summary",
               "previousText": "Journal or Post it",
               "previousUrl": "/course/money-messages/your-relationship-to-money/journal-or-post-it",
-              "nextText": "What do you know?",
+              "nextText": "What did you learn?",
               "nextUrl": "/course/money-messages/conclusion/what-do-you-know"
             }
           ]
@@ -292,7 +292,7 @@
           "pages": [
             {
               "id": 1,
-              "name": "What do you know?",
+              "name": "What did you learn?",
               "urlName": "what-do-you-know",
               "previousText": "Wrap it up",
               "previousUrl": "/course/money-messages/your-relationship-to-money/summary",
@@ -303,7 +303,7 @@
               "id": 2,
               "name": "What do you think?",
               "urlName": "what-do-you-think",
-              "previousText": "What do you know?",
+              "previousText": "What did you learn?",
               "previousUrl": "/course/money-messages/conclusion/what-do-you-know",
               "nextText": "Module Roadmap",
               "nextUrl": "/course/saving-spending-making-money/introduction/roadmap"
@@ -385,12 +385,12 @@
               "urlName": "activities",
               "previousText": "Save Early and Often",
               "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/save-early-and-often",
-              "nextText": "Let's Talk About It",
+              "nextText": "Take Action",
               "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/discussion"
             },
             {
               "id": 4,
-              "name": "Let's Talk About It",
+              "name": "Take Action",
               "urlName": "discussion",
               "previousText": "Activities",
               "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/activities",
@@ -401,7 +401,7 @@
               "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it",
-              "previousText": "Let's Talk About It",
+              "previousText": "Take Action",
               "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/discussion",
               "nextText": "Wrap it up",
               "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/summary"
@@ -447,12 +447,12 @@
               "urlName": "activities",
               "previousText": "Your Spending Habits Can Get You in Trouble",
               "previousUrl": "/course/saving-spending-making-money/money-habits-matter/spending-habits",
-              "nextText": "Let's Talk About It",
+              "nextText": "Take Action",
               "nextUrl": "/course/saving-spending-making-money/money-habits-matter/discussion"
             },
             {
               "id": 4,
-              "name": "Let's Talk About It",
+              "name": "Take Action",
               "urlName": "discussion",
               "previousText": "Activities",
               "previousUrl": "/course/saving-spending-making-money/money-habits-matter/activities",
@@ -463,7 +463,7 @@
               "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it",
-              "previousText": "Let's Talk About It",
+              "previousText": "Take Action",
               "previousUrl": "/course/saving-spending-making-money/money-habits-matter/discussion",
               "nextText": "Wrap it up",
               "nextUrl": "/course/saving-spending-making-money/money-habits-matter/summary"
@@ -518,12 +518,12 @@
               "urlName": "activities",
               "previousText": "Key Learnings",
               "previousUrl": "/course/saving-spending-making-money/interest-rates/key-learnings",
-              "nextText": "Let's Talk About It",
+              "nextText": "Take Action",
               "nextUrl": "/course/saving-spending-making-money/interest-rates/discussion"
             },
             {
               "id": 5,
-              "name": "Let's Talk About It",
+              "name": "Take Action",
               "urlName": "discussion",
               "previousText": "Activities",
               "previousUrl": "/course/saving-spending-making-money/interest-rates/activities",
@@ -534,7 +534,7 @@
               "id": 6,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it",
-              "previousText": "Let's Talk About It",
+              "previousText": "Take Action",
               "previousUrl": "/course/saving-spending-making-money/interest-rates/discussion",
               "nextText": "Wrap it up",
               "nextUrl": "/course/saving-spending-making-money/interest-rates/summary"
@@ -580,12 +580,12 @@
               "urlName": "activities",
               "previousText": "Making Money by Solving Problems",
               "previousUrl": "/course/saving-spending-making-money/making-money/making-money-by-solving-problems",
-              "nextText": "Let's Talk About It",
+              "nextText": "Take Action",
               "nextUrl": "/course/saving-spending-making-money/making-money/discussion"
             },
             {
               "id": 4,
-              "name": "Let's Talk About It",
+              "name": "Take Action",
               "urlName": "discussion",
               "previousText": "Activities",
               "previousUrl": "/course/saving-spending-making-money/making-money/activities",
@@ -596,7 +596,7 @@
               "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it",
-              "previousText": "Let's Talk About It",
+              "previousText": "Take Action",
               "previousUrl": "/course/saving-spending-making-money/making-money/discussion",
               "nextText": "Wrap it up",
               "nextUrl": "/course/saving-spending-making-money/making-money/summary"
@@ -607,7 +607,7 @@
               "urlName": "summary",
               "previousText": "Journal or Post it",
               "previousUrl": "/course/saving-spending-making-money/making-money/journal-or-post-it",
-              "nextText": "What do you know?",
+              "nextText": "What did you learn?",
               "nextUrl": "/course/saving-spending-making-money/conclusion/what-do-you-know"
             }
           ]
@@ -621,7 +621,7 @@
           "pages": [
             {
               "id": 1,
-              "name": "What do you know?",
+              "name": "What did you learn?",
               "urlName": "what-do-you-know",
               "previousText": "Wrap it up",
               "previousUrl": "/course/saving-spending-making-money/making-money/summary",
@@ -632,7 +632,7 @@
               "id": 2,
               "name": "What do you think?",
               "urlName": "what-do-you-think",
-              "previousText": "What do you know?",
+              "previousText": "What did you learn?",
               "previousUrl": "/course/saving-spending-making-money/conclusion/what-do-you-know",
               "nextText": "Lesson Roadmap",
               "nextUrl": "/course/budgeting/budgeting/roadmap"
@@ -660,6 +660,33 @@
               "urlName": "roadmap",
               "previousText": "What do you think?",
               "previousUrl": "/course/saving-spending-making-money/conclusion/what-do-you-think",
+              "nextText": "Lesson 2",
+              "nextUrl": "/course/budgeting/budgeting/roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Lesson 2",
+              "urlName": "roadmap",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/budgeting/budgeting/roadmap",
+              "nextText": "Lesson 3",
+              "nextUrl": "/course/budgeting/budgeting/roadmap"
+            },
+            {
+              "id": 3,
+              "name": "Lesson 3",
+              "urlName": "roadmap",
+              "previousText": "Lesson 2",
+              "previousUrl": "/course/budgeting/budgeting/roadmap",
+              "nextText": "Lesson 4",
+              "nextUrl": "/course/budgeting/budgeting/roadmap"
+            },
+            {
+              "id": 4,
+              "name": "Lesson 4",
+              "urlName": "roadmap",
+              "previousText": "Lesson 3",
+              "previousUrl": "/course/budgeting/budgeting/roadmap",
               "nextText": "Lesson Roadmap",
               "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/roadmap"
             }
@@ -684,7 +711,7 @@
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Lesson Roadmap",
+              "previousText": "Lesson 4",
               "previousUrl": "/course/budgeting/budgeting/roadmap",
               "nextText": "Page 2",
               "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-two"
