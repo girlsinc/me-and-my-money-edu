@@ -660,33 +660,40 @@
               "urlName": "roadmap",
               "previousText": "What do you think?",
               "previousUrl": "/course/saving-spending-making-money/conclusion/what-do-you-think",
-              "nextText": "Lesson 2",
-              "nextUrl": "/course/budgeting/budgeting/roadmap"
-            },
+              "nextText": "Lesson Roadmap",
+              "nextUrl": "/course/budgeting/lesson2/roadmap"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "Lesson2",
+          "urlName": "lesson2",
+          "pages": [
             {
-              "id": 2,
-              "name": "Lesson 2",
+              "id": 1,
+              "name": "Lesson Roadmap",
               "urlName": "roadmap",
               "previousText": "Lesson Roadmap",
               "previousUrl": "/course/budgeting/budgeting/roadmap",
-              "nextText": "Lesson 3",
-              "nextUrl": "/course/budgeting/budgeting/roadmap"
-            },
+              "nextText": "Lesson Roadmap",
+              "nextUrl": "/course/budgeting/lesson3/roadmap"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Lesson3",
+          "urlName": "lesson3",
+          "pages": [
             {
-              "id": 3,
-              "name": "Lesson 3",
+              "id": 1,
+              "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Lesson 2",
-              "previousUrl": "/course/budgeting/budgeting/roadmap",
-              "nextText": "Lesson 4",
-              "nextUrl": "/course/budgeting/budgeting/roadmap"
-            },
-            {
-              "id": 4,
-              "name": "Lesson 4",
-              "urlName": "roadmap",
-              "previousText": "Lesson 3",
-              "previousUrl": "/course/budgeting/budgeting/roadmap",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/budgeting/lesson2/roadmap",
               "nextText": "Lesson Roadmap",
               "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/roadmap"
             }
@@ -711,8 +718,8 @@
               "id": 1,
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
-              "previousText": "Lesson 4",
-              "previousUrl": "/course/budgeting/budgeting/roadmap",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/budgeting/lesson3/roadmap",
               "nextText": "Page 2",
               "nextUrl": "/course/investing-for-the-future/smart-money-dumb-money/page-two"
             },

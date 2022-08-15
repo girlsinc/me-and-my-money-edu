@@ -13,7 +13,9 @@ pageId: "4"
 
 We're the Giga Girls, and we'll be your guide throughout this course. Let's get acquainted!
 
-<sparkle-cards>
+<sparkle-intro></sparkle-intro>
+  
+<!-- <sparkle-cards>
    <sparkle-card header="Zinab" icon="/assets/img/characters/zynab.png" size="lg">
     <p><strong>I'm Zinab or Z.</strong> My family’s from Nigeria, and we live in the Melrose section of the South Bronx. I’m all about racial justice, and watch… I’m going to be first Muslim mayor of New York City. Believe that!</p>
   </sparkle-card>
@@ -33,4 +35,4 @@ We're the Giga Girls, and we'll be your guide throughout this course. Let's get 
   <sparkle-card header="VALERIA" icon="/assets/img/characters/valeria.png" size="lg">
     <p><strong>I'm VALERIA</strong> but most of my friends call me Val. First-generation Dominican from Washington Heights. I could watch MSNBC and CNN all day. In fact, one day I’m going to have my own political talk show like my crushes Rachel Maddow and Robin Roberts.</p>
   </sparkle-card>
-</sparkle-cards>
+</sparkle-cards> -->
