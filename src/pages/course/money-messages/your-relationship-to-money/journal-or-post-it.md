@@ -1,5 +1,5 @@
 ---
-previousText: "Let's Talk About It"
+previousText: "Take Action"
 previousUrl: "/course/money-messages/your-relationship-to-money/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/money-messages/your-relationship-to-money/summary"

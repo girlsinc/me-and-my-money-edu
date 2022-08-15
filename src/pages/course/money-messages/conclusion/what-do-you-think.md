@@ -1,5 +1,5 @@
 ---
-previousText: "What do you know?"
+previousText: "What did you learn?"
 previousUrl: "/course/money-messages/conclusion/what-do-you-know"
 nextText: "Module Roadmap"
 nextUrl: "/course/saving-spending-making-money/introduction/roadmap"
@@ -7,8 +7,6 @@ courseModuleId: "5"
 sessionId: "4"
 pageId: "4"
 ---
-
-
 
 
 # What Do You Think?
