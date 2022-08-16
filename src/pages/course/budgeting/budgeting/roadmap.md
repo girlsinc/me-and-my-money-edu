@@ -1,8 +1,8 @@
 ---
-previousText: "Lesson 2"
-previousUrl: "/course/budgeting/budgeting/roadmap"
-nextText: "Lesson 4"
-nextUrl: "/course/budgeting/budgeting/roadmap"
+previousText: "What do you think?"
+previousUrl: "/course/saving-spending-making-money/conclusion/what-do-you-think"
+nextText: "Lesson Roadmap"
+nextUrl: "/course/budgeting/lesson2/roadmap"
 courseModuleId: "5"
 sessionId: "4"
 pageId: "4"

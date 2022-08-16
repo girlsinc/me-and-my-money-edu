@@ -13,6 +13,7 @@ pageId: "4"
 # Journal or Post it
 
 ## Be sure to research the salaries and income opportunities for each.
-<sparkle-quiz question-id="241"></sparkle-quiz>
+<!-- <sparkle-quiz question-id="241"></sparkle-quiz>
 <sparkle-quiz question-id="242"></sparkle-quiz>
-<sparkle-quiz question-id="243"></sparkle-quiz>
+<sparkle-quiz question-id="243"></sparkle-quiz> -->
+<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
