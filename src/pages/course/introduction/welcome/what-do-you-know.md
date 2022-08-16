@@ -12,4 +12,3 @@ pageId: "4"
 # What Do You Know?
 ## Answer the questions below to explore your views on money
 
-<sparkle-quiz question-id="50"></sparkle-quiz>
