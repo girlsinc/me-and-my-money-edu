@@ -9,9 +9,11 @@ pageId: "4"
 ---
 
 
-# Introducing: The giga girls!
+# Introducing: The Stars of HER FUTURE
 
-We're the Giga Girls, and we'll be your guide throughout this course. Let's get acquainted!
+We're The Stars of HER FUTURE and will be your guide throughout the course. Let's get started!
+
+
 
 <sparkle-intro></sparkle-intro>
   
