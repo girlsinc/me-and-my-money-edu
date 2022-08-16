@@ -14,6 +14,7 @@ pageId: "4"
 <sparkle-character-intro position="right" character="jen">
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
+
 1. Learn the importance and benefits of saving
 2. Understand how compound interest works
 3. Learn to identify goals for your savings

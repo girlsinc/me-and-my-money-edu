@@ -14,6 +14,7 @@ pageId: "4"
 <sparkle-character-intro position="right" character="jen">
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
+
 1. Set lofty goals - It is possible to attain your dreams
 2. Enter careers that will give give you a lifestyle you choose, as well as inner satisfaction.
 3. Avoid being limited by others ideas of who and what you should become.

@@ -14,6 +14,7 @@ pageId: "4"
 <sparkle-character-intro position="right" character="jen">
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
+
 1. Learn How Banks, credit card companies make money 
 2. Learn How Banks Set Interest Rates
 3. Learn the Benefits and Challenges of Credit Cards
