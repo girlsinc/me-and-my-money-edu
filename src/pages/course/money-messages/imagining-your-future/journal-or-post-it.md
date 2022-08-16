@@ -12,5 +12,5 @@ pageId: "4"
 ![Journal or Post it](/assets/img/journal-it.png)
 # Journal or Post it
 <!-- <sparkle-quiz question-id="121"></sparkle-quiz> -->
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Describe the highlights of your most memorable feelings and experiences with money and share how you felt about them." ></sparkle-feed-post>
 

@@ -12,4 +12,4 @@ pageId: "4"
 ![Journal or Post it](/assets/img/journal-it.png)
 # Journal or Post it
 <!-- <sparkle-quiz question-id="111"></sparkle-quiz> -->
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Describe the highlights of your experiences with money and share how you felt about them." ></sparkle-feed-post>

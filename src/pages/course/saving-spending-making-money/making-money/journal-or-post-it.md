@@ -16,4 +16,6 @@ pageId: "4"
 <!-- <sparkle-quiz question-id="241"></sparkle-quiz>
 <sparkle-quiz question-id="242"></sparkle-quiz>
 <sparkle-quiz question-id="243"></sparkle-quiz> -->
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Describe the benefits of being an entrepreneur as well as the less attractive aspects of it" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Discuss what career opportunities, in addition to entrepreneurial possibilities, appeal to you." ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Describe the benefits of being an employee as well as the less attractive aspects of it." ></sparkle-feed-post>

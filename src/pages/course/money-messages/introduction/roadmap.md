@@ -10,7 +10,7 @@ pageId: "4"
 
 
 <sparkle-character-intro position="right" character="jen">
-The world is full of messages about money. How do you view money?
+The world is full of messages about money. What are your thoughts about money?
 </sparkle-character-intro>
 
 ![Roadmap](/assets/img/roadmap.png)

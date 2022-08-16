@@ -17,4 +17,5 @@ pageId: "4"
  
 <!-- <sparkle-quiz question-id="221"></sparkle-quiz>
 <sparkle-quiz question-id="222"></sparkle-quiz> -->
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Describe your feelings and experience when there was not enough money." ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Now describe the new money habits you want to develop to prevent that from happening, ever." ></sparkle-feed-post>

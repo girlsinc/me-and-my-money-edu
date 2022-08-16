@@ -10,7 +10,7 @@ pageId: "4"
 
 
 # Money in the Media
-<sparkle-youtube src="https://www.youtube.com/watch?v=gUhRKVIjJtw"></sparkle-youtube>
+<sparkle-youtube src="https://www.youtube.com/embed/gUhRKVIjJtw"></sparkle-youtube>
 
-<sparkle-youtube src="https://www.youtube.com/embed/WQGS1kkp0cw"></sparkle-youtube>
+<sparkle-youtube src="https://www.youtube.com/embed/ETxmCCsMoD0"></sparkle-youtube>
 

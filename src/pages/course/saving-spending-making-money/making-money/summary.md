@@ -9,9 +9,11 @@ pageId: "4"
 ---
 
 
-![Roadmap](/assets/img/roadmap.png)
 # Lesson Summary 
-# Highlights from today’s lesson: 
+
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>
 1. Learn How to Identify Business opportunities
 2. Learn to Assess the Need for a new product or Service
 3. Learn to Identify the Key Elements of a Business Plan

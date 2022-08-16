@@ -9,9 +9,11 @@ pageId: "4"
 ---
 
 
-![Roadmap](/assets/img/roadmap.png)
 # Lesson Summary 
-# Highlights from today’s lesson: 
+
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>
 1. Attitudes You Want to Change
 2. How to find a Role Model Whose Attitude Toward Money You Admire
 3. Be Careful of the Company You Keep

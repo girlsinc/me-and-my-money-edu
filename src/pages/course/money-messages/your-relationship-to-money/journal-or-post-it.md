@@ -12,4 +12,4 @@ pageId: "4"
 ![Journal or Post it](/assets/img/journal-it.png)
 # Journal or Post it
 <!-- <sparkle-quiz question-id="131"></sparkle-quiz> -->
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Rewrite your financial story—-the story you tell yourself about money—and fill it with examples of abundance you wish for!" ></sparkle-feed-post>

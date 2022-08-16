@@ -9,9 +9,11 @@ pageId: "4"
 ---
 
 
-![Roadmap](/assets/img/roadmap.png)
 # Lesson Summary 
-# Highlights from today’s lesson: 
+
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>
 1. Become aware of money messages we hear every day including those from your own family
 2. Learn the difference between wants and needs
 3. Become aware of your own relationship to money, your “money story”

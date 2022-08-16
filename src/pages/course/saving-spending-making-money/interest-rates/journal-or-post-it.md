@@ -14,4 +14,5 @@ pageId: "4"
 ## The average credit card debt is  $5,834 
 <!-- <sparkle-quiz question-id="231"></sparkle-quiz>
 <sparkle-quiz question-id="232"></sparkle-quiz> -->
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="What is the secret to avoiding credit card debt?" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="What is the next best action, if that is not possible?" ></sparkle-feed-post>
