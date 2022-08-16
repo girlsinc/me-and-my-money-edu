@@ -14,8 +14,8 @@ pageId: "4"
 ## Answer the questions below to explore your views on money
 
 <sparkle-quiz question-text="What are your thoughts about the importance saving money for the future?" type="TEXT" question-id="201"></sparkle-quiz>
-<sparkle-quiz question-text="Is energy important in acquiring more money?" type="MULTIPLE-CHOICE" question-id="202">
 
+<sparkle-quiz question-text="Is energy important in acquiring more money?" type="MULTIPLE-CHOICE" question-id="202">
 <div slot="options">
 <option>Yes</option>
 <option>No</option>   

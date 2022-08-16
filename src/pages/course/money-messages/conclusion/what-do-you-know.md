@@ -14,8 +14,8 @@ pageId: "4"
 ## Answer the questions below to explore your views on money
 
 <sparkle-quiz question-text="What are your thoughts about the importance of money in our lives?" type="TEXT" question-id="101"></sparkle-quiz>
-<sparkle-quiz question-text="Is energy important in acquiring more money?" type="MULTIPLE-CHOICE" question-id="102">
 
+<sparkle-quiz question-text="Is energy important in acquiring more money?" type="MULTIPLE-CHOICE" question-id="102">
 <div slot="options">
 <option>Yes</option>
 <option>No</option>   
