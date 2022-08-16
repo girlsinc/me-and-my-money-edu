@@ -12,5 +12,6 @@ pageId: "4"
 ![Journal or Post it](/assets/img/journal-it.png)
 # Journal or Post it
 ## The average credit card debt is  $5,834 
-<sparkle-quiz question-id="231"></sparkle-quiz>
-<sparkle-quiz question-id="232"></sparkle-quiz>
+<!-- <sparkle-quiz question-id="231"></sparkle-quiz>
+<sparkle-quiz question-id="232"></sparkle-quiz> -->
+<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
