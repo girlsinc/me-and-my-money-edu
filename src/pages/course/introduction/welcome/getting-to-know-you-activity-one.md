@@ -1,5 +1,5 @@
 ---
-previousText: "Roadmap to Me & My Money"
+previousText: "Roadmap to Her Future"
 previousUrl: "/course/introduction/welcome/roadmap"
 nextText: "Module Roadmap"
 nextUrl: "/course/money-messages/introduction/roadmap"
