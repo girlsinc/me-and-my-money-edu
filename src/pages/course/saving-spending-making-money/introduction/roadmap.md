@@ -13,7 +13,7 @@ pageId: "4"
 Last module taught us how to think about money - now it's time to get our hands on it! We're going to:
 </sparkle-character-intro>
 
-# Roadmap for Saving it, Spending it, Making it
+# Overview for Saving it, Spending it, Making it
 1. Learn the Importance of Saving Early and Often
 2. Learn Good Money Habits and How To Develop Them
 3. Start Small, Think Big regarding Savings Habits, Goals

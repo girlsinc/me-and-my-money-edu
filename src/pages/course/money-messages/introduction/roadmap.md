@@ -13,7 +13,7 @@ pageId: "4"
 Ready to get started? Here are some of the key things you'll learn in this module
 </sparkle-character-intro>
 
-# Roadmap for Money Messages
+# Overview for Money Messages
 1. Observe money messages in the media that reinforce stereotypes about women 
 2. Describe my feelings and attitudes around money
 3. understand that money is energy, And our relationship to money creates positive or negative energy
