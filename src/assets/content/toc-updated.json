@@ -28,7 +28,7 @@
             },
             {
               "id": 2,
-              "name": "Roadmap to Me & My Money",
+              "name": "Roadmap to Her Future",
               "urlName": "roadmap",
               "previousText": "Meet the Giga Girls",
               "previousUrl": "/course/introduction/welcome/meet-the-giga-girls",
@@ -41,7 +41,7 @@
               "id": 3,
               "name": "Getting to Know You",
               "urlName": "getting-to-know-you-activity-one",
-              "previousText": "Roadmap to Me & My Money",
+              "previousText": "Roadmap to Her Future",
               "previousUrl": "/course/introduction/welcome/roadmap",
               "nextText": "Module Roadmap",
               "nextUrl": "/course/money-messages/introduction/roadmap",

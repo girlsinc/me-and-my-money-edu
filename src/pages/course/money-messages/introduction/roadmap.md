@@ -11,12 +11,11 @@ pageId: "4"
 ---
 
 
-<sparkle-character-intro position="right" character="jen">
-The world is full of messages about money. What are your thoughts about money?
+<sparkle-character-intro position="right" character="zynab">
+Ready to get started? Here are some of the key things you'll learn in this module
 </sparkle-character-intro>
 
-![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Money Messages
+# Overview for Money Messages
 1. Observe money messages in the media that reinforce stereotypes about women 
 2. Describe my feelings and attitudes around money
 3. understand that money is energy, And our relationship to money creates positive or negative energy

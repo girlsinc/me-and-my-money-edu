@@ -11,8 +11,12 @@ pageId: "4"
 ---
 
 
-![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Me & My Money
+<sparkle-character-intro position="right" character="jen">
+Ready to dive into the world of money? We've got 4 great modules lined up for you. Here's what we'll cover: 
+</sparkle-character-intro>
+
+
+# Modules for Her Future
 
 1. Money Messages
 2. Saving It, Spending It, Making It
