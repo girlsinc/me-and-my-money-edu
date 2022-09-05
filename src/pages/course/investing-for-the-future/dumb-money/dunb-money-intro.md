@@ -1,13 +1,13 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/investing-for-the-future/dumb-money/roadmap"
-nextText: "Page 3"
-nextUrl: "/course/investing-for-the-future/dumb-money/page-three"
+nextText: "Activities"
+nextUrl: "/course/investing-for-the-future/dumb-money/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 
