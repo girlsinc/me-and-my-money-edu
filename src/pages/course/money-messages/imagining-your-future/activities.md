@@ -3,9 +3,11 @@ previousText: "The Future You"
 previousUrl: "/course/money-messages/imagining-your-future/the-future-you"
 nextText: "Take Action"
 nextUrl: "/course/money-messages/imagining-your-future/take-action"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

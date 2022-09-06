@@ -3,9 +3,11 @@ previousText: "Journal or Post it"
 previousUrl: "/course/money-messages/imagining-your-future/journal-or-post-it"
 nextText: "Lesson Roadmap"
 nextUrl: "/course/money-messages/your-relationship-to-money/roadmap"
+lastLession: "true"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

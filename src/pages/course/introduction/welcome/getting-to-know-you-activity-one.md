@@ -3,9 +3,11 @@ previousText: "Roadmap to Her Future"
 previousUrl: "/course/introduction/welcome/roadmap"
 nextText: "Module Roadmap"
 nextUrl: "/course/money-messages/introduction/roadmap"
+lastLession: "false"
+lastSession: "true"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

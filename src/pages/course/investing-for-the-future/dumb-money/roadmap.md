@@ -1,11 +1,13 @@
 ---
-previousText: "Page 4"
-previousUrl: "/course/investing-for-the-future/stock-market-game/page-four"
-nextText: "Page 2"
-nextUrl: "/course/investing-for-the-future/dumb-money/page-two"
+previousText: "Wrap it up"
+previousUrl: "/course/investing-for-the-future/stock-market-game/summary"
+nextText: "Dumb Money"
+nextUrl: "/course/investing-for-the-future/dumb-money/dunb-money-intro"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

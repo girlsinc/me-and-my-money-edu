@@ -3,9 +3,11 @@ previousText: "Getting to Know You"
 previousUrl: "/course/introduction/welcome/getting-to-know-you-activity-one"
 nextText: "What do you know?"
 nextUrl: "/course/money-messages/introduction/what-do-you-know"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

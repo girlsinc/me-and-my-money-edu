@@ -3,9 +3,11 @@ previousText: "Take Action"
 previousUrl: "/course/money-messages/your-relationship-to-money/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/money-messages/your-relationship-to-money/summary"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

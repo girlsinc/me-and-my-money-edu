@@ -3,9 +3,11 @@ previousText: "Making Money My Friend"
 previousUrl: "/course/money-messages/your-relationship-to-money/making-money-my-friend"
 nextText: "Take Action"
 nextUrl: "/course/money-messages/your-relationship-to-money/discussion"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

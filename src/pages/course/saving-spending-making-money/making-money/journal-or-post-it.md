@@ -3,9 +3,11 @@ previousText: "Take Action"
 previousUrl: "/course/saving-spending-making-money/making-money/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/saving-spending-making-money/making-money/summary"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

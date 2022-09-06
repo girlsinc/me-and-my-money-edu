@@ -3,9 +3,11 @@ previousText: "Key Learnings"
 previousUrl: "/course/saving-spending-making-money/interest-rates/key-learnings"
 nextText: "Take Action"
 nextUrl: "/course/saving-spending-making-money/interest-rates/discussion"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

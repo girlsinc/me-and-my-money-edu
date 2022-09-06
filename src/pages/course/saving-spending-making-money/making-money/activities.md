@@ -3,9 +3,11 @@ previousText: "Making Money by Solving Problems"
 previousUrl: "/course/saving-spending-making-money/making-money/making-money-by-solving-problems"
 nextText: "Take Action"
 nextUrl: "/course/saving-spending-making-money/making-money/discussion"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

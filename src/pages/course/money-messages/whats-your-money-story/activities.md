@@ -3,9 +3,11 @@ previousText: "Money in the Media"
 previousUrl: "/course/money-messages/whats-your-money-story/money-in-the-media"
 nextText: "Take Action"
 nextUrl: "/course/money-messages/whats-your-money-story/discussion"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

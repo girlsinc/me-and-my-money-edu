@@ -3,9 +3,11 @@ previousText: "What do you know?"
 previousUrl: "/course/money-messages/introduction/what-do-you-know"
 nextText: "Lesson Roadmap"
 nextUrl: "/course/money-messages/whats-your-money-story/roadmap"
+lastLession: "true"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

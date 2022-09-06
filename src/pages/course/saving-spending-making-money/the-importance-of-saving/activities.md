@@ -3,9 +3,11 @@ previousText: "Save Early and Often"
 previousUrl: "/course/saving-spending-making-money/the-importance-of-saving/save-early-and-often"
 nextText: "Take Action"
 nextUrl: "/course/saving-spending-making-money/the-importance-of-saving/discussion"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

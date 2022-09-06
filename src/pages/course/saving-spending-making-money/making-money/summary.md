@@ -3,9 +3,11 @@ previousText: "Journal or Post it"
 previousUrl: "/course/saving-spending-making-money/making-money/journal-or-post-it"
 nextText: "What did you learn?"
 nextUrl: "/course/saving-spending-making-money/conclusion/what-do-you-know"
+lastLession: "true"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

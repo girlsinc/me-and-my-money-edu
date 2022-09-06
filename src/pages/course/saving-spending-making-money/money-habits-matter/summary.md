@@ -3,9 +3,11 @@ previousText: "Journal or Post it"
 previousUrl: "/course/saving-spending-making-money/money-habits-matter/journal-or-post-it"
 nextText: "Lesson Roadmap"
 nextUrl: "/course/saving-spending-making-money/interest-rates/roadmap"
+lastLession: "true"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

@@ -1,608 +1,706 @@
 {
-    "id": 1,
-    "name": "Me and My Money",
-    "courseModules": [
+  "id": 1,
+  "name": "Me and My Money",
+  "courseModules": [
+    {
+      "id": 1,
+      "number": 0,
+      "name": "Introduction",
+      "urlName": "introduction",
+      "preventNumbering": true,
+      "sessions": [
         {
-            "id": 1,
-            "number": 0,
-            "name": "Introduction",
-            "urlName": "introduction",
-            "preventNumbering": true,
-            "sessions": [
-                {
-                    "id": 1,
-                    "number": 0,
-                    "name": "Welcome",
-                    "urlName": "welcome",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Meet the Giga Girls",
-                            "urlName": "meet-the-giga-girls"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Roadmap to Her Future",
-                            "urlName": "roadmap"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Getting to Know You",
-                            "urlName": "getting-to-know-you-activity-one"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "number": 1,
-            "name": "Money Messages",
-            "urlName": "money-messages",
-            "sessions": [
-                {
-                    "id": 0,
-                    "number": 0,
-                    "preventNumbering": true,
-                    "name": "Introduction",
-                    "urlName": "introduction",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Module Roadmap",
-                            "urlName": "roadmap"
-                        },
-                        {
-                            "id": 2,
-                            "name": "What do you know?",
-                            "urlName": "what-do-you-know"
-                        },
-                      
-                        {
-                            "id": 3,
-                            "name": "What do you think?",
-                            "urlName": "what-do-you-think"
-                        }
-                    ]
-                },
-                {
-                    "id": 1,
-                    "number": 0,
-                    "name": "What's Your Money Story",
-                    "urlName": "whats-your-money-story",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                       
-                        {
-                            "id": 2,
-                            "name": "Your Money Story",
-                            "urlName": "your-money-story"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Money in the Media",
-                            "urlName": "money-in-the-media"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Activities",
-                            "urlName": "activities"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Take Action",
-                            "urlName": "discussion"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Journal or Post it",
-                            "urlName": "journal-or-post-it"
-                        },
-                        {
-                            "id": 7,
-                            "name": "Wrap it up",
-                            "urlName": "summary"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 2,
-                    "number": 1,
-                    "name": "Imagining Your Future",
-                    "urlName": "imagining-your-future",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                       
-                        {
-                            "id": 2,
-                            "name": "The Future You",
-                            "urlName": "the-future-you"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Activities",
-                            "urlName": "activities"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Take Action",
-                            "urlName": "take-action"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Journal or Post it",
-                            "urlName": "journal-or-post-it"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Wrap it up",
-                            "urlName": "summary"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 3,
-                    "number": 2,
-                    "name": "Your Relationship to Money",
-                    "urlName": "your-relationship-to-money",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                       
-                        {
-                            "id": 2,
-                            "name": "Making Money My Friend",
-                            "urlName": "making-money-my-friend"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Activities",
-                            "urlName": "activities"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Take Action",
-                            "urlName": "discussion"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Journal or Post it",
-                            "urlName": "journal-or-post-it"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Wrap it up",
-                            "urlName": "summary"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 4,
-                    "number": 0,
-                    "preventNumbering": true,
-                    "name": "Conclusion",
-                    "urlName": "conclusion",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "What did you learn?",
-                            "urlName": "what-do-you-know"
-                        },
-                      
-                        {
-                            "id": 2,
-                            "name": "What do you think?",
-                            "urlName": "what-do-you-think"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "number": 2,
-            "name": "Saving It, Spending It, Making It",
-            "urlName": "saving-spending-making-money",
-            "comingSoon": false,
-            "sessions": [
-                {
-                    "id": 0,
-                    "number": 0,
-                    "preventNumbering": true,
-                    "name": "Introduction",
-                    "urlName": "introduction",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Module Roadmap",
-                            "urlName": "roadmap"
-                        },
-                        {
-                            "id": 2,
-                            "name": "What do you know?",
-                            "urlName": "what-do-you-know"
-                        },
-                      
-                        {
-                            "id": 3,
-                            "name": "What do you think?",
-                            "urlName": "what-do-you-think"
-                        }
-                    ]
-                },
-                {
-                    "id": 1,
-                    "number": 0,
-                    "name": "The Importance of Saving",
-                    "urlName": "the-importance-of-saving",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                       
-                        {
-                            "id": 2,
-                            "name": "Save Early and Often",
-                            "urlName": "save-early-and-often"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Activities",
-                            "urlName": "activities"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Take Action",
-                            "urlName": "discussion"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Journal or Post it",
-                            "urlName": "journal-or-post-it"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Wrap it up",
-                            "urlName": "summary"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 2,
-                    "number": 1,
-                    "name": "Money Habits Matter",
-                    "urlName": "money-habits-matter",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                       
-                        {
-                            "id": 2,
-                            "name": "Your Spending Habits Can Get You in Trouble",
-                            "urlName": "spending-habits"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Activities",
-                            "urlName": "activities"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Take Action",
-                            "urlName": "discussion"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Journal or Post it",
-                            "urlName": "journal-or-post-it"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Wrap it up",
-                            "urlName": "summary"
-                        }
+          "id": 1,
+          "number": 0,
+          "name": "Welcome",
+          "urlName": "welcome",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Meet the Giga Girls",
+              "urlName": "meet-the-giga-girls"
+            },
+            {
+              "id": 2,
+              "name": "Roadmap to Her Future",
+              "urlName": "roadmap"
+            },
 
-                       
-                    ]
-                },
-                {
-                    "id": 3,
-                    "number": 2,
-                    "name": "Interest Rates",
-                    "urlName": "interest-rates",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                       
-                        {
-                            "id": 2,
-                            "name": "How Much Does This Money Cost?",
-                            "urlName": "cost-of-money"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Key Learnings",
-                            "urlName": "key-learnings"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Activities",
-                            "urlName": "activities"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Take Action",
-                            "urlName": "discussion"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Journal or Post it",
-                            "urlName": "journal-or-post-it"
-                        },
-                        {
-                            "id": 7,
-                            "name": "Wrap it up",
-                            "urlName": "summary"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 4,
-                    "number": 2,
-                    "name": "Making Money",
-                    "urlName": "making-money",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                       
-                        {
-                            "id": 2,
-                            "name": "Making Money by Solving Problems",
-                            "urlName": "making-money-by-solving-problems"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Activities",
-                            "urlName": "activities"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Take Action",
-                            "urlName": "discussion"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Journal or Post it",
-                            "urlName": "journal-or-post-it"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Wrap it up",
-                            "urlName": "summary"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 5,
-                    "number": 0,
-                    "preventNumbering": true,
-                    "name": "Conclusion",
-                    "urlName": "conclusion",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "What did you learn?",
-                            "urlName": "what-do-you-know"
-                        },
-                      
-                        {
-                            "id": 2,
-                            "name": "What do you think?",
-                            "urlName": "what-do-you-think"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "number": 3,
-            "name": "Budgeting",
-            "urlName": "budgeting",
-            "comingSoon": true,
-            "sessions": [
-                {
-                    "id": 1,
-                    "number": 0,
-                    "name": "Budgeting",
-                    "urlName": "budgeting",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "number": 1,
-                    "name": "Lesson2",
-                    "urlName": "lesson2",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "number": 2,
-                    "name": "Lesson3",
-                    "urlName": "lesson3",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "number": 4,
-            "name": "Investing for the Future",
-            "urlName": "investing-for-the-future",
-            "comingSoon": true,
-            "sessions": [
-                {
-                    "id": 1,
-                    "number": 0,
-                    "name": "Smart Money - Dumb Money",
-                    "urlName": "smart-money-dumb-money",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 2,
-                    "number": 1,
-                    "name": "The Stock Market Game",
-                    "urlName": "stock-market-game",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 3,
-                    "number": 2,
-                    "name": "Dumb Money",
-                    "urlName": "dumb-money",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
-                    ]
-                },
-                {
-                    "id": 4,
-                    "number": 3,
-                    "name": "On Your Own",
-                    "urlName": "on-your-own",
-                    "pages": [
-                        {
-                            "id": 1,
-                            "name": "Lesson Roadmap",
-                            "urlName": "roadmap"
-                        },                        {
-                            "id": 2,
-                            "name": "Page 2",
-                            "urlName": "page-two"
-                        },
-                        
-                        {
-                            "id": 3,
-                            "name": "Page 3",
-                            "urlName": "page-three"
-                        },
-                      
-                        {
-                            "id": 4,
-                            "name": "Page 4",
-                            "urlName": "page-four"
-                        }
-                       
-                    ]
-                }
-            ]
+            {
+              "id": 3,
+              "name": "Getting to Know You",
+              "urlName": "getting-to-know-you-activity-one"
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "number": 1,
+      "name": "Money Messages",
+      "urlName": "money-messages",
+      "sessions": [
+        {
+          "id": 0,
+          "number": 0,
+          "preventNumbering": true,
+          "name": "Introduction",
+          "urlName": "introduction",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Module Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "What do you know?",
+              "urlName": "what-do-you-know"
+            },
+
+            {
+              "id": 3,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "number": 0,
+          "name": "What's Your Money Story",
+          "urlName": "whats-your-money-story",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Your Money Story",
+              "urlName": "your-money-story"
+            },
+            {
+              "id": 3,
+              "name": "Money in the Media",
+              "urlName": "money-in-the-media"
+            },
+            {
+              "id": 4,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 5,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 6,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 7,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "Imagining Your Future",
+          "urlName": "imagining-your-future",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "The Future You",
+              "urlName": "the-future-you"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "take-action"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Your Relationship to Money",
+          "urlName": "your-relationship-to-money",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Making Money My Friend",
+              "urlName": "making-money-my-friend"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 0,
+          "preventNumbering": true,
+          "name": "Conclusion",
+          "urlName": "conclusion",
+          "pages": [
+            {
+              "id": 1,
+              "name": "What did you learn?",
+              "urlName": "what-do-you-know"
+            },
+
+            {
+              "id": 2,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": 2,
+      "name": "Saving It, Spending It, Making It",
+      "urlName": "saving-spending-making-money",
+      "comingSoon": false,
+      "sessions": [
+        {
+          "id": 0,
+          "number": 0,
+          "preventNumbering": true,
+          "name": "Introduction",
+          "urlName": "introduction",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Module Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "What do you know?",
+              "urlName": "what-do-you-know"
+            },
+
+            {
+              "id": 3,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "number": 0,
+          "name": "The Importance of Saving",
+          "urlName": "the-importance-of-saving",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Save Early and Often",
+              "urlName": "save-early-and-often"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "Money Habits Matter",
+          "urlName": "money-habits-matter",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Your Spending Habits Can Get You in Trouble",
+              "urlName": "spending-habits"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Interest Rates",
+          "urlName": "interest-rates",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "How Much Does This Money Cost?",
+              "urlName": "cost-of-money"
+            },
+            {
+              "id": 3,
+              "name": "Key Learnings",
+              "urlName": "key-learnings"
+            },
+            {
+              "id": 4,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 5,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 6,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 7,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 2,
+          "name": "Making Money",
+          "urlName": "making-money",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Making Money by Solving Problems",
+              "urlName": "making-money-by-solving-problems"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 0,
+          "preventNumbering": true,
+          "name": "Conclusion",
+          "urlName": "conclusion",
+          "pages": [
+            {
+              "id": 1,
+              "name": "What did you learn?",
+              "urlName": "what-do-you-know"
+            },
+
+            {
+              "id": 2,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": 3,
+      "name": "Budgeting",
+      "urlName": "budgeting",
+      "comingSoon": true,
+      "sessions": [
+        {
+          "id": 1,
+          "number": 0,
+          "name": "Budgeting",
+          "urlName": "budgeting",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Budgeting",
+              "urlName": "budgeting-intro"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "Lesson2",
+          "urlName": "lesson2",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Lesson 2",
+              "urlName": "lesson2-intro"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Lesson3",
+          "urlName": "lesson3",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Lesson 3",
+              "urlName": "lesson3-intro"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": 4,
+      "name": "Investing for the Future",
+      "urlName": "investing-for-the-future",
+      "comingSoon": true,
+      "sessions": [
+        {
+          "id": 1,
+          "number": 0,
+          "name": "Smart Money - Dumb Money",
+          "urlName": "smart-money-dumb-money",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Smart Money - Dumb Money2",
+              "urlName": "smart-money"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "The Stock Market Game",
+          "urlName": "stock-market-game",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "The Stock Market Game",
+                "urlName": "smart-money-intro"
+              },
+              {
+                "id": 3,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 4,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 5,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 6,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Dumb Money",
+          "urlName": "dumb-money",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "Dumb Money",
+                "urlName": "dunb-money-intro"
+              },
+              {
+                "id": 3,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 4,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 5,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 6,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 3,
+          "name": "On Your Own",
+          "urlName": "on-your-own",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "On Your Own",
+                "urlName": "on-your-own-intro"
+              },
+              {
+                "id": 3,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 4,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 5,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 6,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        }
+      ]
+    }
+  ]
 }

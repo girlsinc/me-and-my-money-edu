@@ -1,11 +1,13 @@
 ---
-previousText: "Lesson Roadmap"
-previousUrl: "/course/budgeting/lesson3/roadmap"
-nextText: "Page 2"
-nextUrl: "/course/investing-for-the-future/smart-money-dumb-money/page-two"
+previousText: "Wrap it up"
+previousUrl: "/course/budgeting/lesson3/summary"
+nextText: "Smart Money - Dumb Money2"
+nextUrl: "/course/investing-for-the-future/smart-money-dumb-money/smart-money"
+lastLession: "false"
+lastSession: "false"
 courseModuleId: "5"
 sessionId: "4"
-pageId: "4"
+pageId: "6"
 ---
 
 

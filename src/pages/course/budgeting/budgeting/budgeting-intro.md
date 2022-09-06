@@ -1,0 +1,14 @@
+---
+previousText: "Lesson Roadmap"
+previousUrl: "/course/budgeting/budgeting/roadmap"
+nextText: "Activities"
+nextUrl: "/course/budgeting/budgeting/activities"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "5"
+sessionId: "4"
+pageId: "6"
+---
+
+
+<sparkle-animation-player src="./animation/m3l1.js" composition="05E79C8D9732B946A18A04FA8701B150"></sparkle-animation-player>
