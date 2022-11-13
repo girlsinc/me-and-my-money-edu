@@ -1,8 +1,8 @@
 ---
 previousText: "What did you learn?"
 previousUrl: "/course/saving-spending-making-money/conclusion/what-do-you-know"
-nextText: "Lesson Roadmap"
-nextUrl: "/course/budgeting/budgeting/roadmap"
+nextText: "Module Roadmap"
+nextUrl: "/course/budgeting/introduction/roadmap"
 lastLession: "false"
 lastSession: "true"
 courseModuleId: "5"

@@ -1,8 +1,8 @@
 ---
 previousText: "What do you think?"
-previousUrl: "/course/saving-spending-making-money/conclusion/what-do-you-think"
+previousUrl: "/course/budgeting/introduction/what-do-you-think"
 nextText: "Budgeting"
-nextUrl: "/course/budgeting/budgeting/budgeting-intro"
+nextUrl: "/course/budgeting/setting-financial-goals/budgeting-intro"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "5"

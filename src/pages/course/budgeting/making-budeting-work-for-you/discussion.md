@@ -1,8 +1,8 @@
 ---
 previousText: "Activities"
-previousUrl: "/course/budgeting/budgeting/activities"
+previousUrl: "/course/budgeting/making-budeting-work-for-you/activities"
 nextText: "Journal or Post it"
-nextUrl: "/course/budgeting/budgeting/journal-or-post-it"
+nextUrl: "/course/budgeting/making-budeting-work-for-you/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "5"
@@ -11,4 +11,3 @@ pageId: "6"
 ---
 
 
-# Discussion

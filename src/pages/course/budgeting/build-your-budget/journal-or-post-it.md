@@ -1,8 +1,8 @@
 ---
 previousText: "Take Action"
-previousUrl: "/course/budgeting/budgeting/discussion"
+previousUrl: "/course/budgeting/build-your-budget/discussion"
 nextText: "Wrap it up"
-nextUrl: "/course/budgeting/budgeting/summary"
+nextUrl: "/course/budgeting/build-your-budget/summary"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "5"
@@ -11,4 +11,3 @@ pageId: "6"
 ---
 
 
-# Journal or Post it

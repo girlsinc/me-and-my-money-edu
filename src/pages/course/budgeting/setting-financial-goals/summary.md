@@ -1,8 +1,8 @@
 ---
 previousText: "Journal or Post it"
-previousUrl: "/course/budgeting/budgeting/journal-or-post-it"
+previousUrl: "/course/budgeting/setting-financial-goals/journal-or-post-it"
 nextText: "Lesson Roadmap"
-nextUrl: "/course/budgeting/lesson2/roadmap"
+nextUrl: "/course/budgeting/intro-to-budgeting/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "5"

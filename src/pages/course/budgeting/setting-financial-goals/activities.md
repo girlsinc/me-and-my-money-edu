@@ -1,8 +1,8 @@
 ---
 previousText: "Budgeting"
-previousUrl: "/course/budgeting/budgeting/budgeting-intro"
+previousUrl: "/course/budgeting/setting-financial-goals/budgeting-intro"
 nextText: "Take Action"
-nextUrl: "/course/budgeting/budgeting/discussion"
+nextUrl: "/course/budgeting/setting-financial-goals/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "5"

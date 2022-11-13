@@ -1,8 +1,8 @@
 ---
 previousText: "Lesson Roadmap"
-previousUrl: "/course/budgeting/budgeting/roadmap"
+previousUrl: "/course/budgeting/setting-financial-goals/roadmap"
 nextText: "Activities"
-nextUrl: "/course/budgeting/budgeting/activities"
+nextUrl: "/course/budgeting/setting-financial-goals/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "5"

@@ -1,6 +1,6 @@
 ---
-previousText: "Wrap it up"
-previousUrl: "/course/budgeting/lesson3/summary"
+previousText: "What do you think?"
+previousUrl: "/course/budgeting/conclusion/what-do-you-think"
 nextText: "Smart Money - Dumb Money2"
 nextUrl: "/course/investing-for-the-future/smart-money-dumb-money/smart-money"
 lastLession: "false"
