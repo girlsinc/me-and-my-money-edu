@@ -11,3 +11,8 @@ pageId: "6"
 ---
 
 
+![Roadmap](/assets/img/roadmap.png)
+# Roadmap for Budgeting Basics
+# In today’s lesson: 
+1. Describe what a Budget is and how it can help you? 
+2. List the Different Categories of Your Income and Expense

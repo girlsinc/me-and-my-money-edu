@@ -11,3 +11,9 @@ pageId: "6"
 ---
 
 
+![Roadmap](/assets/img/roadmap.png)
+# Roadmap for Build Your Budget
+# In today’s lesson: 
+- Learn to create your own zero-based budget
+- Understand that in zero based budgeting, expenses must be justified for each period
+- Understand that zero based budgeting can be used by individuals, but it’s mostly used by businesses

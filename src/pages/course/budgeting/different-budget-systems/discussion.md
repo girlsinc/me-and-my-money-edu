@@ -11,3 +11,8 @@ pageId: "6"
 ---
 
 
+# Discussion
+
+![Speak Out!](/assets/img/lets-talk-about-it.png)
+
+# Based on what you’ve learned, which budgeting system would work best for you? Why?

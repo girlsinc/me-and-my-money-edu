@@ -11,3 +11,8 @@ pageId: "6"
 ---
 
 
+# Women and Budgeting
+
+## Watch the Nearpod video "Women Financial Superpowers" from Two Cents. Complete the S-I-T note catcher based on the content of the video.
+
+# <a href="https://nearpod.com/library/preview/lesson-L52877278" target="_blank">Click here to access "Women Financial Superpowers"</a>

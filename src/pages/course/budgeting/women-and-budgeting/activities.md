@@ -11,3 +11,11 @@ pageId: "6"
 ---
 
 
+# Activity
+
+## Complete the S-I-T note catcher based on the content of the video.
+
+- One Surprising fact or idea
+- One Interesting fact or idea
+- One Troubling fact or idea
+

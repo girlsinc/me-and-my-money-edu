@@ -11,3 +11,8 @@ pageId: "6"
 ---
 
 
+# Discussion
+
+![Speak Up!](/assets/img/lets-talk-about-it.png)
+
+## Tell your classmates what your first job was in your warm up exercise, and how much money you’re earning, and whether you needed a college education.

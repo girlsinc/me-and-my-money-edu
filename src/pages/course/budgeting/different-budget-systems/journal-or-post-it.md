@@ -11,3 +11,8 @@ pageId: "6"
 ---
 
 
+![Journal or Post it](/assets/img/journal-it.png)
+# Journal or Post it
+
+## How will you track your spending over the next week? Will you use the Google Doc or another method?
+<sparkle-feed-post assignment-name="Will you use the Google Doc or another method?" ></sparkle-feed-post>

@@ -11,3 +11,8 @@ pageId: "6"
 ---
 
 
+# Discussion
+
+![Speak Out!](/assets/img/lets-talk-about-it.png)
+
+# Share the main categories of your budget with your classmates. Did you miss anything? 

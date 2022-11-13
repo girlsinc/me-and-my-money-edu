@@ -11,3 +11,8 @@ pageId: "6"
 ---
 
 
+# Summary for Budgeting Basics
+# In today’s lesson: 
+1. You learnt three ways in which developing a budget will improve your lifestyle 
+2. You described the main categories in your budget
+3. You gave a clear and accurate definition of a budget and how it will help you reach financial goals

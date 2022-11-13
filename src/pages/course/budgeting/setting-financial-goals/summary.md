@@ -12,3 +12,9 @@ pageId: "6"
 
 
 # Summary
+
+## Present your vision board to the class
+
+
+![Discussion](/assets/img/lets-talk-about-it.png)
+

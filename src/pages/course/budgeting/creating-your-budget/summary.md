@@ -11,3 +11,7 @@ pageId: "6"
 ---
 
 
+# Summary for Creating Your Budget
+## In today’s lesson: 
+- Review your expenses from the previous week and create a sample budget using a budgeting system of your choice
+
