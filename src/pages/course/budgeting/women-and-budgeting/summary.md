@@ -11,7 +11,6 @@ pageId: "6"
 ---
 
 
-
 # Summary for Women and Budgeting
 ## In today’s lesson: 
 - Understand the importance of learning about budgeting and money management for women.
