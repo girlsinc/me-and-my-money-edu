@@ -1,0 +1,17 @@
+---
+previousText: "Activities"
+previousUrl: "/course/investing-for-the-future/i-want-to-be-rich/activities"
+nextText: "Journal or Post it"
+nextUrl: "/course/investing-for-the-future/i-want-to-be-rich/journal-or-post-it"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "5"
+sessionId: "11"
+pageId: "2"
+---
+
+
+![Roadmap](/assets/img/lets-talk-about-it.png)
+# Speak Out
+
+* Take a second and think about it. Then tell the class, why you want to be rich! Your ‘why’ matters!

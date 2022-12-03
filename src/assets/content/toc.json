@@ -811,26 +811,44 @@
             }
           ]
         }
-
-
-
-
-
-
       ]
     },
     {
-      "id": 5,
-      "number": 4,
+      "id": 1,
+      "number": 0,
       "name": "Investing for the Future",
       "urlName": "investing-for-the-future",
-      "comingSoon": true,
       "sessions": [
         {
-          "id": 1,
+          "id": 0,
           "number": 0,
-          "name": "Smart Money - Dumb Money",
-          "urlName": "smart-money-dumb-money",
+          "preventNumbering": true,
+          "name": "Introduction",
+          "urlName": "introduction",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Module Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "What do you know?",
+              "urlName": "what-do-you-know"
+            },
+
+            {
+              "id": 3,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 1,
+          "name": "I Want To Be Rich!",
+          "urlName": "i-want-to-be-rich",
           "pages": [
             {
               "id": 1,
@@ -839,8 +857,8 @@
             },
             {
               "id": 2,
-              "name": "Smart Money - Dumb Money2",
-              "urlName": "smart-money"
+              "name": "I Want To Be Rich!",
+              "urlName": "i-want-to-be-rich"
             },
             {
               "id": 3,
@@ -865,48 +883,10 @@
           ]
         },
         {
-          "id": 2,
-          "number": 1,
-          "name": "The Stock Market Game",
-          "urlName": "stock-market-game",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap"
-            },
-            {
-                "id": 2,
-                "name": "The Stock Market Game",
-                "urlName": "smart-money-intro"
-              },
-              {
-                "id": 3,
-                "name": "Activities",
-                "urlName": "activities"
-              },
-              {
-                "id": 4,
-                "name": "Take Action",
-                "urlName": "discussion"
-              },
-              {
-                "id": 5,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 6,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
-          ]
-        },
-        {
           "id": 3,
           "number": 2,
-          "name": "Dumb Money",
-          "urlName": "dumb-money",
+          "name": "Stocks and Bonds",
+          "urlName": "stocks-and-bonds",
           "pages": [
             {
               "id": 1,
@@ -915,26 +895,31 @@
             },
             {
                 "id": 2,
-                "name": "Dumb Money",
-                "urlName": "dunb-money-intro"
+                "name": "Stocks and Bonds",
+                "urlName": "stocks-and-bonds"
               },
               {
                 "id": 3,
-                "name": "Activities",
-                "urlName": "activities"
+                "name": "Activities - Stocks",
+                "urlName": "activities-stocks"
               },
               {
                 "id": 4,
+                "name": "Activities - Bonds",
+                "urlName": "activities-bonds"
+              },
+              {
+                "id": 5,
                 "name": "Take Action",
                 "urlName": "discussion"
               },
               {
-                "id": 5,
+                "id": 6,
                 "name": "Journal or Post it",
                 "urlName": "journal-or-post-it"
               },
               {
-                "id": 6,
+                "id": 7,
                 "name": "Wrap it up",
                 "urlName": "summary"
               }
@@ -943,8 +928,8 @@
         {
           "id": 4,
           "number": 3,
-          "name": "On Your Own",
-          "urlName": "on-your-own",
+          "name": "Security, Liquidity and Return",
+          "urlName": "security-liquidity-return",
           "pages": [
             {
               "id": 1,
@@ -953,8 +938,8 @@
             },
             {
                 "id": 2,
-                "name": "On Your Own",
-                "urlName": "on-your-own-intro"
+                "name": "Security, Liquidity and Return",
+                "urlName": "security-liquidity-return"
               },
               {
                 "id": 3,
@@ -976,6 +961,264 @@
                 "name": "Wrap it up",
                 "urlName": "summary"
               }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 4,
+          "name": "The Stock Market",
+          "urlName": "the-stock-market",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "The Stock Market",
+                "urlName": "the-stock-market"
+              },
+              {
+                "id": 3,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 4,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 5,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 6,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 5,
+          "name": "Choosing Where to Invest",
+          "urlName": "choosing-where-to-invest",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "Choosing Where to Invest",
+                "urlName": "choosing-where-to-invest"
+              },
+              {
+                "id": 3,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 4,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 5,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 6,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 6,
+          "name": "Checking a Stock",
+          "urlName": "checking-a-stock",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "Checking a Stock",
+                "urlName": "checking-a-stock"
+              },
+              {
+                "id": 3,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 4,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 5,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 6,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 7,
+          "name": "Building a Portfolio",
+          "urlName": "building-a-portfolio",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "Building a Portfolio",
+                "urlName": "building-a-portfolio"
+              },
+              {
+                "id": 3,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 4,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 5,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 6,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 8,
+          "name": "Mutual Funds",
+          "urlName": "mutual-funds",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "Mutual Funds",
+                "urlName": "mutual-funds"
+              },
+              {
+                "id": 3,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 4,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 5,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 6,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 9,
+          "name": "Inequalities in Investing",
+          "urlName": "inequalities-in-investing",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+                "id": 2,
+                "name": "Why People Don't Invest",
+                "urlName": "why-people-don't-invest"
+              },
+            {
+                "id": 3,
+                "name": "Investments by Income",
+                "urlName": "investments-by-income"
+              },
+            {
+                "id": 4,
+                "name": "Investments by Demographics",
+                "urlName": "investment-by-demographics"
+              },
+              {
+                "id": 5,
+                "name": "Activities",
+                "urlName": "activities"
+              },
+              {
+                "id": 6,
+                "name": "Take Action",
+                "urlName": "discussion"
+              },
+              {
+                "id": 7,
+                "name": "Journal or Post it",
+                "urlName": "journal-or-post-it"
+              },
+              {
+                "id": 8,
+                "name": "Wrap it up",
+                "urlName": "summary"
+              }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 0,
+          "preventNumbering": true,
+          "name": "Conclusion",
+          "urlName": "conclusion",
+          "pages": [
+            {
+              "id": 1,
+              "name": "What did you learn?",
+              "urlName": "what-do-you-know"
+            },
+
+            {
+              "id": 2,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think"
+            }
           ]
         }
       ]
