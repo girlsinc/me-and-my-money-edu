@@ -1,13 +1,13 @@
 ---
 previousText: "Activities"
-previousUrl: "/course/budgeting/researching-loans/activities"
+previousUrl: "/course/credit-and-debt/researching-loans/activities"
 nextText: "Journal or Post it"
-nextUrl: "/course/budgeting/researching-loans/journal-or-post-it"
+nextUrl: "/course/credit-and-debt/researching-loans/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

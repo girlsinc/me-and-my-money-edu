@@ -1,13 +1,13 @@
 ---
-previousText: "Wrap it up"
-previousUrl: "/course/budgeting/different-budget-systems/summary"
+previousText: "What do you think?"
+previousUrl: "/course/credit-and-debt/introduction/what-do-you-think"
 nextText: "Researching Loans"
-nextUrl: "/course/budgeting/researching-loans/researching-loans"
+nextUrl: "/course/credit-and-debt/researching-loans/researching-loans"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

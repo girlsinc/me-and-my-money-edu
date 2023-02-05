@@ -1,13 +1,13 @@
 ---
 previousText: "Researching Loans"
-previousUrl: "/course/budgeting/researching-loans/researching-loans"
+previousUrl: "/course/credit-and-debt/researching-loans/researching-loans"
 nextText: "Take Action"
-nextUrl: "/course/budgeting/researching-loans/discussion"
+nextUrl: "/course/credit-and-debt/researching-loans/discussion"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

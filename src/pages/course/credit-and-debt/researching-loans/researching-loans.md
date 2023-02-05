@@ -1,13 +1,13 @@
 ---
 previousText: "Lesson Roadmap"
-previousUrl: "/course/budgeting/researching-loans/roadmap"
+previousUrl: "/course/credit-and-debt/researching-loans/roadmap"
 nextText: "Activities"
-nextUrl: "/course/budgeting/researching-loans/activities"
+nextUrl: "/course/credit-and-debt/researching-loans/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

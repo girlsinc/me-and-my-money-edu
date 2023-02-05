@@ -1,13 +1,13 @@
 ---
 previousText: "Journal or Post it"
-previousUrl: "/course/budgeting/researching-loans/journal-or-post-it"
-nextText: "Lesson Roadmap"
-nextUrl: "/course/budgeting/money-magic/roadmap"
-lastLession: "true"
+previousUrl: "/course/credit-and-debt/researching-loans/journal-or-post-it"
+nextText: ""
+nextUrl: ""
+lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
