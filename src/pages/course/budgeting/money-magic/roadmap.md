@@ -1,13 +1,13 @@
 ---
 previousText: "Wrap it up"
-previousUrl: "/course/budgeting/researching-loans/summary"
+previousUrl: "/course/budgeting/different-budget-systems/summary"
 nextText: "Money Magic"
 nextUrl: "/course/budgeting/money-magic/money-magic"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

@@ -5,14 +5,17 @@ nextText: "Journal or Post it"
 nextUrl: "/course/money-messages/whats-your-money-story/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
-![Take Action](/assets/img/lets-talk-about-it.png)
-# Take Action
+![Take Action](/assets/img/speak-up.jpg)
+# SPEAK UP
 
-1. Watch this video:<br> <a href="http://nearpod.com/t/life-skills/8th/money-a-global-game-of-trust-L52877042" target="_blank">http://nearpod.com/t/life-skills/8th/money-a-global-game-of-trust-L52877042</a> 
-2. Partner up and describe money to a fellow student
+## How did the role playing game make you feel?
+<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+
+## What surprised you the most about what your partner said?
+<sparkle-feed-post assignment-name="" ></sparkle-feed-post>

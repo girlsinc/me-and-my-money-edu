@@ -1,21 +1,25 @@
 ---
-previousText: "Activities"
+previousText: "Take Action"
 previousUrl: "/course/money-messages/your-relationship-to-money/activities"
 nextText: "Journal or Post it"
 nextUrl: "/course/money-messages/your-relationship-to-money/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
-![Roadmap](/assets/img/lets-talk-about-it.png)
-# Take Action
-![Take Action](./take-action-131.jpg)
-## Where do you fall on the spectrum and how can you improve your relationship with money?
+# SPEAK UP
+![Roadmap](/assets/img/speak-up.jpg)
 
-- Acquisition: How much money is necessary for you to feel secure? 
-- Spending: Are you a penny pincher or an out f control spender? We hear about movie stars and athletes who make millions a year and end up broke. Are you intentional, and reasonable in your spending?
-- Management: This includes how you save, how you pay your bills and how you invest. Are you responsible in paying your bills and saving? 
+## Who did you admire for their financial accomplishments, and why? 
+<sparkle-feed-post assignment-name="Who did you admire for their financial accomplishments, and why?" ></sparkle-feed-post>
+
+## How did the situation of scarcity make you feel. Did you imagine it for yourself, or someone else? 
+<sparkle-feed-post assignment-name="How did the situation of scarcity make you feel. Did you imagine it for yourself, or someone else?" ></sparkle-feed-post>
+
+## Where do you fall on the spectrum and how can you improve your relationship with money?
+<sparkle-feed-post assignment-name="Where do you fall on the spectrum and how can you improve your relationship with money?" ></sparkle-feed-post>
+

@@ -5,18 +5,20 @@ nextText: "What do you know?"
 nextUrl: "/course/money-messages/introduction/what-do-you-know"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
+# Overview for Money Messages
 
 <sparkle-character-intro position="right" character="zynab">
-Ready to get started? Here are some of the key things you'll learn in this module
+The entire universe is conspiring to give you everything that you want. The fastest way to bring more abundance into your experience is to take constant notice of the wonderful things that are already there.
+- Ester Hicks
 </sparkle-character-intro>
 
-# Overview for Money Messages
+## In this module you will learn to: 
 1. Observe money messages in the media that reinforce stereotypes about women 
 2. Describe my feelings and attitudes around money
-3. understand that money is energy, And our relationship to money creates positive or negative energy
+3. Understand that money is energy, And our relationship to money creates positive or negative energy
 4. Explain What is my “money story”, my relationship to money

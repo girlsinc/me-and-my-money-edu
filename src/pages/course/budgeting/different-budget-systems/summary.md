@@ -2,12 +2,12 @@
 previousText: "Journal or Post it"
 previousUrl: "/course/budgeting/different-budget-systems/journal-or-post-it"
 nextText: "Lesson Roadmap"
-nextUrl: "/course/budgeting/researching-loans/roadmap"
+nextUrl: "/course/budgeting/money-magic/roadmap"
 lastLession: "true"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

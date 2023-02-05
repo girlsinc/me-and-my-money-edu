@@ -5,9 +5,9 @@ nextText: "How Much Does This Money Cost?"
 nextUrl: "/course/saving-spending-making-money/interest-rates/cost-of-money"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

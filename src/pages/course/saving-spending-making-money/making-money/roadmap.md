@@ -5,9 +5,9 @@ nextText: "Making Money by Solving Problems"
 nextUrl: "/course/saving-spending-making-money/making-money/making-money-by-solving-problems"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

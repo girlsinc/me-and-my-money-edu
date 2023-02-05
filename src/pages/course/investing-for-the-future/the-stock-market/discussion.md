@@ -5,9 +5,9 @@ nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/the-stock-market/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

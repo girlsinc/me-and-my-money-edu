@@ -5,9 +5,9 @@ nextText: "Investments by Demographics"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/investment-by-demographics"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

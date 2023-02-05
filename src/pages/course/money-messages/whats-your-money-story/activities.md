@@ -1,17 +1,18 @@
 ---
 previousText: "Money in the Media"
 previousUrl: "/course/money-messages/whats-your-money-story/money-in-the-media"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/money-messages/whats-your-money-story/discussion"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
-# Activities
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
+
 1. Icebreaker: name some songs, movies or television shows about money. What are the key messages in them? 
-2. Watch one of the business shows— CNBC or Bloomberg to listen to money messages—see how you feel, how much you understand
-3. Role-play with a partner: you’d be a wealthy CEO of a tech company and she’s a single mother struggling to make ends meet and reversed roles how did both situations make you feel?
+2. Role-play with a partner: You are a wealthy CEO of a tech company and she’s a single mother struggling to make ends meet. Talk about how your day went, then reverse roles and try again. 

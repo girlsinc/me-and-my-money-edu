@@ -1,17 +1,18 @@
 ---
-previousText: "Take Action"
+previousText: "Speak Up"
 previousUrl: "/course/money-messages/whats-your-money-story/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/money-messages/whats-your-money-story/summary"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
-<!-- <sparkle-quiz question-id="111"></sparkle-quiz> -->
-<sparkle-feed-post assignment-name="Describe the highlights of your experiences with money and share how you felt about them." ></sparkle-feed-post>
+# JOURNAL IT OR POST IT
+
+## What did you learn about money stories and how they impact peoples lives?  
+<sparkle-feed-post assignment-name="What did you learn about money stories and how they impact peoples lives?" ></sparkle-feed-post>

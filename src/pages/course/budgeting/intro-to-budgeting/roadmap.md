@@ -5,9 +5,9 @@ nextText: "Intro to Budgeting"
 nextUrl: "/course/budgeting/intro-to-budgeting/intro-to-budgeting"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

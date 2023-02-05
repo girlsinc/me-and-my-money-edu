@@ -94,7 +94,7 @@
             },
             {
               "id": 5,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -127,12 +127,12 @@
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "take-action"
             },
             {
@@ -165,12 +165,12 @@
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -564,44 +564,6 @@
           ]
         },
         {
-          "id": 5,
-          "number": 4,
-          "name": "Researching Loans",
-          "urlName": "researching-loans",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap"
-            },
-            {
-              "id": 2,
-              "name": "Researching Loans",
-              "urlName": "researching-loans"
-            },
-            {
-              "id": 3,
-              "name": "Activities",
-              "urlName": "activities"
-            },
-            {
-              "id": 4,
-              "name": "Take Action",
-              "urlName": "discussion"
-            },
-            {
-              "id": 5,
-              "name": "Journal or Post it",
-              "urlName": "journal-or-post-it"
-            },
-            {
-              "id": 6,
-              "name": "Wrap it up",
-              "urlName": "summary"
-            }
-          ]
-        },
-        {
           "id": 6,
           "number": 5,
           "name": "Money Magic",
@@ -814,8 +776,8 @@
       ]
     },
     {
-      "id": 1,
-      "number": 0,
+      "id": 5,
+      "number": 4,
       "name": "Investing for the Future",
       "urlName": "investing-for-the-future",
       "sessions": [
@@ -1218,6 +1180,77 @@
               "id": 2,
               "name": "What do you think?",
               "urlName": "what-do-you-think"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "number": 5,
+      "name":"Credit and Debt",
+      "urlName":"credit-and-debt",
+      "sessions":[
+        {
+          "id": 0,
+          "number": 0,
+          "preventNumbering": true,
+          "name": "Introduction",
+          "urlName": "introduction",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Module Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "What do you know?",
+              "urlName": "what-do-you-know"
+            },
+
+            {
+              "id": 3,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "number": 1,
+          "name": "Researching Loans",
+          "urlName": "researching-loans",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Researching Loans",
+              "urlName": "researching-loans"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
             }
           ]
         }

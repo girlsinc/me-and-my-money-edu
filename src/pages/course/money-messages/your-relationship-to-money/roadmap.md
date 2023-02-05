@@ -5,14 +5,19 @@ nextText: "Making Money My Friend"
 nextUrl: "/course/money-messages/your-relationship-to-money/making-money-my-friend"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Your Relationshop to Money
+# ROADMAP 
+
+<sparkle-character-intro position="right" character="jen">
+I have a fantastic relationship with money. I use it to buy my freedom. 
+-Gianni Versace
+</sparkle-character-intro>
 
 ## In today’s lesson you will learn:
 1. Attitudes You Want to Change

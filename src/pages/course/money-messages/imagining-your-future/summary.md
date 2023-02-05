@@ -5,18 +5,18 @@ nextText: "Lesson Roadmap"
 nextUrl: "/course/money-messages/your-relationship-to-money/roadmap"
 lastLession: "true"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
-# Lesson Summary 
+# RECAP 
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
-</sparkle-character-intro>
+If you have a bad attitude toward money, if you fear it or despise it or resent those who are rich, set out to change it if you want to be wealthy.</sparkle-character-intro>
 
+## In todays lesson we learned to:
 1. Set lofty goals - It is possible to attain your dreams
 2. Enter careers that will give give you a lifestyle you choose, as well as inner satisfaction.
 3. Avoid being limited by others ideas of who and what you should become.

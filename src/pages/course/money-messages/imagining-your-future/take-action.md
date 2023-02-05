@@ -1,16 +1,24 @@
 ---
-previousText: "Activities"
+previousText: "Take Action"
 previousUrl: "/course/money-messages/imagining-your-future/activities"
 nextText: "Journal or Post it"
 nextUrl: "/course/money-messages/imagining-your-future/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
-![Take Action](/assets/img/lets-talk-about-it.png)
-# Take Action
-- Partner up and describe a feeling of abundance to a fellow student, and ask them to describe the difference in their energy when they feel lack.
+![Take Action](/assets/img/speak-up.jpg)
+# SPEAK UP
+
+## How does your vision tree make you feel about your future?
+<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+
+## Did the vision tree influence your career choice? 
+<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+
+## What was the biggest surprise when thinking about this?   
+<sparkle-feed-post assignment-name="" ></sparkle-feed-post>

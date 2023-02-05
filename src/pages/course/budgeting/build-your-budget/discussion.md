@@ -5,9 +5,9 @@ nextText: "Journal or Post it"
 nextUrl: "/course/budgeting/build-your-budget/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

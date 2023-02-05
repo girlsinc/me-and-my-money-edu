@@ -5,9 +5,9 @@ nextText: "Why People Don't Invest"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/why-people-don't-invest"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

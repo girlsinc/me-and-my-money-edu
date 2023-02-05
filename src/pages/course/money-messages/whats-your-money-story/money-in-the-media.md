@@ -5,13 +5,13 @@ nextText: "Activities"
 nextUrl: "/course/money-messages/whats-your-money-story/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
-# Money in the Media
+# MONEY IN THE MEDIA
 <sparkle-youtube src="https://www.youtube.com/embed/gUhRKVIjJtw"></sparkle-youtube>
 
 <sparkle-youtube src="https://www.youtube.com/embed/ETxmCCsMoD0"></sparkle-youtube>

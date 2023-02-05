@@ -5,9 +5,9 @@ nextText: "Building a Portfolio"
 nextUrl: "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

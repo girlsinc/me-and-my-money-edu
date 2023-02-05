@@ -5,14 +5,15 @@ nextText: "Wrap it up"
 nextUrl: "/course/money-messages/imagining-your-future/summary"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 
+# JOURNAL IT OR POST IT
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
-<!-- <sparkle-quiz question-id="121"></sparkle-quiz> -->
-<sparkle-feed-post assignment-name="Describe the highlights of your most memorable feelings and experiences with money and share how you felt about them." ></sparkle-feed-post>
+
+## What was the most interesting thing you thought about when making your vision tree? 
+<sparkle-feed-post assignment-name="What was the most interesting thing you thought about when making your vision tree?" ></sparkle-feed-post>
 

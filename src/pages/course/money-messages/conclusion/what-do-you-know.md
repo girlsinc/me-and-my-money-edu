@@ -5,9 +5,9 @@ nextText: "What do you think?"
 nextUrl: "/course/money-messages/conclusion/what-do-you-think"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

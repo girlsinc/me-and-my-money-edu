@@ -1,13 +1,13 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/money-messages/imagining-your-future/roadmap"
-nextText: "Activities"
+nextText: "Take Action"
 nextUrl: "/course/money-messages/imagining-your-future/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
 
 

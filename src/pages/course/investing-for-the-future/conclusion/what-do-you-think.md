@@ -1,16 +1,14 @@
 ---
 previousText: "What did you learn?"
 previousUrl: "/course/investing-for-the-future/conclusion/what-do-you-know"
-nextText: ""
-nextUrl: ""
+nextText: "Module Roadmap"
+nextUrl: "/course/credit-and-debt/introduction/roadmap"
 lastLession: "false"
-lastSession: "false"
-courseModuleId: "5"
-sessionId: "11"
-pageId: "2"
+lastSession: "true"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
-
-
 
 
 # What Do You Think?
