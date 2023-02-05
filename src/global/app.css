@@ -145,6 +145,8 @@ sparkle-page-footer {
 }
 sparkle-character-intro {
   --sparkle-character-background-color: #ffffff;
+  line-height: 18px;
+    font-size: 18px;
 }
 
 main > article ol, main > article ul {
@@ -186,10 +188,13 @@ main > article {
   background-color: rgba(245,245,245,.5);
   padding: 10px;
 }
-main > article h1, main > article h2 {
+main > article h1, main > article h2, main > article h3 {
   color: var(--ion-color-primary);
 }
 main > article h2 {
+  font-size: 22px;
+}
+main > article h3 {
   font-size: 18px;
 }
 .question-text, .question-container > label {
