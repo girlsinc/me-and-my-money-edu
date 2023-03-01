@@ -13,7 +13,7 @@ pageId: "6"
 
 ![Roadmap](/assets/img/roadmap.png)
 # ROADMAP FOR WHATS YOUR MONEY STORY
-<sparkle-character-intro position="right" character="yuna">
+<sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
 We are bombarded by money messages in the media from our family, everywhere. Only listen to the positive ones; focus on what you have, and not on what you lack.
 </sparkle-character-intro>
 
