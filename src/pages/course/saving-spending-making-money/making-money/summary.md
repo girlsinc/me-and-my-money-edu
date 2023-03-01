@@ -11,12 +11,18 @@ pageId: "6"
 ---
 
 
-# Lesson Summary 
+# RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+The way to identify business opportunities: observe trends in the market, identify pain points, and problems, aim to come up with solutions.
 </sparkle-character-intro>
 
-1. Learn How to Identify Business opportunities
-2. Learn to Assess the Need for a new product or Service
-3. Learn to Identify the Key Elements of a Business Plan
+It is important to establish the level of likely demand for the product or service using research. If no direct evidence is available, using focus groups or seeking evidence of demand for close substitutes is a good alternative. ie if you want to start a yoga center, you might look at the trends in people buying yoga apps.
+
+## The key elements of the business plan are:
+ 
+- Executive summary. This is your five-minute elevator pitch. 
+- Business description and structure. This is where you explain why you're in business and what you're selling. 
+- Market research and strategies. 
+- Management and personnel. 
+- Financial documents: how much money you are projecting to spend and earn; and your month to month margins of profits over several years.

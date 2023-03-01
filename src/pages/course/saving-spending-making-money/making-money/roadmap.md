@@ -12,8 +12,13 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Making Money
-# In today’s lesson: 
-1. Learn How to Identify Business opportunities
-2. Learn to Assess the Need for a new product or Service
-3. Learn to Identify the Key Elements of a Business Plan
+# ROADMAP FOR MAKING MONEY
+<sparkle-character-intro position="right" character="jen">
+"If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it." — Steve Jobs
+</sparkle-character-intro>
+
+## In today's lesson we will learn to:
+
+1. Identify business opportunities
+2. Assess the need for a new product or service
+3. Identify the key elements of a business plan

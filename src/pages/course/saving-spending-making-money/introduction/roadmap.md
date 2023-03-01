@@ -10,13 +10,15 @@ sessionId: "2"
 pageId: "6"
 ---
 
+# OVERVIEW FOR SAVING IT, SPENDING IT, MAKING IT
 
 <sparkle-character-intro position="right" character="kimberly">
-Last module taught us how to think about money - now it's time to get our hands on it! We're going to:
+"Don’t save what is left after spending, but spend what is left after saving."
+-Warren Buffett
 </sparkle-character-intro>
 
-# Overview for Saving it, Spending it, Making it
-1. Learn the Importance of Saving Early and Often
-2. Learn Good Money Habits and How To Develop Them
-3. Start Small, Think Big regarding Savings Habits, Goals
+
+1. Learn the importance of saving early and often
+2. Learn good money habits and how to develop them
+3. Start small, think big regarding savings habits, goals
 4. Explain my relationship to saving money

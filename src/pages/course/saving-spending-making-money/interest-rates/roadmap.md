@@ -12,9 +12,15 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Interest Rates
-1. Learn How Banks, credit card companies make money 
-2. Learn How Banks Set Interest Rates
-3. Learn the Benefits and Challenges of Credit Cards
-4. Learn to pay off credit  card debt
+# ROADMAP FOR INTEREST RATES
+<sparkle-character-intro position="right" character="jen">
+"The wise woman patterns her life on the theory and practice of modern banking. She never gives her love, but only lends it to the best security at the highest interest rate . " - Henri Toulouse, Lautrec
+</sparkle-character-intro>
+
+## In today's lesson we will learn how:
+
+1. Banks, credit card companies make money 
+2. Banks set interest rates
+3. The benefits and challenges of credit cards
+4. To pay off credit card debt
 

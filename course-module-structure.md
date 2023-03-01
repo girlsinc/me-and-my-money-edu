@@ -3,7 +3,7 @@
 
 ## 1) Roadmap 
     1) Character intro with "teaser" statement
-    2) Introduce the main objectives of the lesson in point form. The format should be “In todays lesson we will learn to: “
+    2) Introduce the main objectives of the lesson in point form. The format should be “In today's lesson we will learn to: “
     3) Warm up: Simple question to get started. The purpose is to get girls engaged with thought about the subject. 
  
 ## 2) Vignette/Video/Interaction 
@@ -23,5 +23,5 @@
  
 ## 7) Recap 
     1) Character "outro" with affirmation  
-    2) Summary of the main takeaways in point form. The format should be “In todays lesson we learned to:” (same items as roadmaps, but as highlights derived from the lesson, so more detailed and specific) . 
+    2) Summary of the main takeaways in point form. The format should be “In today's lesson we learned to:” (same items as roadmaps, but as highlights derived from the lesson, so more detailed and specific) . 
  

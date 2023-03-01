@@ -12,5 +12,7 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/lets-talk-about-it.png)
-# Take Action
+# SPEAK UP
 ## Choose a partner and tell her what the “prime rate” is. Look up the daily prime rate published in the Wall Street Journal.
+
+<sparkle-feed-post assignment-name="Who did you admire for their financial accomplishments, and why?" ></sparkle-feed-post>

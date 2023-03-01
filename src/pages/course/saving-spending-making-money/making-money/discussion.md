@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/lets-talk-about-it.png)
-# Take Action
+# SPEAK UP
 
 ## Identify a skill or talent that you think could be converted into a home-based or online business opportunity. Simply go through the following list of business ideas for young women who want to be their own boss and find out if you could be one of them.
 

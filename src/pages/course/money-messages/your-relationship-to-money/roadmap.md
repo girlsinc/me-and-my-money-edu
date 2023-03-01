@@ -12,14 +12,15 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# ROADMAP 
+# ROADMAP FOR YOUR RELATIONSHIP TO MONEY
 
 <sparkle-character-intro position="right" character="jen">
 I have a fantastic relationship with money. I use it to buy my freedom. 
 -Gianni Versace
 </sparkle-character-intro>
 
-## In today’s lesson you will learn:
-1. Attitudes You Want to Change
-2. How to find a Role Model Whose Attitude Toward Money You Admire
-3. Be Careful of the Company You Keep
+## In today's lesson we will learn to:
+
+1. Attitudes you want to change
+2. How to find a role model whose attitude toward money you admire
+3. Be careful of the company you keep

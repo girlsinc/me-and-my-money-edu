@@ -12,8 +12,10 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for The Importance of Saving
-## In today's lesson we're going to learn to:
+# ROADMAP FOR THE IMPORTANCE OF SAVING
+
+## In today's lesson we will learn to:
+
 1. Learn the importance and benefits of saving
 2. Understand how compound interest works
 3. Learn to identify goals for your savings

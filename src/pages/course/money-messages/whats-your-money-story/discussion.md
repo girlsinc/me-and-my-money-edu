@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-![Take Action](/assets/img/speak-up.jpg)
+![Take Action](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
 
 ## How did the role playing game make you feel?

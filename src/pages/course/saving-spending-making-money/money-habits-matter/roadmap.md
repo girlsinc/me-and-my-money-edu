@@ -12,9 +12,15 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Money Habits Matter
-1. Learn to keep track of what you’re  spending and what you have left over to save; keep track of how much you have, what’s coming in, what you’re spending
-2. Learn to open Checking and Savings Accounts to track much you’re spending, how much you’re saving
-3.  Learn to distinguish between wants versus needs
-4. Learn to reduce your credit card debt
+# ROADMAP FOR MONEY HABITS MATTER
+<sparkle-character-intro position="right" character="jen">
+"Wealth is largely the result of habit." — John Jacob Astor
+</sparkle-character-intro>
+
+## In today's lesson we will learn to:
+
+1. Keep track of what you’re  spending and what you have left over to save; keep track of how much you have, what’s coming in, what you’re spending
+2. Open checking and savings accounts to track much you’re spending, how much you’re saving
+3. Distinguish between wants versus needs
+4. Reduce your credit card debt
 

@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# ROADMAP
+# ROADMAP FOR IMAGINING YOUR FUTURE
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro position="right" character="jen">
 What we really want to do is what we are really meant to do. When we do what we are meant to do, money comes to us, doors open for us, we feel useful, and the work we do feels like play to us.<br /> 
@@ -19,6 +19,7 @@ What we really want to do is what we are really meant to do. When we do what we 
 </sparkle-character-intro>
 
 ## In today's lesson we will learn to:
+
 1. Experience the feeling of setting lofty goals, that it is possible to attain your dreams
 2. See the value of entering careers that will give them a lifestyle they choose as well as inner satisfaction.
 3. Not to be limited by others ideas of who and what they should become.

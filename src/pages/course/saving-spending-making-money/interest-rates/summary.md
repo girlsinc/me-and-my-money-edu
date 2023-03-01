@@ -11,13 +11,19 @@ pageId: "6"
 ---
 
 
-# Lesson Summary 
+# RECAP
 
 <sparkle-character-intro position="right" character="jen">
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
-1. Learn How Banks, credit card companies make money 
-2. Learn How Banks Set Interest Rates
-3. Learn the Benefits and Challenges of Credit Cards
-4. Learn to pay off credit  card debt
+1. Banks make money in two ways: commercial banking, and investment banking. They earn fees for customer services, in both investment and commercial banking, such as fees for checking accounts, savings accounts, financial counseling, loan servicing and the sales of other financial products (e.g., insurance and mutual funds).
+
+
+2. Credit card companies also make money by collecting fees. On fees, interest charges are the primary source of revenue. When credit card users fail to pay off their bill at the end of the month, the bank is allowed to charge interest on the borrowed amount.
+
+
+3. Banks set interest rates corresponding to the rates set by the Federal Reserve. Other factors involved: banks also consider the interest rates charged by competitors, borrower's creditworthiness, which includes their credit score, income, savings, and other financial metrics.
+
+
+4. The benefits of credit cards far outweigh the disadvantages. The benefits include building, credit, convenience, and rewards. The downside is how easy it is to overspend and wind up paying very high interest rates and quickly getting into spiraling debt

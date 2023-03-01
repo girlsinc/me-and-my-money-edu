@@ -10,14 +10,16 @@ sessionId: "2"
 pageId: "6"
 ---
 
-# Overview for Money Messages
+
+# OVERVIEW FOR MONEY MESSAGES
 
 <sparkle-character-intro position="right" character="zynab">
 The entire universe is conspiring to give you everything that you want. The fastest way to bring more abundance into your experience is to take constant notice of the wonderful things that are already there.
 - Ester Hicks
 </sparkle-character-intro>
 
-## In this module you will learn to: 
+## In today's lesson we will learn to:
+
 1. Observe money messages in the media that reinforce stereotypes about women 
 2. Describe my feelings and attitudes around money
 3. Understand that money is energy, And our relationship to money creates positive or negative energy
