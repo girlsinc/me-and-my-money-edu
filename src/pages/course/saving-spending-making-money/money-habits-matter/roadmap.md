@@ -13,7 +13,7 @@ pageId: "6"
 
 ![Roadmap](/assets/img/roadmap.png)
 # ROADMAP FOR MONEY HABITS MATTER
-<sparkle-character-intro position="right" character="jen">
+<sparkle-character-intro class="shift-up-overlap" position="right" character="jen">
 "Wealth is largely the result of habit." — John Jacob Astor
 </sparkle-character-intro>
 

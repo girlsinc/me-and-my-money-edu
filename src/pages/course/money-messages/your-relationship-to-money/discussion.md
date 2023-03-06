@@ -12,7 +12,7 @@ pageId: "6"
 
 
 # SPEAK UP
-![Roadmap](/assets/img/speak-up.jpg)
+![Take Action](/assets/img/lets-talk-about-it.png)
 
 ## Who did you admire for their financial accomplishments, and why? 
 <sparkle-feed-post assignment-name="Who did you admire for their financial accomplishments, and why?" ></sparkle-feed-post>

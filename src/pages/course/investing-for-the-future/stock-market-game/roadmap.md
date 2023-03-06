@@ -11,11 +11,11 @@ pageId: "6"
 ---
 
 
-# Roadmap
+# ROADMAP FOR STOCK MARKET GAMES
 
 <img src="/assets/img/roadmap.png" />
 
-# In this lesson you will learn about
+## In today's lesson we will learn about:
 
 - Conscious and subconscious attitudes
 - Impressions of banks

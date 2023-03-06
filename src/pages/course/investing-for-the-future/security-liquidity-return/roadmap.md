@@ -11,8 +11,8 @@ pageId: "6"
 ---
 
 
-# Roadmap for Security, Liquidity and Return
-# In today’s lesson: 
+# ROADMAP FOR SECURITY, LIQUIDITY AND RETURN
+## In today's lesson we will learn how to:
 1. Understand the terms return, security, and liquidity.
 2. Determine what is most important to you when you’re investing
 

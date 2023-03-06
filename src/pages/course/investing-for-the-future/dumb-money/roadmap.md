@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Roadmap
+# ROADMAP FOR DUMB MONEY, SMART MONEY
 
 <img src="/assets/img/roadmap.png" />
 

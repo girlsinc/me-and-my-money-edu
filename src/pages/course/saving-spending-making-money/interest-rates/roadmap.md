@@ -13,7 +13,7 @@ pageId: "6"
 
 ![Roadmap](/assets/img/roadmap.png)
 # ROADMAP FOR INTEREST RATES
-<sparkle-character-intro position="right" character="jen">
+<sparkle-character-intro class="shift-up-overlap" position="right" character="jen">
 "The wise woman patterns her life on the theory and practice of modern banking. She never gives her love, but only lends it to the best security at the highest interest rate . " - Henri Toulouse, Lautrec
 </sparkle-character-intro>
 

@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Making Money
+# ROADMAP FOR MAKING MONEY
 ## In today’s lesson: 
 1. Learn how to assess an individual stock’s performance
 2. Analyze the performance of individual stocks over time.

@@ -12,11 +12,11 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Build Your Budget
-## In today’s lesson: 
-- Be able to determine which budgeting approach which works best for you
-- Understand the benefits to your earning power by going to college
-- Understand how emotions relate 
+# ROADMAP FOR BUILD YOUR BUDGET
+## In today's lesson we will learn how:
+- To be able to determine which budgeting approach which works best for you
+- To understand the benefits to your earning power by going to college
+- To understand how emotions relate 
 
 
 # Warm Up

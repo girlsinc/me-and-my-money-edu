@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Choosing Where To Invest
+# ROADMAP FOR CHOOSING WHERE TO INVEST
 # In today’s lesson: 
 1. Discuss strategies for deciding which companies to invest in by buying stocks
 2. Learn about real estate as an investment

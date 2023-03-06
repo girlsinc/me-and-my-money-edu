@@ -12,11 +12,11 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Mutual Funds
-# In today’s lesson: 
-1. How a mutual fund works
-2. Learn the benefits of investing in mutual funds
-3. Learn about index funds
+# ROADMAP FOR MUTUAL FUNDS
+## In today's lesson we will learn how:
+1. A mutual fund works
+2. The benefits of investing in mutual funds
+3. Index funds work
 
 # Warm Up
 - What is the benefit of having multiple stocks in your portfolio?

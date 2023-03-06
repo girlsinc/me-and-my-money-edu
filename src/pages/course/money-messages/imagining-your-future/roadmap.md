@@ -13,7 +13,7 @@ pageId: "6"
 
 # ROADMAP FOR IMAGINING YOUR FUTURE
 ![Roadmap](/assets/img/roadmap.png)
-<sparkle-character-intro position="right" character="jen">
+<sparkle-character-intro class="shift-up-overlap" position="right" character="jen">
 What we really want to do is what we are really meant to do. When we do what we are meant to do, money comes to us, doors open for us, we feel useful, and the work we do feels like play to us.<br /> 
 –Julia Cameron
 </sparkle-character-intro>

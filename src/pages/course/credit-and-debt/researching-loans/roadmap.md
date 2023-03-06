@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Reseaching Loans
+# ROADMAP FOR RESEACHING LOANS
 # In today’s lesson: 
 - Review the different budget systems and determine which one works best for you.
 - Understand what’s most important to include,  based on your needs, ie weekly, monthly, yearly

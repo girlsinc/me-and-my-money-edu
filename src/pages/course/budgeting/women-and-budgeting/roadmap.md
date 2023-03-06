@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Women and Budgeting
+# ROADMAP FOR WOMEN AND BUDGETING
 ## In today’s lesson: 
 - Understand the importance of learning about budgeting and money management for women.
 - Reflect on the best ways for you to achieve financial independence

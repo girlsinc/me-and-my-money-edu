@@ -12,8 +12,8 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Lesson Roadmap 
-# In today’s lesson we’re going to learn: 
+# ROADMAP FOR STOCKS AND BONDS 
+## In today's lesson we will learn how to:
 
 1. Describe the similarities and differences between stocks and bonds.
 2. Understand how Real Estate compares to stocks as an investment

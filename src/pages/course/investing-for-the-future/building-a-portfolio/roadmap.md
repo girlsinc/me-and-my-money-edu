@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Building a Portfolio
+# ROADMAP FOR BUILDING A PORTFOLIO
 # In today’s lesson: 
 1. Learn the difference between investing in an individual stocks yourself and investing in a mutual fund 
 2. Collaborate with your classmates to build a stock portfolio

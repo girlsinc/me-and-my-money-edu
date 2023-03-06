@@ -12,8 +12,8 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Inequalities in Investing
-# In today’s lesson: 
+# ROADMAP FOR INEQUALITIES IN INVESTING
+## In today's lesson we will learn how to:
 
 1. Learn who’s invest in the stock market, why and why not?
 2. Learn ways to change who invests.

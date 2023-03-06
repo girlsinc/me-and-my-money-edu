@@ -12,9 +12,9 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Creating Your Budget
-## In today’s lesson: 
-- Review your expenses from the previous week and create a sample budget using a budgeting system of your choice
+# ROADMAP FOR CREATING YOUR BUDGET
+## In today's lesson we will learn how:
+- To review your expenses from the previous week and create a sample budget using a budgeting system of your choice
 
 # Warm Up
 - Review your expenses that you tracked over the previous week. What were your needs? What were your wants? Record this information. 

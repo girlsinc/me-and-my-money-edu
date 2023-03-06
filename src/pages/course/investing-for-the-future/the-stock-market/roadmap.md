@@ -12,8 +12,8 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for The Stock Market
-# In today’s lesson: 
+# ROADMAP FOR THE STOCK MARKET
+## In today's lesson we will learn how to:
 
 1. Describe key features of the U.S. Stock Market and how it functions. 
 2. Understand what makes the stock market go up and down.

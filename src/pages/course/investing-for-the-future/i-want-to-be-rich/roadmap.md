@@ -11,11 +11,12 @@ pageId: "6"
 ---
 
 
-<sparkle-character-intro position="right" character="yuna">
+![Roadmap](/assets/img/roadmap.png)
+
+<sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
 Investing in yourself means investing in your financial wellbeing, health, career,  interests, as well as stocks and bonds. Investing is a mindset to set yourself up for success!</sparkle-character-intro>
 
-![Roadmap](/assets/img/roadmap.png)
-# Lesson Roadmap 
+# ROADMAP FOR I WANT TO BE RICH
 # In today’s lesson we’re going to learn: 
 
 1. That good financial plan involves investing as well as saving 

@@ -12,8 +12,8 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
-# Roadmap for Different Budget Systems
-# In today’s lesson: 
+# ROADMAP FOR DIFFERENT BUDGET SYSTEMS
+## In today's lesson we will learn how:
 - Learn about different budget systems.
 - Learn how to select the budget that is best for your needs
 - Learn to develop your own spending plan that includes your expenses and income

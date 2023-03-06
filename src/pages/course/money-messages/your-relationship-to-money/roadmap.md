@@ -14,7 +14,7 @@ pageId: "6"
 ![Roadmap](/assets/img/roadmap.png)
 # ROADMAP FOR YOUR RELATIONSHIP TO MONEY
 
-<sparkle-character-intro position="right" character="jen">
+<sparkle-character-intro class="shift-up-overlap" position="right" character="jen">
 I have a fantastic relationship with money. I use it to buy my freedom. 
 -Gianni Versace
 </sparkle-character-intro>
