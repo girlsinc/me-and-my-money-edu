@@ -148,6 +148,9 @@ sparkle-character-intro {
   line-height: 18px;
     font-size: 18px;
 }
+sparkle-character-intro.shift-up-overlap .character-phrase-block {
+  margin-top: -75px !important;
+}
 
 main > article ol, main > article ul {
   padding-left: 0px;
