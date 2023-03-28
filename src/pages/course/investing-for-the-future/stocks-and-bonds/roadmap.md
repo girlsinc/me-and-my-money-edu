@@ -12,6 +12,9 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
+<sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
+Take control of your investments with our 'Stocks and Bonds' lesson! Discover the similarities and differences between these two popular options, compare real estate and stocks as investments, and learn about the stock market's ups and downs. Join us today to level up your investment game!</sparkle-character-intro>
+
 # ROADMAP FOR STOCKS AND BONDS 
 ## In today's lesson we will learn how to:
 

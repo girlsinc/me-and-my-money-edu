@@ -10,8 +10,10 @@ sessionId: "2"
 pageId: "6"
 ---
 
-
 ![Roadmap](/assets/img/roadmap.png)
+<sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
+Discover the power of mutual funds and index funds. Join us today to learn how these investments work and how they can benefit you.</sparkle-character-intro>
+
 # ROADMAP FOR MUTUAL FUNDS
 ## In today's lesson we will learn how:
 1. A mutual fund works

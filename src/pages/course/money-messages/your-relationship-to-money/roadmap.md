@@ -19,8 +19,8 @@ I have a fantastic relationship with money. I use it to buy my freedom.
 -Gianni Versace
 </sparkle-character-intro>
 
-## In today's lesson we will learn to:
+## In today's lesson we will learn how to:
 
 1. Attitudes you want to change
-2. How to find a role model whose attitude toward money you admire
+2. Find a role model whose attitude toward money you admire
 3. Be careful of the company you keep

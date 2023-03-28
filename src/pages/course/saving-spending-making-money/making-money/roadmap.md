@@ -17,7 +17,7 @@ pageId: "6"
 "If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it." — Steve Jobs
 </sparkle-character-intro>
 
-## In today's lesson we will learn to:
+## In today's lesson we will learn how to:
 
 1. Identify business opportunities
 2. Assess the need for a new product or service

@@ -17,7 +17,7 @@ pageId: "6"
 "Wealth is largely the result of habit." — John Jacob Astor
 </sparkle-character-intro>
 
-## In today's lesson we will learn to:
+## In today's lesson we will learn how to:
 
 1. Keep track of what you’re  spending and what you have left over to save; keep track of how much you have, what’s coming in, what you’re spending
 2. Open checking and savings accounts to track much you’re spending, how much you’re saving

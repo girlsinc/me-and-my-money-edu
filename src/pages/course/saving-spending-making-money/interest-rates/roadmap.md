@@ -17,7 +17,7 @@ pageId: "6"
 "The wise woman patterns her life on the theory and practice of modern banking. She never gives her love, but only lends it to the best security at the highest interest rate . " - Henri Toulouse, Lautrec
 </sparkle-character-intro>
 
-## In today's lesson we will learn how:
+## In today's lesson we will learn about:
 
 1. Banks, credit card companies make money 
 2. Banks set interest rates

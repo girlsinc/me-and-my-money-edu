@@ -11,10 +11,13 @@ pageId: "6"
 ---
 
 
-# Summary of Inequalities of Investing
+# RECAP
 
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>
+
+## In today's lesson we learned to: 
 - Stock ownership is strongly correlated with household income, formal education, age and race.
-
 - The percentages owning stock ranges from 89% of adults in households earning $100,000 or more and 79% of those with postgraduate education, to a low of 25% of those in households earning less than $40,000.
-
 - No matter your income, plan to invest. These are many ways to begin investing on a low income: invest in your education; save 10% in cash; invest in a stock of something that’s familiar to you; start a retirement account.

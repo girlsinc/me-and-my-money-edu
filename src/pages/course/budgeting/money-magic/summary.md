@@ -11,8 +11,13 @@ pageId: "6"
 ---
 
 
-# Summary for Money Magic
-# In today’s lesson: 
+# RECAP
+
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>
+
+## In today's lesson we learned to: 
 - Learn to create a Zero-based Budget by playing “Money Magic.”
 - Understand that in most budgets, individuals start with the previous budget, i.e. what you spent last month, last year, what your earned, last week, month, year, as a template, then build on it.
 

@@ -10,6 +10,9 @@ sessionId: "2"
 pageId: "6"
 ---
 
+![Roadmap](/assets/img/roadmap.png)
+<sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
+Maximize your investments with our 'Security, Liquidity, and Return' lesson! Learn about important terms like return, security, and liquidity, and discover what matters most to you when investing. Join us today to take control of your financial future!</sparkle-character-intro>
 
 # ROADMAP FOR SECURITY, LIQUIDITY AND RETURN
 ## In today's lesson we will learn how to:

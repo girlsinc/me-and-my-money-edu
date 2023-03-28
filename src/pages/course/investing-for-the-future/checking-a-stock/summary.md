@@ -11,7 +11,12 @@ pageId: "6"
 ---
 
 
-# Summary for Checking a Stock
+# RECAP
 
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>
+
+## In today's lesson we learned to: 
 - Respond to the questions and prompts by analyzing data from Google Finance.
 - Complete the wrap up based on your learning in the lesson, citing specific and relevant evidence from your research to support your response.

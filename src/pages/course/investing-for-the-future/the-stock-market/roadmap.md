@@ -12,6 +12,9 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/roadmap.png)
+<sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
+Learn all about the U.S. stock market and its features in our 'Stock Market' lesson. Discover what drives market trends and explore the major stock exchanges in the country. Enhance your investment knowledge and take your first step towards informed decision-making today.</sparkle-character-intro>
+
 # ROADMAP FOR THE STOCK MARKET
 ## In today's lesson we will learn how to:
 

@@ -11,8 +11,13 @@ pageId: "6"
 ---
 
 
-# Summary for Women and Budgeting
-## In today’s lesson: 
+# RECAP
+
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>
+
+## In today's lesson we learned to: 
 - Understand the importance of learning about budgeting and money management for women.
 - Reflect on the best ways for you to achieve financial independence
 
