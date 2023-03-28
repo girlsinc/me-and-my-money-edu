@@ -14,6 +14,7 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
+By reflecting on our attitudes towards money and seeking positive role models, we can cultivate healthier financial habits and surround ourselves with people who support our financial goals.
 </sparkle-character-intro>
 
 ## In today's lesson we learned to:

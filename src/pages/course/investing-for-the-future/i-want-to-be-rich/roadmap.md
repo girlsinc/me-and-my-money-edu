@@ -17,7 +17,7 @@ pageId: "6"
 Investing in yourself means investing in your financial wellbeing, health, career,  interests, as well as stocks and bonds. Investing is a mindset to set yourself up for success!</sparkle-character-intro>
 
 # ROADMAP FOR I WANT TO BE RICH
-# In today’s lesson we’re going to learn: 
+## In today's lesson we're going to learn: 
 
 1. That good financial plan involves investing as well as saving 
 2. That the average investor is most likely to be invested in the stock market through mutual funds and retirement plans

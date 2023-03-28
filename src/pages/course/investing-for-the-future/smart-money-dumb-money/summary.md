@@ -11,4 +11,8 @@ pageId: "6"
 ---
 
 
-# Summary
+# RECAP
+
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>

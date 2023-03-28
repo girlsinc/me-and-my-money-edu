@@ -18,9 +18,9 @@ The entire universe is conspiring to give you everything that you want. The fast
 - Ester Hicks
 </sparkle-character-intro>
 
-## In today's lesson we will learn to:
+## In today's lesson we will learn how to:
 
 1. Observe money messages in the media that reinforce stereotypes about women 
 2. Describe my feelings and attitudes around money
 3. Understand that money is energy, And our relationship to money creates positive or negative energy
-4. Explain What is my “money story”, my relationship to money
+4. Explain What is my "money story", my relationship to money

@@ -11,12 +11,16 @@ pageId: "6"
 ---
 
 
+
 ![Roadmap](/assets/img/roadmap.png)
+<sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
+Learn how to assess and analyze individual stock performance, and compare the performance of various stocks and sectors.</sparkle-character-intro>
+
 # ROADMAP FOR MAKING MONEY
-## In today’s lesson: 
-1. Learn how to assess an individual stock’s performance
-2. Analyze the performance of individual stocks over time.
-3. Compare the performance of various stocks and sectors (companies that work in the same field of business, ie energy, health, technology, etc.)
+## In today's lesson we will learn how:
+1. To assess an individual stock's performance
+2. To analyze the performance of individual stocks over time.
+3. To compare the performance of various stocks and sectors (companies that work in the same field of business, ie energy, health, technology, etc.)
 
 
 # Warm Up

@@ -18,7 +18,7 @@ What we really want to do is what we are really meant to do. When we do what we 
 –Julia Cameron
 </sparkle-character-intro>
 
-## In today's lesson we will learn to:
+## In today's lesson we will learn how to:
 
 1. Experience the feeling of setting lofty goals, that it is possible to attain your dreams
 2. See the value of entering careers that will give them a lifestyle they choose as well as inner satisfaction.

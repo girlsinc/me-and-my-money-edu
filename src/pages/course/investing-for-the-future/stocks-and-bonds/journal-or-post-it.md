@@ -14,5 +14,5 @@ pageId: "6"
 ![Journal or Post it](/assets/img/journal-it.png)
 # Journal or Post it
 
-## Based on what you learned in today’s lesson, would you prefer to invest in stocks or bonds? Why?
-<sparkle-feed-post assignment-name="Based on what you learned in today’s lesson, would you prefer to invest in stocks or bonds? Why?" ></sparkle-feed-post>
+## Based on what you learned in today's lesson, would you prefer to invest in stocks or bonds? Why?
+<sparkle-feed-post assignment-name="Based on what you learned in today's lesson, would you prefer to invest in stocks or bonds? Why?" ></sparkle-feed-post>

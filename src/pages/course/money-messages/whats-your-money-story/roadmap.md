@@ -17,7 +17,7 @@ pageId: "6"
 We are bombarded by money messages in the media from our family, everywhere. Only listen to the positive ones; focus on what you have, and not on what you lack.
 </sparkle-character-intro>
 
-## In today's lesson we will learn to:
+## In today's lesson we will learn how to:
 
 1. Become aware of money messages we hear every day including those from your own family
 2. Learn the difference between wants and needs

@@ -11,8 +11,13 @@ pageId: "6"
 ---
 
 
-# Summary for Different Budget Systems
-# In today’s lesson: 
+# RECAP
+
+<sparkle-character-intro position="right" character="jen">
+Let's look at the highlights from today's lesson
+</sparkle-character-intro>
+
+## In today's lesson we learned to: 
 - Learn about different budget systems.
 - Learn how to select the budget that is best for your needs
 - Learn to develop your own spending plan that includes your expenses and income
