@@ -11,8 +11,9 @@ pageId: "6"
 ---
 
 
-![Roadmap](/assets/img/roadmap.png)
 # ROADMAP FOR MAKING MONEY
+
+![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="jen">
 "If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it." — Steve Jobs
 </sparkle-character-intro>

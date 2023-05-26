@@ -1,8 +1,8 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/investing-for-the-future/choosing-where-to-invest/roadmap"
-nextText: "Activities"
-nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/activities"
+nextText: "Take Action"
+nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"

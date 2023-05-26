@@ -1,14 +1,15 @@
 ---
-previousText: 'Wrap it up'
-previousUrl: '/course/budgeting/women-and-budgeting/summary'
-nextText: 'Creating Your Budget'
-nextUrl: '/course/budgeting/creating-your-budget/creating-your-budget'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '2'
-pageId: '6'
+previousText: "Wrap it up"
+previousUrl: "/course/budgeting/women-and-budgeting/summary"
+nextText: "Creating Your Budget"
+nextUrl: "/course/budgeting/creating-your-budget/creating-your-budget"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
+
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
@@ -16,10 +17,17 @@ Transform your finances with our 'Creating Your Budget' lesson! Learn how to rev
 
 # ROADMAP FOR CREATING YOUR BUDGET
 
-## In today's lesson we will learn how:
+## In today's lesson we will learn to:
 
-- To review your expenses from the previous week and create a sample budget using a budgeting system of your choice
+- Decide if you’re creating your budget on paper, with a spreadsheet or in an app.
+- Identify your major expenses for the month and all sources of income, such as a part time job or an allowance.
+- Create separate budget lines for each source of income, followed by separate budget lines for each expense category.
+- Understand the difference between fixed and variable expenses
+- Subtract your total expenses from total income
 
+
+<!---
 # Warm Up
 
 - Review your expenses that you tracked over the previous week. What were your needs? What were your wants? Record this information.
+-->

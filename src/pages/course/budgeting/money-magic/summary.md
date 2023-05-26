@@ -18,7 +18,10 @@ Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
 ## In today's lesson we learned to: 
-- Learn to create a Zero-based Budget by playing “Money Magic.”
-- Understand that in most budgets, individuals start with the previous budget, i.e. what you spent last month, last year, what your earned, last week, month, year, as a template, then build on it.
+- Zero-based budgeting is a technique used by companies, but this type of budgeting can be used by individuals and families.
+- Budgets are created around the monetary needs for each upcoming period, like a month, starting with zero.
+- Zero-based budgeting is typically used to help managers keep a rein on costs in a company.
 
-## Zero based budgeting encourages you to use all of your monthly income for specific purposes. That means you will manage your savings, expenses, and debt payments so that your income subtracted by your expenditures always equals zero.
+<!-- 
+
+## Zero based budgeting encourages you to use all of your monthly income for specific purposes. That means you will manage your savings, expenses, and debt payments so that your income subtracted by your expenditures always equals zero. -->

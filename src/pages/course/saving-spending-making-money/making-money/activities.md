@@ -11,7 +11,8 @@ pageId: "6"
 ---
 
 
-# Activities
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
 
 1. Select One of the following ways to make money; and present your idea to the class including why you chose it:
 https://www.themoneymanual.com/ways-to-get-cash/

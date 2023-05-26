@@ -14,5 +14,5 @@ pageId: "6"
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL IT OR POST IT
 
-## What did you learn about money stories and how they impact peoples lives?  
+## What did you learn about money stories and how they impact our lives?  
 <sparkle-feed-post assignment-name="What did you learn about money stories and how they impact peoples lives?" ></sparkle-feed-post>

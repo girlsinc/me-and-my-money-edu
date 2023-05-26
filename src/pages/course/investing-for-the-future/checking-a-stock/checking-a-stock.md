@@ -1,8 +1,8 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/investing-for-the-future/checking-a-stock/roadmap"
-nextText: "Activities"
-nextUrl: "/course/investing-for-the-future/checking-a-stock/activities"
+nextText: "Take Action"
+nextUrl: "/course/investing-for-the-future/checking-a-stock/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"

@@ -1,8 +1,8 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/budgeting/creating-your-budget/roadmap"
-nextText: "Activities"
-nextUrl: "/course/budgeting/creating-your-budget/activities"
+nextText: "Take Action"
+nextUrl: "/course/budgeting/creating-your-budget/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"

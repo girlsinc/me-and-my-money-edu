@@ -1,14 +1,15 @@
 ---
-previousText: 'Wrap it up'
-previousUrl: '/course/investing-for-the-future/checking-a-stock/summary'
-nextText: 'Building a Portfolio'
-nextUrl: '/course/investing-for-the-future/building-a-portfolio/building-a-portfolio'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '2'
-pageId: '6'
+previousText: "Wrap it up"
+previousUrl: "/course/investing-for-the-future/checking-a-stock/summary"
+nextText: "Building a Portfolio"
+nextUrl: "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
+
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">

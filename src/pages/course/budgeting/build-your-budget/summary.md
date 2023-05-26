@@ -17,7 +17,8 @@ pageId: "6"
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
-## In today's lesson we learned to:
-- Learn to create your own zero-based budget
-- Understand that in zero based budgeting, expenses must be justified for each period
-- Understand that zero based budgeting can be used by individuals, but it’s mostly used by businesses
+## In today's lesson we learned:
+- A budget is simply a spending plan that takes into account estimated current and future income and expenses for a specified time period, a month or a year.
+- Having a budget keeps your spending in check and makes sure that your savings are on track for the future.
+- Budgeting can help you set long-term financial goals, keep you from overspending, help you eliminate risky spending habits.
+

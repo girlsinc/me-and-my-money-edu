@@ -17,6 +17,8 @@ pageId: "6"
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
-## In today's lesson we learned to:
-- Review your expenses from the previous week and create a sample budget using a budgeting system of your choice
+## In today’s lesson, we learned to:
+- Keep track of your expenses
+- Create a budget using the approach you like best
+- Get back on track when you overspend; saved any money that is left over
 

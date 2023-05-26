@@ -11,7 +11,8 @@ pageId: "6"
 ---
 
 
-# Activities
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
 
 1.	Create a priorities list of your wants vs needs. 
 2.	Describe your plan for saving for college

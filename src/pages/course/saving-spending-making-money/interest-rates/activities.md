@@ -11,7 +11,8 @@ pageId: "6"
 ---
 
 
-# Activities
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
 
 1. Access free debt counseling: Consumer Credit Counseling Services, to help  you speak with a counselor and develop a plan to reduce your debt. http://www.nfcc.org  Even if you don’t have any debt, acquaint yourself with this resource.
 2. Calculate your monthly payment for a credit card with a $1200 balance, at an interest rate of 19.62%, the average. 

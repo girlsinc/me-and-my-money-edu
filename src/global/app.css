@@ -149,7 +149,14 @@ sparkle-character-intro {
     font-size: 18px;
 }
 sparkle-character-intro.shift-up-overlap .character-phrase-block {
-  margin-top: -75px !important;
+  margin-top: 0px !important;
+}
+
+sparkle-character-intro .character-phrase-block{
+  align-items: flex-start;
+}
+sparkle-character-intro .character-image-block{
+  margin-top: -50px;
 }
 
 main > article ol, main > article ul {

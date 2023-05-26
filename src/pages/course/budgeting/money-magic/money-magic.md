@@ -1,8 +1,8 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/budgeting/money-magic/roadmap"
-nextText: "Activities"
-nextUrl: "/course/budgeting/money-magic/activities"
+nextText: "Take Action"
+nextUrl: "/course/budgeting/money-magic/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
@@ -12,6 +12,9 @@ pageId: "6"
 
 
 # Play Money Magic
+
+![Take Action](/assets/img/take-action.jpg)
+
 
 ## <a href="https://www.playmoneymagic.com" target="_blank">Click here to play</a> 
 

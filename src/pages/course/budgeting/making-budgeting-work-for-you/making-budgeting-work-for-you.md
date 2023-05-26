@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/budgeting/making-budgeting-work-for-you/roadmap"
-nextText: "Activities"
+nextText: "Speak Up"
 nextUrl: "/course/budgeting/making-budgeting-work-for-you/activities"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Making Budgeting Work For You
+# TAKE ACTION
 ## Watch the video “How we budget our money: Real Women Talk Finance” from Clever Girl Finance. Complete the Video Viewing Guide and the questions below.
 
 <sparkle-youtube src="https://www.youtube.com/embed/6PquuGymWP0"></sparkle-youtube>

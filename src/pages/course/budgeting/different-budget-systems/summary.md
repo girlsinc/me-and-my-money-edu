@@ -17,7 +17,6 @@ pageId: "6"
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
-## In today's lesson we learned to: 
-- Learn about different budget systems.
-- Learn how to select the budget that is best for your needs
-- Learn to develop your own spending plan that includes your expenses and income
+## In today's lesson we learned: 
+- Different budget systems may be more appropriate for you depending on what your goal is for budgeting.
+- You can select a budget system that best suits your needs, depending on whether your goal is saving debt reduction, paying for a particular item of your choice.

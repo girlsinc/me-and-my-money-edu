@@ -1,6 +1,6 @@
 ---
-previousText: "Take Action"
-previousUrl: "/course/budgeting/making-budgeting-work-for-you/discussion"
+previousText: "Speak Up"
+previousUrl: "/course/budgeting/making-budgeting-work-for-you/activities"
 nextText: "Wrap it up"
 nextUrl: "/course/budgeting/making-budgeting-work-for-you/summary"
 lastLession: "false"

@@ -1,6 +1,6 @@
 ---
-previousText: "Activities"
-previousUrl: "/course/budgeting/intro-to-budgeting/activities"
+previousText: "Intro to Budgeting"
+previousUrl: "/course/budgeting/intro-to-budgeting/intro-to-budgeting"
 nextText: "Journal or Post it"
 nextUrl: "/course/budgeting/intro-to-budgeting/journal-or-post-it"
 lastLession: "false"

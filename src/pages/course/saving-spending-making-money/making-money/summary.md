@@ -22,6 +22,8 @@ It is important to establish the level of likely demand for the product or servi
 ## The key elements of the business plan are:
 - Executive summary. This is your five-minute elevator pitch. 
 - Business description and structure. This is where you explain why you're in business and what you're selling. 
-- Market research and strategies. 
-- Management and personnel. 
-- Financial documents: how much money you are projecting to spend and earn; and your month to month margins of profits over several years.
+- **Market research and strategies:** how you intend to reach your intended market/audience
+- **Management and personnel:** the strength of your management team is key. Do they have experience? Any background in the business?
+- **Financials:** What are your projections for revenue and expense; and what are your projected  margins of profit?
+
+

@@ -1,8 +1,8 @@
 ---
 previousText: "Budgeting"
 previousUrl: "/course/budgeting/setting-financial-goals/budgeting-intro"
-nextText: "Take Action"
-nextUrl: "/course/budgeting/setting-financial-goals/discussion"
+nextText: "Journal or Post it"
+nextUrl: "/course/budgeting/setting-financial-goals/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
@@ -11,7 +11,8 @@ pageId: "6"
 ---
 
 
-# Activities
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
 
 What are your financial goals in the next few months? In the next year? In the next five years? In the next 20 years?
 
@@ -25,3 +26,8 @@ In this lesson, you will create a digital Vision Board that shows your financial
 
 
 [Click here to create your vision board](https://jamboard.google.com/d/13_keizrwCVA8uWBApeTaOrxHSIJpzJ03Ozy3zCLEO-g/copy)
+
+
+## Present your vision board to the class
+
+![Discussion](/assets/img/lets-talk-about-it.png)

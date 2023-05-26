@@ -12,7 +12,7 @@ pageId: "6"
 
 
 <sparkle-character-intro position="right" character="kimberly">
-Planning and budgeting might sound a little dull, but it's your roadmap to achieving your financial goals. If you don't know where you're going, how will you get get there?!
+Planning and budgeting might sound a little dull, but it's your roadmap to achieving your financial goals. If you don't know where you're going, how will you get there?!
 </sparkle-character-intro>
 
 # Overview for Planning and Budgeting
