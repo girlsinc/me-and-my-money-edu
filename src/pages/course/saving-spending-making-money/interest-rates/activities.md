@@ -1,7 +1,7 @@
 ---
 previousText: "Key Learnings"
 previousUrl: "/course/saving-spending-making-money/interest-rates/key-learnings"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/saving-spending-making-money/interest-rates/discussion"
 lastLession: "false"
 lastSession: "false"

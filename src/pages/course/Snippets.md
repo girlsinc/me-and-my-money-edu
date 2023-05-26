@@ -14,7 +14,7 @@
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## Be sure to research the salaries and income opportunities for each.
 <sparkle-feed-post assignment-name="Describe the benefits of being an entrepreneur as well as the less attractive aspects of it" ></sparkle-feed-post>

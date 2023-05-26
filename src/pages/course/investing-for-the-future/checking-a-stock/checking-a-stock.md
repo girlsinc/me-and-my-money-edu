@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-## Checking a Stock
+# CHECKING A STOCK
 
 Now that you know what it means to own individual stocks and how to choose companies to invest in, let’s see how some popular stocks are doing in the market! Compare the performances of these stocks using Google Finance to answer the questions.
 

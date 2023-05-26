@@ -11,6 +11,6 @@ pageId: "6"
 ---
 
 
-# What Do You Think?
+# WHAT DO YOU THINK?
 
 ## Answer the questions below to explore your views on money

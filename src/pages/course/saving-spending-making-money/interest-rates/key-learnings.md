@@ -1,7 +1,7 @@
 ---
 previousText: "How Much Does This Money Cost?"
 previousUrl: "/course/saving-spending-making-money/interest-rates/cost-of-money"
-nextText: "Activities"
+nextText: "Take Action"
 nextUrl: "/course/saving-spending-making-money/interest-rates/activities"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,8 @@ pageId: "6"
 ---
 
 
-# Key Learnings About the Cost of Money 
+# KEY LEARNINGS ABOUT THE COST OF MONEY
+
 
 ![Key Learnings](./key-learnings.png)
 

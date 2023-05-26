@@ -1,7 +1,7 @@
 ---
 previousText: "Mutual Funds"
 previousUrl: "/course/investing-for-the-future/mutual-funds/mutual-funds"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/investing-for-the-future/mutual-funds/discussion"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Mutual Funds
+# MUTUAL FUNDS
 A professionally managed fund that pools money from different investors to purchase stocks, bonds, or other securities is a mutual fund.  Professional investors do the research, buying, and selling for their investors, for a fee.
 
 You can choose a mutual fund that meets your needs - such as higher risk, medium risk, or low risk - or even a socially responsible mutual fund.

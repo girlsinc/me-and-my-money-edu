@@ -1,7 +1,7 @@
 ---
 previousText: "Building a Portfolio"
 previousUrl: "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/investing-for-the-future/building-a-portfolio/discussion"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,9 @@ pageId: "6"
 ---
 
 
-# Take Action
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
+
 
 Collaborate with your small group to choose three companies and create a Stock Portfolio on a shared Jamboard. 
 

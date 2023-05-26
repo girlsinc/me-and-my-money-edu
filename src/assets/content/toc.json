@@ -28,7 +28,7 @@
 
             {
               "id": 3,
-              "name": "Getting to Know You",
+              "name": "Getting to know you",
               "urlName": "getting-to-know-you-activity-one"
             }
           ]
@@ -89,7 +89,7 @@
             },
             {
               "id": 4,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
@@ -160,7 +160,7 @@
             },
             {
               "id": 2,
-              "name": "Making Money My Friend",
+              "name": "Making money my friend",
               "urlName": "making-money-my-friend"
             },
             {
@@ -290,17 +290,17 @@
             },
             {
               "id": 2,
-              "name": "Your Spending Habits Can Get You in Trouble",
+              "name": "Your spending habits can get you in trouble",
               "urlName": "spending-habits"
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -338,12 +338,12 @@
             },
             {
               "id": 4,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
               "id": 5,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -376,12 +376,12 @@
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -467,7 +467,7 @@
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
@@ -495,12 +495,12 @@
             },
             {
               "id": 2,
-              "name": "Intro to Budgeting",
+              "name": "Take Action",
               "urlName": "intro-to-budgeting"
             },
             {
               "id": 3,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -528,12 +528,12 @@
             },
             {
               "id": 2,
-              "name": "Different Budget Systems",
+              "name": "Take Action",
               "urlName": "different-budget-systems"
             },
             {
               "id": 3,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -599,7 +599,7 @@
             },
             {
               "id": 3,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "activities"
             },
             {
@@ -789,12 +789,12 @@
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -837,7 +837,7 @@
               },
               {
                 "id": 5,
-                "name": "Take Action",
+                "name": "Speak Up",
                 "urlName": "discussion"
               },
               {
@@ -870,12 +870,12 @@
               },
               {
                 "id": 3,
-                "name": "Activities",
+                "name": "Take Action",
                 "urlName": "activities"
               },
               {
                 "id": 4,
-                "name": "Take Action",
+                "name": "Speak Up",
                 "urlName": "discussion"
               },
               {
@@ -908,12 +908,12 @@
               },
               {
                 "id": 3,
-                "name": "Activities",
+                "name": "Take Action",
                 "urlName": "activities"
               },
               {
                 "id": 4,
-                "name": "Take Action",
+                "name": "Speak Up",
                 "urlName": "discussion"
               },
               {
@@ -946,7 +946,7 @@
               },
               {
                 "id": 3,
-                "name": "Take Action",
+                "name": "Speak Up",
                 "urlName": "discussion"
               },
               {
@@ -1012,12 +1012,12 @@
               },
               {
                 "id": 3,
-                "name": "Activities",
+                "name": "Take Action",
                 "urlName": "activities"
               },
               {
                 "id": 4,
-                "name": "Take Action",
+                "name": "Speak Up",
                 "urlName": "discussion"
               },
               {
@@ -1050,12 +1050,12 @@
               },
               {
                 "id": 3,
-                "name": "Activities",
+                "name": "Take Action",
                 "urlName": "activities"
               },
               {
                 "id": 4,
-                "name": "Take Action",
+                "name": "Speak Up",
                 "urlName": "discussion"
               },
               {
@@ -1098,12 +1098,12 @@
               },
               {
                 "id": 5,
-                "name": "Activities",
+                "name": "Take Action",
                 "urlName": "activities"
               },
               {
                 "id": 6,
-                "name": "Take Action",
+                "name": "Speak Up",
                 "urlName": "discussion"
               },
               {

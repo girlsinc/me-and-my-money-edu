@@ -1,7 +1,7 @@
 ---
 previousText: "Investments by Income"
 previousUrl: "/course/investing-for-the-future/inequalities-in-investing/investments-by-income"
-nextText: "Activities"
+nextText: "Take Action"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/activities"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Part III: Investments by Race, Ethnicity, and Market Experience
+# PART III: INVESTMENTS BY RACE, ETHNICITY, AND MARKET EXPERIENCE
 
 <img src="./Picture8.png" />
 

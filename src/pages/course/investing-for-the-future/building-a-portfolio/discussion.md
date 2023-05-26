@@ -1,5 +1,5 @@
 ---
-previousText: "Activities"
+previousText: "Take Action"
 previousUrl: "/course/investing-for-the-future/building-a-portfolio/activities"
 nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/building-a-portfolio/journal-or-post-it"
@@ -12,6 +12,6 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/lets-talk-about-it.png)
-# Speak Out
+# SPEAK UP
 
 - What did you enjoy about building your stock portfolio?

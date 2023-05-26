@@ -1,7 +1,7 @@
 ---
 previousText: "Your Money Story"
 previousUrl: "/course/money-messages/whats-your-money-story/your-money-story"
-nextText: "Activities"
+nextText: "Take Action"
 nextUrl: "/course/money-messages/whats-your-money-story/activities"
 lastLession: "false"
 lastSession: "false"

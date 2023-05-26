@@ -1,5 +1,5 @@
 ---
-previousText: "Making Money My Friend"
+previousText: "Making money my friend"
 previousUrl: "/course/money-messages/your-relationship-to-money/making-money-my-friend"
 nextText: "Speak Up"
 nextUrl: "/course/money-messages/your-relationship-to-money/discussion"

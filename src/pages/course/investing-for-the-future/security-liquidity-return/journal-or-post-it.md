@@ -1,5 +1,5 @@
 ---
-previousText: "Take Action"
+previousText: "Speak Up"
 previousUrl: "/course/investing-for-the-future/security-liquidity-return/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/investing-for-the-future/security-liquidity-return/summary"
@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## What is the best thing about investing money? The worst thing?
 <sparkle-feed-post assignment-name="What is the best thing about investing money? The worst thing?" ></sparkle-feed-post>

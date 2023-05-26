@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## What budget system did you choose to use? Why?
 <sparkle-feed-post assignment-name="What budget system did you choose to use? Why?" ></sparkle-feed-post>

@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Activities - Stocks
+# ACTIVITIES - STOCKS
 
 A stock is a piece (or “share”) of a company. When a company wants to raise money or expand, it may decide to sell shares of a stock in its business. The price of a share of stock depends on how many people want to buy the stock and how many want to sell it. If the price of a particular stock goes down, their investment loses value. Stock prices go up and down from day to day, but on average, most go up over time. However, there is no guarantee that a given stock won’t tank (drop significantly in value, or even become valueless). If that happens, investors don’t just lose out on returns, they may lose all the money they invested in the first place.
 

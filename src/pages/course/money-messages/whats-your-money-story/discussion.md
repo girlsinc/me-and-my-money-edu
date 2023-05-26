@@ -1,5 +1,5 @@
 ---
-previousText: "Activities"
+previousText: "Take Action"
 previousUrl: "/course/money-messages/whats-your-money-story/activities"
 nextText: "Journal or Post it"
 nextUrl: "/course/money-messages/whats-your-money-story/journal-or-post-it"

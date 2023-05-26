@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## Based on the video and the class discussion, why is it important for women to learn about budgeting and money management?
 <sparkle-feed-post assignment-name="Based on the video and the class discussion, why is it important for women to learn about budgeting and money management?" ></sparkle-feed-post>

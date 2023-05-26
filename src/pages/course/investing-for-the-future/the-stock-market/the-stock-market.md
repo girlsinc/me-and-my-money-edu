@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/investing-for-the-future/the-stock-market/roadmap"
-nextText: "Activities"
+nextText: "Take Action"
 nextUrl: "/course/investing-for-the-future/the-stock-market/activities"
 lastLession: "false"
 lastSession: "false"
@@ -11,6 +11,6 @@ pageId: "6"
 ---
 
 
-# The Stock Market Explained
+# THE STOCK MARKET EXPLAINED
 <sparkle-youtube src="https://www.youtube.com/watch?v=ZCFkWDdmXG8"></sparkle-youtube>
 

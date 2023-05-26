@@ -1,7 +1,7 @@
 ---
-previousText: "Your Spending Habits Can Get You in Trouble"
+previousText: "Your spending habits can get you in trouble"
 previousUrl: "/course/saving-spending-making-money/money-habits-matter/spending-habits"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/saving-spending-making-money/money-habits-matter/discussion"
 lastLession: "false"
 lastSession: "false"

@@ -1,5 +1,5 @@
 ---
-previousText: "Take Action"
+previousText: "Speak Up"
 previousUrl: "/course/investing-for-the-future/the-stock-market/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/investing-for-the-future/the-stock-market/summary"
@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## Describe the similarities and differences between the Dow Jones Industrial Average and the S&P 500
 <sparkle-feed-post assignment-name="Describe the similarities and differences between the Dow Jones Industrial Average and the S&P 500" ></sparkle-feed-post>

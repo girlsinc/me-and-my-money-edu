@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Speak Out
+# SPEAK UP
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 
 ## Describe the differences between stocks and bonds.

@@ -11,5 +11,5 @@ pageId: "6"
 ---
 
 
-# Making Money My Friend
+# MAKING MONEY MY FRIEND
 <sparkle-animation-player src="./animation/m1l3.js" composition="1163EC6AA8104A49BCA181E33ACCBFB2"></sparkle-animation-player>

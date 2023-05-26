@@ -1,7 +1,7 @@
 ---
 previousText: "Wrap it up"
 previousUrl: "/course/budgeting/setting-financial-goals/summary"
-nextText: "Intro to Budgeting"
+nextText: "Take Action"
 nextUrl: "/course/budgeting/intro-to-budgeting/intro-to-budgeting"
 lastLession: "false"
 lastSession: "false"

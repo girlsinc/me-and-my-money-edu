@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## Would you be interested in investing in any of the companies that you researched today? Why or why not? Be sure to cite evidence from your research to support your response.
 <sparkle-feed-post assignment-name="Would you be interested in investing in any of the companies that you researched today? Why or why not? Be sure to cite evidence from your research to support your response" ></sparkle-feed-post>

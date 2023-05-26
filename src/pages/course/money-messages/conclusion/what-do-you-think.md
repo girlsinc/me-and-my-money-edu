@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# What Do You Think?
+# WHAT DO YOU THINK?
 ## Answer the questions below to explore your views on money
 
 <sparkle-quiz question-text="I feel confident about the way I receive, budget and keep track of money either in the form of an allowance or earnings from a job." type="OPINION" scale="TEN-POINTS" question-id="105"></sparkle-quiz>

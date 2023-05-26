@@ -1,5 +1,5 @@
 ---
-previousText: "Getting to Know You"
+previousText: "Getting to know you"
 previousUrl: "/course/introduction/welcome/getting-to-know-you-activity-one"
 nextText: "What do you know?"
 nextUrl: "/course/money-messages/introduction/what-do-you-know"

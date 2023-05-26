@@ -11,4 +11,4 @@ pageId: "6"
 ---
 
 
-# Journal or post it
+# JOURNAL OR POST IT
