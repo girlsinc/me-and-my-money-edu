@@ -1,7 +1,7 @@
 ---
 previousText: "I Want To Be Rich!"
 previousUrl: "/course/investing-for-the-future/i-want-to-be-rich/i-want-to-be-rich"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/investing-for-the-future/i-want-to-be-rich/discussion"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# 12 Ways to Invest in Yourself and Build a Better Future by Mint
+# 12 WAYS TO INVEST IN YOURSELF AND BUILD A BETTER FUTURE BY MINT
 
 Investing in yourself means investing in your financial wellbeing, health, career,  interests, as well as stocks and bonds. Investing is a mindset to set yourself up for success. Here are some of the best investments you can make:
 

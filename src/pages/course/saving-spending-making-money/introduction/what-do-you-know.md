@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# What Do You Know?
+# WHAT DO YOU KNOW?
 
 ## Answer the questions below to explore your views on money
 <sparkle-quiz question-text="What are your thoughts about the importance of saving money for the future?" type="TEXT" question-id="201"></sparkle-quiz>

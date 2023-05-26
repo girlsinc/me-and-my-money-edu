@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## Name three takeaways you learned from playing Money Magic that will help you when you create your own budgets in the future? 
 <sparkle-feed-post assignment-name="Name three takeaways you learned from playing Money Magic that will help you when you create your own budgets in the future?" ></sparkle-feed-post>

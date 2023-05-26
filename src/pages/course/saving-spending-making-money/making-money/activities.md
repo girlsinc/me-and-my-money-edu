@@ -1,7 +1,7 @@
 ---
 previousText: "Making Money by Solving Problems"
 previousUrl: "/course/saving-spending-making-money/making-money/making-money-by-solving-problems"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/saving-spending-making-money/making-money/discussion"
 lastLession: "false"
 lastSession: "false"

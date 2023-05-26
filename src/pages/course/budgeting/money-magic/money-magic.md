@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Play Money Magic
+# PLAY MONEY MAGIC
 
 ![Take Action](/assets/img/take-action.jpg)
 

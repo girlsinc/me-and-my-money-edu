@@ -1,5 +1,5 @@
 ---
-previousText: "Intro to Budgeting"
+previousText: "Take Action"
 previousUrl: "/course/budgeting/intro-to-budgeting/intro-to-budgeting"
 nextText: "Journal or Post it"
 nextUrl: "/course/budgeting/intro-to-budgeting/journal-or-post-it"
@@ -11,8 +11,8 @@ pageId: "6"
 ---
 
 
-# Discussion
+# SPEAK UP
 
-![Speak Out!](/assets/img/lets-talk-about-it.png)
+![SPEAK UP!](/assets/img/lets-talk-about-it.png)
 
 # Share the main categories of your budget with your classmates. Did you miss anything? 

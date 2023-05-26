@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/saving-spending-making-money/money-habits-matter/roadmap"
-nextText: "Activities"
+nextText: "Take Action"
 nextUrl: "/course/saving-spending-making-money/money-habits-matter/activities"
 lastLession: "false"
 lastSession: "false"
@@ -11,5 +11,5 @@ pageId: "6"
 ---
 
 
-# Your Spending Habits Can Get You in Trouble
+# YOUR SPENDING HABITS CAN GET YOU IN TROUBLE
 <sparkle-animation-player src="./animation/m2l2.js" composition="85BEB3849B29B243BB5FDF107B98B81A"></sparkle-animation-player>

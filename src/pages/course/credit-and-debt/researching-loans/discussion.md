@@ -13,6 +13,6 @@ pageId: "6"
 
 # Discussion
 
-![Speak Out!](/assets/img/lets-talk-about-it.png)
+![SPEAK UP!](/assets/img/lets-talk-about-it.png)
 
 # You and your group will present your research on which College LOANS are best, and why, to the class, so be sure to practice your presentation and talking points!

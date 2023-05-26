@@ -1,5 +1,5 @@
 ---
-previousText: "Activities"
+previousText: "Take Action"
 previousUrl: "/course/budgeting/setting-financial-goals/activities"
 nextText: "Wrap it up"
 nextUrl: "/course/budgeting/setting-financial-goals/summary"
@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## What was your experience thinking about your financial goals? How did you feel?
 <sparkle-feed-post assignment-name="What was your experience thinking about your financial goals? How did you feel?" ></sparkle-feed-post>

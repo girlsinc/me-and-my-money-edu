@@ -1,5 +1,5 @@
 ---
-previousText: "Take Action"
+previousText: "Speak Up"
 previousUrl: "/course/investing-for-the-future/mutual-funds/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/investing-for-the-future/mutual-funds/summary"
@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## Name one takeaway about mutual funds that you have from this activity.
 <sparkle-feed-post assignment-name="Name one takeaway about mutual funds that you have from this activity" ></sparkle-feed-post>

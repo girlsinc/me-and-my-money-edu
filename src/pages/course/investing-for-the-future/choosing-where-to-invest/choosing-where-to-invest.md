@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/investing-for-the-future/choosing-where-to-invest/roadmap"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/discussion"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Strategies for Choosing Stocks
+# STRATEGIES FOR CHOOSING STOCKS
 
 ### Buy What is Familiar
 There is some wisdom in the belief that if a company has been around for a long time, it is more likely to be around in the future. For this reason, many people stick with tried-and-true companies, rather than lesser-known up-and-comers. 

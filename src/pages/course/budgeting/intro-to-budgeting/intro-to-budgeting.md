@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/budgeting/intro-to-budgeting/roadmap"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/budgeting/intro-to-budgeting/discussion"
 lastLession: "false"
 lastSession: "false"

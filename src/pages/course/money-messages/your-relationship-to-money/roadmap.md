@@ -1,7 +1,7 @@
 ---
 previousText: "Wrap it up"
 previousUrl: "/course/money-messages/imagining-your-future/summary"
-nextText: "Making Money My Friend"
+nextText: "Making money my friend"
 nextUrl: "/course/money-messages/your-relationship-to-money/making-money-my-friend"
 lastLession: "false"
 lastSession: "false"

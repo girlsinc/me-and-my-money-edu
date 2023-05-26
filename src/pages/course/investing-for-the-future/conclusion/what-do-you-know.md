@@ -11,6 +11,6 @@ pageId: "6"
 ---
 
 
-# What Do You Know?
+# WHAT DO YOU KNOW?
 
 ## Answer the questions below to explore your views on money

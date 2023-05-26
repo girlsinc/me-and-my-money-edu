@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Part I: Why People Don’t Invest
+# PART I: WHY PEOPLE DON’T INVEST
 
 <img src="./Picture6.png" />
 

@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Introducing: The Stars of HER FUTURE
+# INTRODUCING: THE STARS OF HER FUTURE
 
 We're The Stars of HER FUTURE and will be your guide throughout the course. Let's get started!
 

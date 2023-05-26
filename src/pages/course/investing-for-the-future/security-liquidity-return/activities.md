@@ -1,7 +1,7 @@
 ---
 previousText: "Security, Liquidity and Return"
 previousUrl: "/course/investing-for-the-future/security-liquidity-return/security-liquidity-return"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/investing-for-the-future/security-liquidity-return/discussion"
 lastLession: "false"
 lastSession: "false"
@@ -11,8 +11,8 @@ pageId: "6"
 ---
 
 
-![Roadmap](/assets/img/lets-talk-about-it.png)
-# Take Action
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
 
 Main factors to consider when choosing your investment strategy: return, security, and liquidity. Complete the Frayer Model organizers for each factor by adding an image, examples, and connections for each term. 
 

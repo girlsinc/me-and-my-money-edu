@@ -12,6 +12,6 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/lets-talk-about-it.png)
-# Speak Out
+# SPEAK UP
 
 - Based on today’s reading and discussion, what advice would you give a person who is interested in investing in the stock market?

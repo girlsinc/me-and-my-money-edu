@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Part II: Investments by Income
+# PART II: INVESTMENTS BY INCOME
 
 <img src="./Picture7.png" />
 

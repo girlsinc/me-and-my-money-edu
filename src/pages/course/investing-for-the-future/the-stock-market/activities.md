@@ -1,7 +1,7 @@
 ---
 previousText: "The Stock Market"
 previousUrl: "/course/investing-for-the-future/the-stock-market/the-stock-market"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/investing-for-the-future/the-stock-market/discussion"
 lastLession: "false"
 lastSession: "false"

@@ -12,7 +12,7 @@ pageId: "6"
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
-# Journal or Post it
+# JOURNAL OR POST IT
 
 ## What budgeting strategies did you hear during the conversation?
 <sparkle-feed-post assignment-name="What budgeting strategies did you hear during the conversation?" ></sparkle-feed-post>

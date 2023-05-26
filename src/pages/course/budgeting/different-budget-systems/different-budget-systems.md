@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/budgeting/different-budget-systems/roadmap"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/budgeting/different-budget-systems/discussion"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# How to Choose the Right Budget System
+# TAKE ACTION
 
 ![Take Action](/assets/img/take-action.jpg) 
 ## The best system for you depends on what you’re trying to do — curb spending, pay down debt, build savings or something else.

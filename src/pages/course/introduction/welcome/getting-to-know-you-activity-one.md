@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# Getting to Know YOU! Who’s Got a Link?
+# GETTING TO KNOW YOU! WHO’S GOT A LINK?
 ![Roadmap](./getting-to-know-you-activity-one.png)
 
 

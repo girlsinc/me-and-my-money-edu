@@ -1,5 +1,5 @@
 ---
-previousText: "Activities"
+previousText: "Take Action"
 previousUrl: "/course/investing-for-the-future/inequalities-in-investing/activities"
 nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/journal-or-post-it"
@@ -12,6 +12,6 @@ pageId: "6"
 
 
 ![Roadmap](/assets/img/lets-talk-about-it.png)
-# Speak Out
+# SPEAK UP
 
 - What can be done to encourage more girls of color to invest?
