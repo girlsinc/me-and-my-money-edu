@@ -16,6 +16,10 @@ pageId: "6"
 Unlock the power of your money with our 'Money Magic' lesson! Learn how to create a zero-based budget and take control of your finances. Discover how to build on your previous budget to create a solid financial plan for the future. Join us today and start making your money work for you!</sparkle-character-intro>
 # ROADMAP FOR MONEY MAGIC
 ## In today's lesson we will learn how:
-- To create a Zero-based Budget by playing "Money Magic."
-- To Understand that in most budgets, individuals start with the previous budget, i.e. what you spent last month, last year, what your earned, last week, month, year, as a template, then build on it.
+- To create a zero-based budget, using money magic 
+- To understand that in most budgets, individuals start with the previous budget, i.e. what you spent last month, last year, what your earned, last week, month, year, as a template, then build on it.
+- To use a zero based budgeting approach, when all expenses must be justified for each new period, and every function within an organization is analyzed for its needs and costs. 
+- Zero-based budget is mostly used for organizations; but can be used for individuals and families.
+
+
 

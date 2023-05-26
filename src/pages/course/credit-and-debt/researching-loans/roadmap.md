@@ -1,14 +1,15 @@
 ---
-previousText: 'What do you think?'
-previousUrl: '/course/credit-and-debt/introduction/what-do-you-think'
-nextText: 'Researching Loans'
-nextUrl: '/course/credit-and-debt/researching-loans/researching-loans'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '2'
-pageId: '6'
+previousText: "What do you think?"
+previousUrl: "/course/credit-and-debt/introduction/what-do-you-think"
+nextText: "Researching Loans"
+nextUrl: "/course/credit-and-debt/researching-loans/researching-loans"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
+
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">

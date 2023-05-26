@@ -1,14 +1,15 @@
 ---
-previousText: 'Wrap it up'
-previousUrl: '/course/investing-for-the-future/the-stock-market/summary'
-nextText: 'Choosing Where to Invest'
-nextUrl: '/course/investing-for-the-future/choosing-where-to-invest/choosing-where-to-invest'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '2'
-pageId: '6'
+previousText: "Wrap it up"
+previousUrl: "/course/investing-for-the-future/the-stock-market/summary"
+nextText: "Choosing Where to Invest"
+nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/choosing-where-to-invest"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "2"
+pageId: "6"
 ---
+
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">

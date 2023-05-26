@@ -1,6 +1,6 @@
 ---
-previousText: "Take Action"
-previousUrl: "/course/budgeting/women-and-budgeting/discussion"
+previousText: "Speak Up"
+previousUrl: "/course/budgeting/women-and-budgeting/activities"
 nextText: "Wrap it up"
 nextUrl: "/course/budgeting/women-and-budgeting/summary"
 lastLession: "false"

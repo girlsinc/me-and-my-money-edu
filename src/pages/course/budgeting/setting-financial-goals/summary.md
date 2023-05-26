@@ -17,8 +17,14 @@ pageId: "6"
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
-## Present your vision board to the class
+## In today's lesson we learned:
+1. Having goal in mind for your budget is important when you decide how much money to set aside and how much to spend.
+2. Having a vision for your life that includes what you want in the short-term and longer-term can be very helpful in creating your financial goals.
+3. A great way to set up a budget is by calculating how much money comes in each month vs how much needs to come out; and make sure you add a little something for fun too!
 
 
-![Discussion](/assets/img/lets-talk-about-it.png)
+ 
+
+
+
 

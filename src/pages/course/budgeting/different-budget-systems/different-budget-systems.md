@@ -1,8 +1,8 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/budgeting/different-budget-systems/roadmap"
-nextText: "Activities"
-nextUrl: "/course/budgeting/different-budget-systems/activities"
+nextText: "Take Action"
+nextUrl: "/course/budgeting/different-budget-systems/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
@@ -12,13 +12,13 @@ pageId: "6"
 
 
 # How to Choose the Right Budget System
+
+![Take Action](/assets/img/take-action.jpg) 
 ## The best system for you depends on what you’re trying to do — curb spending, pay down debt, build savings or something else.
 
+<!-- ## Budgeting systems are designed to help you understand and evaluate your relationship with money. While all share a common goal, they often use distinct tactics to get you there.
 
-![Roadmap](./budget-systems.jpg)
-
-Budgeting systems are designed to help you understand and evaluate your relationship with money. While all share a common goal, they often use distinct tactics to get you there.
-We’ve narrowed down some options to help you find one that resonates. Use these recommendations as a guide.
+## We’ve narrowed down some options to help you find one that resonates. Use these recommendations as a guide. -->
 
 # How to choose the right budget system
 1. Figure out where you are and what you value

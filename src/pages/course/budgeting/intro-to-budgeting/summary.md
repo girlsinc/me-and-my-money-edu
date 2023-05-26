@@ -17,7 +17,8 @@ pageId: "6"
 Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
-## In today's lesson we learned to: 
-1. You learnt three ways in which developing a budget will improve your lifestyle 
-2. You described the main categories in your budget
-3. You gave a clear and accurate definition of a budget and how it will help you reach financial goals
+## In today's lesson we learned: 
+1. A budget is a great way to make sure that you can cover your expenses from month to month.  
+2. To identify the main categories of income and spending for your budget
+3. How a budget will help you reach your financial goals and improve your lifestyle.
+

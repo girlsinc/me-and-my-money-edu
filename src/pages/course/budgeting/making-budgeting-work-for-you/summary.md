@@ -18,8 +18,8 @@ Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
 
-## In today's lesson we learned to: 
-- Be able to determine which budgeting approach which works best for you
-- Understand the benefits to your earning power by going to college
-- Understand how emotions relate 
+## In today’s lesson we learned:
+- No matter how elegant or simple your budgeting approach, the most important thing is that you come up with the right approach for you.
+- Don’t beat yourself up if you overspend once in a while. Budgets are a guide post and can be revised.
+- It’s important to develop a budgeting mindset; to be mindful, and keep track of what you’re spending on a day-to-day basis.
 

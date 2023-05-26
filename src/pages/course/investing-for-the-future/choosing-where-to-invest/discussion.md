@@ -1,6 +1,6 @@
 ---
-previousText: "Activities"
-previousUrl: "/course/investing-for-the-future/choosing-where-to-invest/activities"
+previousText: "Choosing Where to Invest"
+previousUrl: "/course/investing-for-the-future/choosing-where-to-invest/choosing-where-to-invest"
 nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/journal-or-post-it"
 lastLession: "false"

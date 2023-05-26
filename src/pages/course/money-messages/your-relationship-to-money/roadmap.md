@@ -11,9 +11,9 @@ pageId: "6"
 ---
 
 
-![Roadmap](/assets/img/roadmap.png)
 # ROADMAP FOR YOUR RELATIONSHIP TO MONEY
 
+![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="jen">
 I have a fantastic relationship with money. I use it to buy my freedom. 
 -Gianni Versace
@@ -21,6 +21,6 @@ I have a fantastic relationship with money. I use it to buy my freedom.
 
 ## In today's lesson we will learn how to:
 
-1. Attitudes you want to change
+1. Change attitudes you want to change
 2. Find a role model whose attitude toward money you admire
 3. Be careful of the company you keep

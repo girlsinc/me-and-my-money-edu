@@ -1,6 +1,6 @@
 ---
-previousText: "Activities"
-previousUrl: "/course/investing-for-the-future/checking-a-stock/activities"
+previousText: "Checking a Stock"
+previousUrl: "/course/investing-for-the-future/checking-a-stock/checking-a-stock"
 nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/checking-a-stock/journal-or-post-it"
 lastLession: "false"

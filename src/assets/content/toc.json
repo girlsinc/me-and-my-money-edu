@@ -472,16 +472,11 @@
             },
             {
               "id": 4,
-              "name": "Take Action",
-              "urlName": "discussion"
-            },
-            {
-              "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 6,
+              "id": 5,
               "name": "Wrap it up",
               "urlName": "summary"
             }
@@ -505,21 +500,16 @@
             },
             {
               "id": 3,
-              "name": "Activities",
-              "urlName": "activities"
-            },
-            {
-              "id": 4,
               "name": "Take Action",
               "urlName": "discussion"
             },
             {
-              "id": 5,
+              "id": 4,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 6,
+              "id": 5,
               "name": "Wrap it up",
               "urlName": "summary"
             }
@@ -543,21 +533,16 @@
             },
             {
               "id": 3,
-              "name": "Activities",
-              "urlName": "activities"
-            },
-            {
-              "id": 4,
               "name": "Take Action",
               "urlName": "discussion"
             },
             {
-              "id": 5,
+              "id": 4,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 6,
+              "id": 5,
               "name": "Wrap it up",
               "urlName": "summary"
             }
@@ -581,21 +566,16 @@
             },
             {
               "id": 3,
-              "name": "Activities",
-              "urlName": "activities"
-            },
-            {
-              "id": 4,
               "name": "Take Action",
               "urlName": "discussion"
             },
             {
-              "id": 5,
+              "id": 4,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 6,
+              "id": 5,
               "name": "Wrap it up",
               "urlName": "summary"
             }
@@ -619,12 +599,12 @@
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -652,26 +632,21 @@
             },
             {
               "id": 2,
-              "name": "Making Budgeting Work for You",
+              "name": "Take Action",
               "urlName": "making-budgeting-work-for-you"
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Speak Up",
               "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
-              "urlName": "discussion"
-            },
-            {
-              "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 6,
+              "id": 5,
               "name": "Wrap it up",
               "urlName": "summary"
             }
@@ -695,21 +670,16 @@
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Speak Up",
               "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
-              "urlName": "discussion"
-            },
-            {
-              "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 6,
+              "id": 5,
               "name": "Wrap it up",
               "urlName": "summary"
             }
@@ -733,21 +703,16 @@
             },
             {
               "id": 3,
-              "name": "Activities",
-              "urlName": "activities"
-            },
-            {
-              "id": 4,
               "name": "Take Action",
               "urlName": "discussion"
             },
             {
-              "id": 5,
+              "id": 4,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 6,
+              "id": 5,
               "name": "Wrap it up",
               "urlName": "summary"
             }
@@ -981,21 +946,16 @@
               },
               {
                 "id": 3,
-                "name": "Activities",
-                "urlName": "activities"
-              },
-              {
-                "id": 4,
                 "name": "Take Action",
                 "urlName": "discussion"
               },
               {
-                "id": 5,
+                "id": 4,
                 "name": "Journal or Post it",
                 "urlName": "journal-or-post-it"
               },
               {
-                "id": 6,
+                "id": 5,
                 "name": "Wrap it up",
                 "urlName": "summary"
               }
@@ -1019,21 +979,16 @@
               },
               {
                 "id": 3,
-                "name": "Activities",
-                "urlName": "activities"
-              },
-              {
-                "id": 4,
                 "name": "Take Action",
                 "urlName": "discussion"
               },
               {
-                "id": 5,
+                "id": 4,
                 "name": "Journal or Post it",
                 "urlName": "journal-or-post-it"
               },
               {
-                "id": 6,
+                "id": 5,
                 "name": "Wrap it up",
                 "urlName": "summary"
               }

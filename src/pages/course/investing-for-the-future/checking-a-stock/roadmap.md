@@ -11,12 +11,13 @@ pageId: "6"
 ---
 
 
+# ROADMAP FOR MAKING MONEY
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
-Learn how to assess and analyze individual stock performance, and compare the performance of various stocks and sectors.</sparkle-character-intro>
+Learn how to assess and analyze individual stock performance, and compare the performance of various stocks and sectors.
+</sparkle-character-intro>
 
-# ROADMAP FOR MAKING MONEY
 ## In today's lesson we will learn how:
 1. To assess an individual stock's performance
 2. To analyze the performance of individual stocks over time.

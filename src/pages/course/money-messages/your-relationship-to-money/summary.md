@@ -18,6 +18,6 @@ By reflecting on our attitudes towards money and seeking positive role models, w
 </sparkle-character-intro>
 
 ## In today's lesson we learned to:
-1. Find Attitudes You Want to Change
-2. Find a Role Model Whose Attitude Toward Money You Admire
-3. Be Careful of the Company You Keep
+1.  If you have a bad attitude toward money, if you fear it or despise it or resent those who are rich, set out to change it if you want to be wealthy.
+2. It’s always a good idea to have a role model and a role model for money is no exception. Find someone it is wealthy and study how she got there.
+3. They say “birds of a feather”… It will be helpful to your money journey to associate with friends who have a positive attitude toward money.
