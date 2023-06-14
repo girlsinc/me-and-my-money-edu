@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/budgeting/money-magic/roadmap"
-nextText: "Take Action"
+nextText: "Speak Up"
 nextUrl: "/course/budgeting/money-magic/discussion"
 lastLession: "false"
 lastSession: "false"
@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# PLAY MONEY MAGIC
+# TAKE ACTION
 
 ![Take Action](/assets/img/take-action.jpg)
 

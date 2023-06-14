@@ -32,7 +32,7 @@
 */
 :root {
   --ion-color-white: #fff;
-  --text-color--lighter: #757a85;
+  --text-color--light: #24282e;
 }
 ion-app {
   background-image: url(/assets/img/gi-background.jpg);

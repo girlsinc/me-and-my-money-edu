@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/credit-and-debt/researching-loans/roadmap"
-nextText: "Activities"
+nextText: "Take Action"
 nextUrl: "/course/credit-and-debt/researching-loans/activities"
 lastLession: "false"
 lastSession: "false"

@@ -16,3 +16,4 @@ pageId: "6"
 ![SPEAK UP!](/assets/img/lets-talk-about-it.png)
 
 # Share the main categories of your budget with your classmates. Did you miss anything? 
+<sparkle-feed-post assignment-name="Share the main categories of your budget with your classmates. Did you miss anything?" ></sparkle-feed-post>

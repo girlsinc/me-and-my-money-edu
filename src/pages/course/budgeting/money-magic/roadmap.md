@@ -1,7 +1,7 @@
 ---
 previousText: "Wrap it up"
 previousUrl: "/course/budgeting/different-budget-systems/summary"
-nextText: "Money Magic"
+nextText: "Take Action"
 nextUrl: "/course/budgeting/money-magic/money-magic"
 lastLession: "false"
 lastSession: "false"

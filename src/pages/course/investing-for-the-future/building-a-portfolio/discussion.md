@@ -14,4 +14,5 @@ pageId: "6"
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
 
-- What did you enjoy about building your stock portfolio?
+## What did you enjoy about building your stock portfolio?
+<sparkle-feed-post assignment-name="What did you enjoy about building your stock portfolio?" ></sparkle-feed-post>

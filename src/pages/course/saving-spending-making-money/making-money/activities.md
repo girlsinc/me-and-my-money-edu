@@ -16,5 +16,4 @@ pageId: "6"
 
 1. Select One of the following ways to make money; and present your idea to the class including why you chose it:
 https://www.themoneymanual.com/ways-to-get-cash/
-
 2. Chose the “side hustle” that best suits your talents: https://www.oberlo.com/blog/side-hustle and then break into small groups with common side hustles. Take turns doing group presentations.  

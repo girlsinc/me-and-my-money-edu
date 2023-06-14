@@ -472,11 +472,16 @@
             },
             {
               "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 5,
+              "id": 6,
               "name": "Wrap it up",
               "urlName": "summary"
             }
@@ -561,12 +566,12 @@
             },
             {
               "id": 2,
-              "name": "Money Magic",
+              "name": "Take Action",
               "urlName": "money-magic"
             },
             {
               "id": 3,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -665,7 +670,7 @@
             },
             {
               "id": 2,
-              "name": "Women and Budgeting",
+              "name": "Take Action",
               "urlName": "women-and-budgeting"
             },
             {
@@ -698,12 +703,12 @@
             },
             {
               "id": 2,
-              "name": "Creating Your Budget",
-              "urlName": "creating-your-budget"
+              "name": "Take Action",
+              "urlName": "activities"
             },
             {
               "id": 3,
-              "name": "Take Action",
+              "name": "Speak Up",
               "urlName": "discussion"
             },
             {
@@ -1189,7 +1194,7 @@
             },
             {
               "id": 3,
-              "name": "Activities",
+              "name": "Take Action",
               "urlName": "activities"
             },
             {

@@ -1,5 +1,5 @@
 ---
-previousText: "Take Action"
+previousText: "Speak Up"
 previousUrl: "/course/budgeting/money-magic/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/budgeting/money-magic/summary"

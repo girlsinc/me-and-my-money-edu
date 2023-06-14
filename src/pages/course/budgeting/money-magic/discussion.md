@@ -1,5 +1,5 @@
 ---
-previousText: "Money Magic"
+previousText: "Take Action"
 previousUrl: "/course/budgeting/money-magic/money-magic"
 nextText: "Journal or Post it"
 nextUrl: "/course/budgeting/money-magic/journal-or-post-it"

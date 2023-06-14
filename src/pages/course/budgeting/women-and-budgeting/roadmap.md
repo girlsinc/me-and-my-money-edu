@@ -1,7 +1,7 @@
 ---
 previousText: "Wrap it up"
 previousUrl: "/course/budgeting/making-budgeting-work-for-you/summary"
-nextText: "Women and Budgeting"
+nextText: "Take Action"
 nextUrl: "/course/budgeting/women-and-budgeting/women-and-budgeting"
 lastLession: "false"
 lastSession: "false"

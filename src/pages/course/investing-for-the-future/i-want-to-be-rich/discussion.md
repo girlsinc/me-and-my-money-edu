@@ -14,4 +14,5 @@ pageId: "6"
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
 
-* Take a second and think about it. Then tell the class, why you want to be rich! Your ‘why’ matters!
+## Take a second and think about it. Then tell the class, why you want to be rich! Your ‘why’ matters!
+<sparkle-feed-post assignment-name="Take a second and think about it. Then tell the class, why you want to be rich! Your ‘why’ matters!" ></sparkle-feed-post>

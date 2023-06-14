@@ -1,5 +1,5 @@
 ---
-previousText: "Women and Budgeting"
+previousText: "Take Action"
 previousUrl: "/course/budgeting/women-and-budgeting/women-and-budgeting"
 nextText: "Journal or Post it"
 nextUrl: "/course/budgeting/women-and-budgeting/journal-or-post-it"

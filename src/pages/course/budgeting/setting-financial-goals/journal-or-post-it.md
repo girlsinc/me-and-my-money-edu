@@ -1,6 +1,6 @@
 ---
-previousText: "Take Action"
-previousUrl: "/course/budgeting/setting-financial-goals/activities"
+previousText: "Speak Up"
+previousUrl: "/course/budgeting/setting-financial-goals/discussion"
 nextText: "Wrap it up"
 nextUrl: "/course/budgeting/setting-financial-goals/summary"
 lastLession: "false"
