@@ -11,7 +11,6 @@ pageId: "6"
 ---
 
 
-
 # TAKE ACTION
 ![Take Action](/assets/img/take-action.jpg)
 

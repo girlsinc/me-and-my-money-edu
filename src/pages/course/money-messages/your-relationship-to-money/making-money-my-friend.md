@@ -12,4 +12,8 @@ pageId: "6"
 
 
 # MAKING MONEY MY FRIEND
-<sparkle-animation-player src="./animation/m1l3.js" composition="1163EC6AA8104A49BCA181E33ACCBFB2"></sparkle-animation-player>
+
+<video width="400" controls="controls" preload="metadata">
+  <source src="./animation/m1l3.mp4" type="video/mp4">
+</video>
+<!-- <sparkle-animation-player src="./animation/m1l3.js" composition="1163EC6AA8104A49BCA181E33ACCBFB2"></sparkle-animation-player> -->

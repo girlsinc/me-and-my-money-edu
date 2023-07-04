@@ -211,3 +211,8 @@ main > article h3 {
   color: var(--ion-color-primary);
   font-weight: bold;
 }
+
+video {
+  object-fit: fill;
+  width: 100%;
+}

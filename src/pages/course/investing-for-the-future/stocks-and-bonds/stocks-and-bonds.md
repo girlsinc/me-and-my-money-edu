@@ -1,7 +1,7 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/investing-for-the-future/stocks-and-bonds/roadmap"
-nextText: "Activities - Stocks"
+nextText: "Take Action - Stocks"
 nextUrl: "/course/investing-for-the-future/stocks-and-bonds/activities-stocks"
 lastLession: "false"
 lastSession: "false"

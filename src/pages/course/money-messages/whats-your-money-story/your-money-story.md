@@ -12,4 +12,11 @@ pageId: "6"
 
 
 # WHAT'S YOUR MONEY STORY
-<sparkle-animation-player src="./animation/m1l1.js" composition="4ED0DA6321935945901B9E722BAF61D7"></sparkle-animation-player>
+
+<video width="400" controls="controls" preload="metadata">
+  <source src="./animation/m1l1.mp4" type="video/mp4">
+</video>
+<!-- [![Watch the video](./animation/m1l1.png)](./animation/m1l1.mp4) -->
+<!-- <iframe  src="./animation/m1l1.mp4" frameborder="0" allowfullscreen style="overflow:hidden;height:100%;width:100%" height="500" width="100%"></iframe> -->
+<!-- <video muted autoplay id="video1" width="350px" height="195px" class="img" controls><source src="./animation/m1l1.mp4" type='video/mp4' /></video> -->
+<!-- <sparkle-animation-player src="./animation/m1l1.js" composition="4ED0DA6321935945901B9E722BAF61D7"></sparkle-animation-player> -->

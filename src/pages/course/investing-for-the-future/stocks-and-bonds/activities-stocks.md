@@ -1,7 +1,7 @@
 ---
 previousText: "Stocks and Bonds"
 previousUrl: "/course/investing-for-the-future/stocks-and-bonds/stocks-and-bonds"
-nextText: "Activities - Bonds"
+nextText: "Take Action - Bonds"
 nextUrl: "/course/investing-for-the-future/stocks-and-bonds/activities-bonds"
 lastLession: "false"
 lastSession: "false"

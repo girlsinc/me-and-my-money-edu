@@ -1,5 +1,5 @@
 ---
-previousText: "Activities - Bonds"
+previousText: "Take Action - Bonds"
 previousUrl: "/course/investing-for-the-future/stocks-and-bonds/activities-bonds"
 nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/stocks-and-bonds/journal-or-post-it"
