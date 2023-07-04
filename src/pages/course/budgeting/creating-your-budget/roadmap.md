@@ -1,8 +1,8 @@
 ---
 previousText: "Wrap it up"
 previousUrl: "/course/budgeting/women-and-budgeting/summary"
-nextText: "Creating Your Budget"
-nextUrl: "/course/budgeting/creating-your-budget/creating-your-budget"
+nextText: "Take Action"
+nextUrl: "/course/budgeting/creating-your-budget/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"

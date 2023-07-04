@@ -1,5 +1,5 @@
 ---
-previousText: "Activities - Bonds"
+previousText: "Take Action - Bonds"
 previousUrl: "/course/investing-for-the-future/stocks-and-bonds/activities-bonds"
 nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/stocks-and-bonds/journal-or-post-it"
@@ -15,3 +15,4 @@ pageId: "6"
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 
 ## Describe the differences between stocks and bonds.
+<sparkle-feed-post assignment-name="Describe the differences between stocks and bonds." ></sparkle-feed-post>

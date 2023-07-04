@@ -11,7 +11,7 @@ pageId: "6"
 ---
 
 
-# WOMEN AND BUDGETING
+# TAKE ACTION
 
 ![Take Action](/assets/img/take-action.jpg)
 

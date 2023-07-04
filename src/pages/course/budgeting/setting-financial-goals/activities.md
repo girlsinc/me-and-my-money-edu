@@ -1,8 +1,8 @@
 ---
 previousText: "Budgeting"
 previousUrl: "/course/budgeting/setting-financial-goals/budgeting-intro"
-nextText: "Journal or Post it"
-nextUrl: "/course/budgeting/setting-financial-goals/journal-or-post-it"
+nextText: "Speak Up"
+nextUrl: "/course/budgeting/setting-financial-goals/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
@@ -28,6 +28,3 @@ In this lesson, you will create a digital Vision Board that shows your financial
 [Click here to create your vision board](https://jamboard.google.com/d/13_keizrwCVA8uWBApeTaOrxHSIJpzJ03Ozy3zCLEO-g/copy)
 
 
-## Present your vision board to the class
-
-![Discussion](/assets/img/lets-talk-about-it.png)

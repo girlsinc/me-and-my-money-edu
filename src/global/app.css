@@ -32,7 +32,7 @@
 */
 :root {
   --ion-color-white: #fff;
-  --text-color--lighter: #757a85;
+  --text-color--light: #24282e;
 }
 ion-app {
   background-image: url(/assets/img/gi-background.jpg);
@@ -210,4 +210,9 @@ main > article h3 {
 .question-text, .question-container > label {
   color: var(--ion-color-primary);
   font-weight: bold;
+}
+
+video {
+  object-fit: fill;
+  width: 100%;
 }

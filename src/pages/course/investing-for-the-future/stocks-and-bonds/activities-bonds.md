@@ -1,5 +1,5 @@
 ---
-previousText: "Activities - Stocks"
+previousText: "Take Action - Stocks"
 previousUrl: "/course/investing-for-the-future/stocks-and-bonds/activities-stocks"
 nextText: "Speak Up"
 nextUrl: "/course/investing-for-the-future/stocks-and-bonds/discussion"
@@ -11,7 +11,9 @@ pageId: "6"
 ---
 
 
-# ACTIVITIES - BONDS
+# TAKE ACTION - BONDS
+![Take Action](/assets/img/take-action.jpg)
+
 
 A bond is what governments and businesses sell to investors as a way to raise money. When you buy a bond, you lend your money to the government or to a company for a specified period of time with a predetermined interest return at the end of the loan. A bond is similar to an I.O.U. Bonds pay a higher interest rate than savings accounts. Government bonds are backed by the full faith of the government, so there is very little risk in losing your money. Corporate (business) bonds are less secure. These bonds tend to perform more like stocks. The length of time you have to wait for a bond to “mature” (when you can cash it in for its full value) varies from bond to bond.
 

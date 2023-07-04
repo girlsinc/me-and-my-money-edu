@@ -14,4 +14,5 @@ pageId: "6"
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
 
-- What can be done to encourage more girls of color to invest?
+## What can be done to encourage more girls of color to invest?
+<sparkle-feed-post assignment-name="What can be done to encourage more girls of color to invest?" ></sparkle-feed-post>

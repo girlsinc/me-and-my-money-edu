@@ -11,7 +11,8 @@ pageId: "6"
 ---
 
 
-# Activities
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
 
 ## As you watch, “The Stock Market Explained” from Netflix, answer the questions below: 
 

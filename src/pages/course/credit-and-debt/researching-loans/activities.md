@@ -11,7 +11,9 @@ pageId: "6"
 ---
 
 
-# Activity
+# TAKE ACTION
+![Take Action](/assets/img/take-action.jpg)
+
 
 ## In small groups, research the various LOANS. budget systems. Then, identify the LOAN TERMs budget system you like best and create a slide on our shared Google Slides Deck. Your slide should include:
 - The type of loan 
