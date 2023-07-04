@@ -826,35 +826,35 @@
               "urlName": "roadmap"
             },
             {
-                "id": 2,
-                "name": "Stocks and Bonds",
-                "urlName": "stocks-and-bonds"
-              },
-              {
-                "id": 3,
-                "name": "Activities - Stocks",
-                "urlName": "activities-stocks"
-              },
-              {
-                "id": 4,
-                "name": "Activities - Bonds",
-                "urlName": "activities-bonds"
-              },
-              {
-                "id": 5,
-                "name": "Speak Up",
-                "urlName": "discussion"
-              },
-              {
-                "id": 6,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 7,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
+              "id": 2,
+              "name": "Stocks and Bonds",
+              "urlName": "stocks-and-bonds"
+            },
+            {
+              "id": 3,
+              "name": "Take Action - Stocks",
+              "urlName": "activities-stocks"
+            },
+            {
+              "id": 4,
+              "name": "Take Action - Bonds",
+              "urlName": "activities-bonds"
+            },
+            {
+              "id": 5,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 6,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 7,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
           ]
         },
         {
@@ -869,30 +869,30 @@
               "urlName": "roadmap"
             },
             {
-                "id": 2,
-                "name": "Security, Liquidity and Return",
-                "urlName": "security-liquidity-return"
-              },
-              {
-                "id": 3,
-                "name": "Take Action",
-                "urlName": "activities"
-              },
-              {
-                "id": 4,
-                "name": "Speak Up",
-                "urlName": "discussion"
-              },
-              {
-                "id": 5,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 6,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
+              "id": 2,
+              "name": "Security, Liquidity and Return",
+              "urlName": "security-liquidity-return"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
           ]
         },
         {
@@ -907,30 +907,30 @@
               "urlName": "roadmap"
             },
             {
-                "id": 2,
-                "name": "The Stock Market",
-                "urlName": "the-stock-market"
-              },
-              {
-                "id": 3,
-                "name": "Take Action",
-                "urlName": "activities"
-              },
-              {
-                "id": 4,
-                "name": "Speak Up",
-                "urlName": "discussion"
-              },
-              {
-                "id": 5,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 6,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
+              "id": 2,
+              "name": "The Stock Market",
+              "urlName": "the-stock-market"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
           ]
         },
         {
@@ -945,25 +945,25 @@
               "urlName": "roadmap"
             },
             {
-                "id": 2,
-                "name": "Choosing Where to Invest",
-                "urlName": "choosing-where-to-invest"
-              },
-              {
-                "id": 3,
-                "name": "Speak Up",
-                "urlName": "discussion"
-              },
-              {
-                "id": 4,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 5,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
+              "id": 2,
+              "name": "Choosing Where to Invest",
+              "urlName": "choosing-where-to-invest"
+            },
+            {
+              "id": 3,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 4,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
           ]
         },
         {
@@ -978,25 +978,25 @@
               "urlName": "roadmap"
             },
             {
-                "id": 2,
-                "name": "Checking a Stock",
-                "urlName": "checking-a-stock"
-              },
-              {
-                "id": 3,
-                "name": "Take Action",
-                "urlName": "discussion"
-              },
-              {
-                "id": 4,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 5,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
+              "id": 2,
+              "name": "Checking a Stock",
+              "urlName": "checking-a-stock"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 4,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
           ]
         },
         {
@@ -1011,30 +1011,30 @@
               "urlName": "roadmap"
             },
             {
-                "id": 2,
-                "name": "Building a Portfolio",
-                "urlName": "building-a-portfolio"
-              },
-              {
-                "id": 3,
-                "name": "Take Action",
-                "urlName": "activities"
-              },
-              {
-                "id": 4,
-                "name": "Speak Up",
-                "urlName": "discussion"
-              },
-              {
-                "id": 5,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 6,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
+              "id": 2,
+              "name": "Building a Portfolio",
+              "urlName": "building-a-portfolio"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
           ]
         },
         {
@@ -1049,30 +1049,30 @@
               "urlName": "roadmap"
             },
             {
-                "id": 2,
-                "name": "Mutual Funds",
-                "urlName": "mutual-funds"
-              },
-              {
-                "id": 3,
-                "name": "Take Action",
-                "urlName": "activities"
-              },
-              {
-                "id": 4,
-                "name": "Speak Up",
-                "urlName": "discussion"
-              },
-              {
-                "id": 5,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 6,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
+              "id": 2,
+              "name": "Mutual Funds",
+              "urlName": "mutual-funds"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
           ]
         },
         {
@@ -1087,40 +1087,40 @@
               "urlName": "roadmap"
             },
             {
-                "id": 2,
-                "name": "Why People Don't Invest",
-                "urlName": "why-people-don't-invest"
-              },
+              "id": 2,
+              "name": "Why People Don't Invest",
+              "urlName": "why-people-don't-invest"
+            },
             {
-                "id": 3,
-                "name": "Investments by Income",
-                "urlName": "investments-by-income"
-              },
+              "id": 3,
+              "name": "Investments by Income",
+              "urlName": "investments-by-income"
+            },
             {
-                "id": 4,
-                "name": "Investments by Demographics",
-                "urlName": "investment-by-demographics"
-              },
-              {
-                "id": 5,
-                "name": "Take Action",
-                "urlName": "activities"
-              },
-              {
-                "id": 6,
-                "name": "Speak Up",
-                "urlName": "discussion"
-              },
-              {
-                "id": 7,
-                "name": "Journal or Post it",
-                "urlName": "journal-or-post-it"
-              },
-              {
-                "id": 8,
-                "name": "Wrap it up",
-                "urlName": "summary"
-              }
+              "id": 4,
+              "name": "Investments by Demographics",
+              "urlName": "investment-by-demographics"
+            },
+            {
+              "id": 5,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 6,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 7,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 8,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
           ]
         },
         {
@@ -1148,9 +1148,9 @@
     {
       "id": 6,
       "number": 5,
-      "name":"Credit and Debt",
-      "urlName":"credit-and-debt",
-      "sessions":[
+      "name": "Credit and Debt",
+      "urlName": "credit-and-debt",
+      "sessions": [
         {
           "id": 0,
           "number": 0,

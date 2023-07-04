@@ -31,3 +31,6 @@ Platforms are available to handle the fee collection and other administrative wo
 
 # Digital marketing Services
 - If you’re creative and facile with the Internet this one’s for you. In addition to skill at marketing, Digital skills are key. Good client servicing skills will help you retain and grow your client base.
+
+## If you had to, which option would you pick, and why?
+<sparkle-feed-post assignment-name="If you had to, which option would you pick, and why?" ></sparkle-feed-post>
