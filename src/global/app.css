@@ -146,31 +146,33 @@ sparkle-page-footer {
 sparkle-character-intro {
   --sparkle-character-background-color: #ffffff;
   line-height: 18px;
-    font-size: 18px;
+  font-size: 18px;
 }
 sparkle-character-intro.shift-up-overlap .character-phrase-block {
   margin-top: 0px !important;
 }
 
-sparkle-character-intro .character-phrase-block{
+sparkle-character-intro .character-phrase-block {
   align-items: flex-start;
 }
-sparkle-character-intro .character-image-block{
+sparkle-character-intro .character-image-block {
   margin-top: -50px;
 }
 
-main > article ol, main > article ul {
+main > article ol,
+main > article ul {
   padding-left: 0px;
   line-height: 44px;
   font-weight: 500;
 }
-main > article ul > li, main > article ol > li{
- font-size: 18px;
- line-height: 24px;
- padding: 10px;
- position: relative;
- padding: 8px 0 8px 10px;
- margin-left: 30px;
+main > article ul > li,
+main > article ol > li {
+  font-size: 18px;
+  line-height: 24px;
+  padding: 10px;
+  position: relative;
+  padding: 8px 0 8px 10px;
+  margin-left: 30px;
 }
 
 main > article ul > li {
@@ -178,27 +180,30 @@ main > article ul > li {
   padding: 8px 0 8px 40px;
 }
 
-main > article ul > li:nth-child(odd), main > article ol > li:nth-child(odd){
-background-color: #fff;
+main > article ul > li:nth-child(odd),
+main > article ol > li:nth-child(odd) {
+  background-color: #fff;
 }
 main > article ol > li::marker {
   color: var(--ion-color-primary);
 }
-main > article ul > li:before{
-     background: transparent url('/assets/img/_ionicons_svg_md-checkmark-circle-outline.svg') scroll 0 0 no-repeat;
-     content: "";
-     width: 24px;
-     height: 24px;
-     position: absolute;
-     left:10px;
-     top:8px;
+main > article ul > li:before {
+  background: transparent url('/assets/img/_ionicons_svg_md-checkmark-circle-outline.svg') scroll 0 0 no-repeat;
+  content: '';
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 10px;
+  top: 8px;
 }
 
 main > article {
-  background-color: rgba(245,245,245,.5);
+  background-color: rgba(245, 245, 245, 0.5);
   padding: 10px;
 }
-main > article h1, main > article h2, main > article h3 {
+main > article h1,
+main > article h2,
+main > article h3 {
   color: var(--ion-color-primary);
 }
 main > article h2 {
@@ -207,7 +212,8 @@ main > article h2 {
 main > article h3 {
   font-size: 18px;
 }
-.question-text, .question-container > label {
+.question-text,
+.question-container > label {
   color: var(--ion-color-primary);
   font-weight: bold;
 }
@@ -215,4 +221,17 @@ main > article h3 {
 video {
   object-fit: fill;
   width: 100%;
+}
+.text-center {
+  text-align: center;
+}
+.primary {
+  color: var(--ion-color-primary);
+}
+
+.d-flex {
+  display: flex;
+}
+.justify-center {
+  justify-content: center;
 }

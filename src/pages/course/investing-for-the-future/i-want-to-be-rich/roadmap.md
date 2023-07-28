@@ -15,7 +15,9 @@ pageId: "6"
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
-Investing in yourself means investing in your financial wellbeing, health, career,  interests, as well as stocks and bonds. Investing is a mindset to set yourself up for success!</sparkle-character-intro>
+“Your best investment is in yourself.
+There is nothing that compares to it. Also: Don’t invest in something you don’t
+know anything about.” - Warren Buffet</sparkle-character-intro>
 
 ## In today's lesson we're going to learn: 
 
@@ -23,5 +25,10 @@ Investing in yourself means investing in your financial wellbeing, health, caree
 2. That the average investor is most likely to be invested in the stock market through mutual funds and retirement plans
 3. That you need to have enough saved to invest 
 4. To manage risk when investing
+
+
+# Warm-Up
+
+Partner up and tell your partner why you want to be rich!
 
 

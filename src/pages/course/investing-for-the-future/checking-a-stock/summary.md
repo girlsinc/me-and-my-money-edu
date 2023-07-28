@@ -18,5 +18,9 @@ Let's look at the highlights from today's lesson
 </sparkle-character-intro>
 
 ## In today's lesson we learned to: 
-- Respond to the questions and prompts by analyzing data from Google Finance.
-- Complete the wrap up based on your learning in the lesson, citing specific and relevant evidence from your research to support your response.
+- Evaluating the performance of a stock requires the consideration of several factors:
+    1. monitoring the stock price over time, 
+    2. looking at whether the stock pays dividends and adding that to the return, and 
+    3. comparing it against an appropriate benchmark that reflects the risk level of the stock and the sector.
+
+- To evaluate a stock’s performance, it must be reviewed against the best benchmark. You may be satisfied with a stock that generated an 8% return over the past year, but if the rest of the market returned several times that amount, the 8% is a poor performance.

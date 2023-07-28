@@ -13,7 +13,8 @@ pageId: "6"
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
-Discover the art of investment with our lesson on how to choose where to invest. Learn how to assess a stock's performance, strategies for buying stocks, and the potential of real estate as an investment.</sparkle-character-intro>
+ “How many millionaires do you know who have become wealthy by investing in savings accounts? I rest my case.” - Robert G. Allen
+</sparkle-character-intro>
 
 # ROADMAP FOR CHOOSING WHERE TO INVEST
 

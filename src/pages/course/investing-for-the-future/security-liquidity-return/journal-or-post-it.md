@@ -14,8 +14,8 @@ pageId: "6"
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL OR POST IT
 
-## What is the best thing about investing money? The worst thing?
-<sparkle-feed-post assignment-name="What is the best thing about investing money? The worst thing?" ></sparkle-feed-post>
+## What would you like to invest in? Stocks or bonds?
+<sparkle-feed-post assignment-name="What would you like to invest in? Stocks or bonds?" ></sparkle-feed-post>
 
 
 ## What is most important to you: return, security, or liquidity? Why?

@@ -1,8 +1,8 @@
 ---
 previousText: "Wrap it up"
 previousUrl: "/course/investing-for-the-future/choosing-where-to-invest/summary"
-nextText: "Checking a Stock"
-nextUrl: "/course/investing-for-the-future/checking-a-stock/checking-a-stock"
+nextText: "Take Action"
+nextUrl: "/course/investing-for-the-future/checking-a-stock/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
@@ -15,7 +15,8 @@ pageId: "6"
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
-Learn how to assess and analyze individual stock performance, and compare the performance of various stocks and sectors.
+“I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.” - Warren Buffett
+
 </sparkle-character-intro>
 
 ## In today's lesson we will learn how:
