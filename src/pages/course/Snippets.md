@@ -21,7 +21,7 @@
 
 
 # Making Money By Solving Problems
-<sparkle-animation-player src="./animation/m2l4.js" composition="EECE8C272624E84AA3158D35CA0F324A"></sparkle-animation-player>
+<sparkle-video-player src="./animation/m2l4.mp4" />
 
 
 # Money in the Media

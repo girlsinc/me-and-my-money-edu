@@ -13,4 +13,4 @@ pageId: "6"
 
 # WHERE DO I INVEST?
  
-<sparkle-animation-player src="./animation/m4l2.js" composition="6F53CC10F2C81940927BA93AF8372292"></sparkle-animation-player>
+<sparkle-video-player src="./animation/m4l2.mp4" />
