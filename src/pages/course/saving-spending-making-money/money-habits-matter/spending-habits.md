@@ -12,4 +12,4 @@ pageId: "6"
 
 
 # YOUR SPENDING HABITS CAN GET YOU IN TROUBLE
-<sparkle-animation-player src="./animation/m2l2.js" composition="85BEB3849B29B243BB5FDF107B98B81A"></sparkle-animation-player>
+<sparkle-video-player src="./animation/m2l2.mp4" />

@@ -1,6 +1,6 @@
 ---
 previousText: "Take Action"
-previousUrl: "/course/investing-for-the-future/checking-a-stock/discussion"
+previousUrl: "/course/investing-for-the-future/checking-a-stock/activities"
 nextText: "Wrap it up"
 nextUrl: "/course/investing-for-the-future/checking-a-stock/summary"
 lastLession: "false"

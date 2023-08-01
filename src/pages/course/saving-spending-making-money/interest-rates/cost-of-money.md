@@ -13,4 +13,4 @@ pageId: "6"
 
 # READ THE FINE PRINT: HOW MUCH DOES THIS MONEY COST?
 
-<sparkle-animation-player src="./animation/m2l3.js" composition="F4D7641CAE203343805D7643A8DF8461"></sparkle-animation-player>
+<sparkle-video-player src="./animation/m2l3.mp4" />

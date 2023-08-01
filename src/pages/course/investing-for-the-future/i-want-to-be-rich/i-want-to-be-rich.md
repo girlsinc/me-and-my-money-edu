@@ -12,4 +12,4 @@ pageId: "6"
 
 
 # I WANT TO BE RICH
-<sparkle-animation-player src="./animation/m4l1.js" composition="6F53CC10F2C81940927BA93AF8372292"></sparkle-animation-player>
+<sparkle-video-player src="./animation/m4l1.mp4" />

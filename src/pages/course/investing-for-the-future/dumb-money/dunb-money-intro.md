@@ -10,5 +10,4 @@ sessionId: "4"
 pageId: "6"
 ---
 
-
-<sparkle-animation-player src="./animation1/m4l3_part1.js" composition="6F53CC10F2C81940927BA93AF8372292"></sparkle-animation-player>
+<sparkle-video-player src="./animation/m4l3.mp4" />

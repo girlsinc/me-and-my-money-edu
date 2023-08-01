@@ -979,21 +979,16 @@
             },
             {
               "id": 2,
-              "name": "Checking a Stock",
-              "urlName": "checking-a-stock"
+              "name": "Take Action",
+              "urlName": "activities"
             },
             {
               "id": 3,
-              "name": "Take Action",
-              "urlName": "discussion"
-            },
-            {
-              "id": 4,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 5,
+              "id": 4,
               "name": "Wrap it up",
               "urlName": "summary"
             }

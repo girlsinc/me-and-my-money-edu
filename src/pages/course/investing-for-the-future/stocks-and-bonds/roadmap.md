@@ -15,9 +15,18 @@ pageId: "6"
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
 Take control of your investments with our 'Stocks and Bonds' lesson! Discover the similarities and differences between these two popular options, compare real estate and stocks as investments, and learn about the stock market's ups and downs. Join us today to level up your investment game!</sparkle-character-intro>
 
-# ROADMAP FOR STOCKS AND BONDS 
+# ROADMAP FOR STOCKS AND BONDS
+
 ## In today's lesson we will learn how to:
 
 1. Describe the similarities and differences between stocks and bonds.
 2. Understand how Real Estate compares to stocks as an investment
 3. What makes the stock market go up and down
+
+# Warm-Up
+
+## Pair up and tell your partner: People rarely become wealthy from their salaries. You have to invest your money to accumulate wealth.
+
+1. What do you already know about stocks?
+2. What do you already know about bonds?
+3. What do you know about real estate?

@@ -19,4 +19,4 @@ Let's look at the highlights from today's lesson
 
 
 ## In today's lesson we learned to: 
-- Key factors to consider when investing are your rate of return, how much you will earn on your money in what time period, how safe is your investment, ie is it insured? And how liquid is your investment, how quickly can your get your hands on your money if you need it.
+- Key factors to consider when investing are your rate of return, how much you will earn on your money in what time period, how safe is your investment, ie is it insured? And how liquid is your investment, how quickly can your get your hands on your money if you need it..

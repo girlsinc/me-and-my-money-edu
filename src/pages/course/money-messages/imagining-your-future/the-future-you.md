@@ -12,4 +12,4 @@ pageId: "6"
 
 
 # THE FUTURE YOU
-<sparkle-animation-player src="./animation/m1l2.js" composition="638B95A6DB07944F929B6468659DDD15"></sparkle-animation-player>
+<sparkle-video-player src="./animation/m1l2.mp4" />
