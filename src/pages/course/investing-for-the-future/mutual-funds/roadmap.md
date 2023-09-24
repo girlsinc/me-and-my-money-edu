@@ -16,10 +16,10 @@ pageId: "6"
 Discover the power of mutual funds and index funds. Join us today to learn how these investments work and how they can benefit you.</sparkle-character-intro>
 
 # ROADMAP FOR MUTUAL FUNDS
-## In today's lesson we will learn how:
-1. A mutual fund works
+## In today's lesson we will learn:
+1. How a mutual fund works
 2. The benefits of investing in mutual funds
-3. Index funds work
+3. How index funds work
 
 # Warm Up
 - What is the benefit of having multiple stocks in your portfolio?
