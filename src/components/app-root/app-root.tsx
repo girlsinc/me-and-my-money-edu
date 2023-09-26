@@ -10,13 +10,14 @@ import { AuthService } from '@sparkle-learning/core';
   styleUrl: 'app-root.css',
 })
 export class AppRoot {
+
   history: RouterHistory | null = null;
   private tocPath: string = '/assets/content/toc.json';
   private quizPath: string = '/assets/quiz.json';
   private config = {
-    appUrl: 'http://localhost:3333',
-    globalAssetsUrl: 'http://localhost:3333/assets',
-    apiUrl: 'https://localhost:44369/',
+    appUrl: 'https://meandmymoney.z13.web.core.windows.net',
+    globalAssetsUrl: 'https://meandmymoney.z13.web.core.windows.net/assets',
+    apiUrl: 'https://www.girlsinclearning.com/api/',
     quizPath: this.quizPath,
     tocPath: this.tocPath,
     menu: {
