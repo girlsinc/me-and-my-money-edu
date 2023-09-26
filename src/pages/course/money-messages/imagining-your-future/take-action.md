@@ -15,10 +15,10 @@ pageId: "6"
 # SPEAK UP
 
 ## How does your vision tree make you feel about your future?
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="How does your vision tree make you feel about your future?" ></sparkle-feed-post>
 
 ## Did the vision tree influence your career choice? 
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Did the vision tree influence your career choice? " ></sparkle-feed-post>
 
 ## What was the biggest surprise when thinking about this?   
-<sparkle-feed-post assignment-name="" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="What was the biggest surprise when thinking about this?" ></sparkle-feed-post>
