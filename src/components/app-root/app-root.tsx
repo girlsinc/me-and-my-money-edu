@@ -17,7 +17,7 @@ export class AppRoot {
   private config = {
     appUrl: 'https://meandmymoney.z13.web.core.windows.net',
     globalAssetsUrl: 'https://meandmymoney.z13.web.core.windows.net/assets',
-    apiUrl: 'https://www.girlsinclearning.com/api/',
+    apiUrl: 'https://localhost:44369/',
     quizPath: this.quizPath,
     tocPath: this.tocPath,
     menu: {
