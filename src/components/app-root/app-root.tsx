@@ -17,7 +17,7 @@ export class AppRoot {
   private config = {
     appUrl: 'https://meandmymoney.z13.web.core.windows.net',
     globalAssetsUrl: 'https://meandmymoney.z13.web.core.windows.net/assets',
-    apiUrl: 'https://localhost:44369/',
+    apiUrl: 'https://gi-sparkle.azurewebsites.net/',
     quizPath: this.quizPath,
     tocPath: this.tocPath,
     menu: {
