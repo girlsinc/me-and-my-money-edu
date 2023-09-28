@@ -14,5 +14,5 @@ pageId: "6"
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL OR POST IT
 
-## Describe how you want to begin immediately to start saving. And what your savings goal will be for the year.
-<sparkle-feed-post assignment-name="Describe how you want to begin immediately to start saving. And what your savings goal will be for the year" ></sparkle-feed-post>
+## Do you feel better about the possibility of achieving your goal. 
+<sparkle-feed-post assignment-name="Do you feel better about the possibility of achieving your goal." ></sparkle-feed-post>

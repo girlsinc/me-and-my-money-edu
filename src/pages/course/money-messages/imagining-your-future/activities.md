@@ -14,4 +14,4 @@ pageId: "6"
 # TAKE ACTION
 ![Take Action](/assets/img/take-action.jpg)
 - Create your vison of “Future Me” using the <a href="herfuture://vision">HER FUTURE Companion App</a>
-- Prepare a presentation before the class for the class about your career choice and the financial implications of it
+- Prepare a presentation for the class about your career choice and the financial implications of it

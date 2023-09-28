@@ -25,3 +25,5 @@ pageId: "6"
 3. Distinguish between wants versus needs
 4. Reduce your credit card debt
 
+## Warm Up
+- What are your habits around money? Do you need to change them? 

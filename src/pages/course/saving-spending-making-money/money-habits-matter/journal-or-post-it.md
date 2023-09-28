@@ -16,8 +16,8 @@ pageId: "6"
 
 ## Play the game “Spent” by pretending you’re living from paycheck to paycheck. You don’t have savings to fall back on, not even in an emergency. Maybe your family lost their apartment. There is $1000 left for the month. What can you do?
 
- ## Describe your feelings and experience when there was not enough money.
-<sparkle-feed-post assignment-name="Describe your feelings and experience when there was not enough money." ></sparkle-feed-post>
+ ## Describe your feelings when you don't think you have enough money, and when you do.
+<sparkle-feed-post assignment-name="Describe your feelings when you don't think you have enough money, and when you do." ></sparkle-feed-post>
 
-## Now describe the new money habits you want to develop to prevent that from happening, ever.
-<sparkle-feed-post assignment-name="Now describe the new money habits you want to develop to prevent that from happening, ever." ></sparkle-feed-post>
+## Now describe the new money habits you want to develop.
+<sparkle-feed-post assignment-name="Now describe the new money habits you want to develop." ></sparkle-feed-post>

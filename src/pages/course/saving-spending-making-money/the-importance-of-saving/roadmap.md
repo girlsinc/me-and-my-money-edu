@@ -25,3 +25,5 @@ Are you ready to take control of your financial future? Let's build the habit of
 3. Learn to identify goals for your savings
 4. Learn to get into the habit of saving
 
+## Warm Up
+- Think about whether or not you have been able to save. Why or why not?

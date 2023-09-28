@@ -14,6 +14,6 @@ pageId: "6"
 # JOURNAL IT OR POST IT
 ![Journal or Post it](/assets/img/journal-it.png)
 
-## What was the most interesting thing you thought about when making your vision tree? 
-<sparkle-feed-post assignment-name="What was the most interesting thing you thought about when making your vision tree?" ></sparkle-feed-post>
+## How did your vision tree change the way you imaginged your future? Did you feel different?
+<sparkle-feed-post assignment-name="How did your vision tree change the way you imaginged your future? Did you feel different?" ></sparkle-feed-post>
 
