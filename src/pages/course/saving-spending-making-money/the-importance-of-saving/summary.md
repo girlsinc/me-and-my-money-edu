@@ -14,7 +14,8 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+Do not save what is left after spending; instead spend what is left after saving. 
+– Warren Buffett
 </sparkle-character-intro>
 
 ## In today's lesson we learned:

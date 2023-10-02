@@ -14,7 +14,8 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+If you don't take good care of your credit, then your credit won't take good care of you. 
+—Tyler Gregory
 </sparkle-character-intro>
 
 ## In today's lesson we learned:
