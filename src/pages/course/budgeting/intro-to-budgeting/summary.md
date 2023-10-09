@@ -14,7 +14,7 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+“A debt problem is, at its core, a budgeting problem.” - Natalie Pace
 </sparkle-character-intro>
 
 ## In today's lesson we learned: 

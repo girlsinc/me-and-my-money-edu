@@ -14,7 +14,8 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+“Zero-based budgeting allows you to spend your money guilt-free because in a zero-based budget, you account for every dollar you earn in a month, so that in the end you have a sum of zero, because every dollar has a purpose, every dollar is accounted for.”
+The Budget Mom
 </sparkle-character-intro>
 
 ## In today's lesson we learned to: 

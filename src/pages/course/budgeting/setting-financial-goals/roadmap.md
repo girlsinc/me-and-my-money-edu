@@ -19,3 +19,6 @@ Ready to turn your financial dreams into a reality? Join us today as we create a
 1. A budget is a roadmap to your financial goals. By listing your expenses and then spending and saving according to your roadmap, you can reach your financial  goals.
 2. A good budget separate ones from knees and takes care of needs first. These must be met first, then you can satisfy your wants. 
 3. You must decide how much of your money you could afford to spend, save, invest or share with others. Creating a budget allows you to reflect on where you want your money to go. Only you have the power to decide how much of your hard earned money do you want to spend save or invest for the future.
+
+# Warm Up
+- Are you in the habit of living on a budget. Why or why not?

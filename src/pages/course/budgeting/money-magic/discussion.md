@@ -13,8 +13,13 @@ pageId: "6"
 
 # SPEAK UP
 
-![SPEAK UP!](/assets/img/lets-talk-about-it.png)
+![SPEAK UP!](/assets/img/lets-talk-about-it.png) 
 
-# Enzo’s goal was to save $50,000 to make his way to Vegas. How did having a fixed, predetermined goal affect your gameplay?
-# Based on what you’ve learned, which budgeting system would work best for you? Why?
-<sparkle-feed-post assignment-name="Enzo's goal was to save $50,000 to make his way to Vegas. How did having a fixed, predetermined goal affect your gameplay?" ></sparkle-feed-post>
+## What are some of the advantages of creating a Zero-Based Budget? What disadvantages did you encounter with this style of budgeting?
+<sparkle-feed-post assignment-name="What are some of the advantages of creating a Zero-Based Budget?" ></sparkle-feed-post>
+
+## Describe how you chose to split the money among the different categories. How did that process evolve as you became more experienced playing the game? 
+<sparkle-feed-post assignment-name="Describe how you chose to split the money among the different categories." >What are some of the advantages of creating a Zero-Based Budget?</sparkle-feed-post>
+
+## Was your budgeting strategy in this game a success? Why or why not?
+<sparkle-feed-post assignment-name="What are some of the advantages of creating a Zero-Based Budget?" >What are some of the advantages of creating a Zero-Based Budget?</sparkle-feed-post>

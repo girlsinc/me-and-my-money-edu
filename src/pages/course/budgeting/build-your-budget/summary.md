@@ -14,7 +14,7 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+“When it comes to money, and so many other things in life, understanding your weaknesses and strengths, can help you with your future plans.” Tagene Brown – McBean.
 </sparkle-character-intro>
 
 ## In today's lesson we learned:

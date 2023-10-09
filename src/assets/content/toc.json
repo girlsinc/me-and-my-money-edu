@@ -533,21 +533,26 @@
             },
             {
               "id": 2,
+              "name": "Additional Reading",
+              "urlName": "additional-reading"
+            },
+            {
+              "id": 3,
               "name": "Take Action",
               "urlName": "different-budget-systems"
             },
             {
-              "id": 3,
+              "id": 4,
               "name": "Speak Up",
               "urlName": "discussion"
             },
             {
-              "id": 4,
+              "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 5,
+              "id": 6,
               "name": "Wrap it up",
               "urlName": "summary"
             }

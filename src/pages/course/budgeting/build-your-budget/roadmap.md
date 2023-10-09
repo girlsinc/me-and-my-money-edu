@@ -21,3 +21,5 @@ Ready to take charge of your finances? Join us today to learn how to create a ze
 - To justify your expenses for every period
 - To describe the benefits of creating a traditional vs a zero-based budget, and the drawbacks.
 
+# Warm Up
+- Think about expenses you cannot justify and those that you can. 
