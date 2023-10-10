@@ -16,17 +16,8 @@ pageId: "6"
 
 ## As you watch, “The Stock Market Explained” from Netflix, answer the questions below: 
 
-## What did you hear? 
-<sparkle-feed-post assignment-name="What did you hear?" ></sparkle-feed-post>
-
-## What did you see? 
-<sparkle-feed-post assignment-name="What did you see?" ></sparkle-feed-post>
+## What was the central idea of this video? 
+<sparkle-feed-post assignment-name="What was the central idea of this video?" ></sparkle-feed-post>
 
 ## What did you realize? 
 <sparkle-feed-post assignment-name="What did you realize?" ></sparkle-feed-post>
-
-## What did you wonder? 
-<sparkle-feed-post assignment-name="What did you wonder?" ></sparkle-feed-post>
-
-## What was the central idea of this video? 
-<sparkle-feed-post assignment-name="What was the central idea of this video?" ></sparkle-feed-post>

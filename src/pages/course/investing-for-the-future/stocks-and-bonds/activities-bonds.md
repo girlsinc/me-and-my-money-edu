@@ -24,21 +24,10 @@ A bond is what governments and businesses sell to investors as a way to raise mo
 
 
 
-## What did you hear? 
-<sparkle-feed-post assignment-name="What did you hear?" ></sparkle-feed-post>
-
-## What did you see? 
-<sparkle-feed-post assignment-name="What did you see?" ></sparkle-feed-post>
+## What was the central idea of this video? 
+<sparkle-feed-post assignment-name="What was the central idea of this video?" ></sparkle-feed-post>
 
 ## What did you realize? 
 <sparkle-feed-post assignment-name="What did you realize?" ></sparkle-feed-post>
 
-## What did you wonder? 
-<sparkle-feed-post assignment-name="What did you wonder?" ></sparkle-feed-post>
 
-## What was the central idea of this video? 
-<sparkle-feed-post assignment-name="What was the central idea of this video?" ></sparkle-feed-post>
-
-## Complete the Venn Diagram on the Jamboard using what you learned to describe the similarities and differences between stocks and bonds.
-
-<a href="https://jamboard.google.com/d/1OZFTesmAZK-gUF0kouDpY41sEA4nWznz-GROwA-iM1I/edit?usp=sharing" target="_blank">Click here to access the Jamboard</a>

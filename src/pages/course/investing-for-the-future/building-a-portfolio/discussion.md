@@ -14,5 +14,5 @@ pageId: "6"
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
 
-## What did you enjoy about building your stock portfolio?
-<sparkle-feed-post assignment-name="What did you enjoy about building your stock portfolio?" ></sparkle-feed-post>
+## Given the choice, would you invest in your portfolio or the mutual fund and why?
+<sparkle-feed-post assignment-name="Given the choice, would you invest in your portfolio or the mutual fund and why?" ></sparkle-feed-post>

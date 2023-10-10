@@ -14,5 +14,5 @@ pageId: "6"
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
 
-## Based on today’s reading and discussion, what advice would you give a person who is interested in investing in the stock market?
-<sparkle-feed-post assignment-name="Based on today's reading and discussion, what advice would you give a person who is interested in investing in the stock market?" ></sparkle-feed-post>
+## Based on today’s reading and discussion, what advice would you give a person who is interested in investing?
+<sparkle-feed-post assignment-name="Based on today's reading and discussion, what advice would you give a person who is interested in investing?" ></sparkle-feed-post>

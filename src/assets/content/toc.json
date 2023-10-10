@@ -1002,8 +1002,8 @@
         {
           "id": 8,
           "number": 7,
-          "name": "Building a Portfolio",
-          "urlName": "building-a-portfolio",
+          "name": "Mutual Funds",
+          "urlName": "mutual-funds",
           "pages": [
             {
               "id": 1,
@@ -1012,8 +1012,8 @@
             },
             {
               "id": 2,
-              "name": "Building a Portfolio",
-              "urlName": "building-a-portfolio"
+              "name": "Mutual Funds",
+              "urlName": "mutual-funds"
             },
             {
               "id": 3,
@@ -1036,12 +1036,12 @@
               "urlName": "summary"
             }
           ]
-        },
+        },        
         {
           "id": 9,
           "number": 8,
-          "name": "Mutual Funds",
-          "urlName": "mutual-funds",
+          "name": "Building a Portfolio",
+          "urlName": "building-a-portfolio",
           "pages": [
             {
               "id": 1,
@@ -1050,8 +1050,8 @@
             },
             {
               "id": 2,
-              "name": "Mutual Funds",
-              "urlName": "mutual-funds"
+              "name": "Building a Portfolio",
+              "urlName": "building-a-portfolio"
             },
             {
               "id": 3,
@@ -1103,21 +1103,16 @@
             },
             {
               "id": 5,
-              "name": "Take Action",
-              "urlName": "activities"
-            },
-            {
-              "id": 6,
               "name": "Speak Up",
               "urlName": "discussion"
             },
             {
-              "id": 7,
+              "id": 6,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 8,
+              "id": 7,
               "name": "Wrap it up",
               "urlName": "summary"
             }

@@ -1,6 +1,6 @@
 ---
 previousText: "Wrap it up"
-previousUrl: "/course/investing-for-the-future/building-a-portfolio/summary"
+previousUrl: "/course/investing-for-the-future/checking-a-stock/summary"
 nextText: "Mutual Funds"
 nextUrl: "/course/investing-for-the-future/mutual-funds/mutual-funds"
 lastLession: "false"

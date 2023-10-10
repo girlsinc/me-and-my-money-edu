@@ -46,10 +46,3 @@ And they are more likely to invest their money in the stock market, and accumula
 </div>
 </div>
 
-## Calculate your monthly expenses and how much you're able to save up to invest at the end of a year, six months.
-
-<sparkle-feed-post assignment-name="Calculate your monthly expenses and how much you're able to save up to invest at the end of a year, six months." ></sparkle-feed-post>
-
-## Describe your educational goals to the class, in terms of how much you plan to earn, save, invest.
-
-<sparkle-feed-post assignment-name="Describe your educational goals to the class, in terms of how much you plan to earn, save, invest." ></sparkle-feed-post>

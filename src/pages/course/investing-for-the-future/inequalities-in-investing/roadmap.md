@@ -1,6 +1,6 @@
 ---
 previousText: "Wrap it up"
-previousUrl: "/course/investing-for-the-future/mutual-funds/summary"
+previousUrl: "/course/investing-for-the-future/building-a-portfolio/summary"
 nextText: "Why People Don't Invest"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/why-people-don't-invest"
 lastLession: "false"

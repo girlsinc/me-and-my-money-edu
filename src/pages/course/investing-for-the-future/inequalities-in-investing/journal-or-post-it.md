@@ -14,11 +14,5 @@ pageId: "6"
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL OR POST IT
 
-## One Surprising fact or idea
-<sparkle-feed-post assignment-name="One Surprising fact or idea" ></sparkle-feed-post>
-
-## One Interesting fact or idea
-<sparkle-feed-post assignment-name="One Interesting fact or idea" ></sparkle-feed-post>
-
-## One Troubling fact or idea
-<sparkle-feed-post assignment-name="One Troubling fact or idea" ></sparkle-feed-post>
+## What can you do to change the investment behavior in your family
+<sparkle-feed-post assignment-name="What can you do to change the investment behavior in your family" ></sparkle-feed-post>
