@@ -20,17 +20,8 @@ A stock is a piece (or “share”) of a company. When a company wants to raise 
 
 - <a href="https://nearpod.com/t/social-studies/9th/how-does-the-stock-market-work-L106524052" target="_blank">How Does the Stock Market Work?</a>
 
-## What did you hear? 
-<sparkle-feed-post assignment-name="What did you hear?" ></sparkle-feed-post>
-
-## What did you see? 
-<sparkle-feed-post assignment-name="What did you see?" ></sparkle-feed-post>
+## What was the central idea of this video? 
+<sparkle-feed-post assignment-name="What was the central idea of this video?" ></sparkle-feed-post>
 
 ## What did you realize? 
 <sparkle-feed-post assignment-name="What did you realize?" ></sparkle-feed-post>
-
-## What did you wonder? 
-<sparkle-feed-post assignment-name="What did you wonder?" ></sparkle-feed-post>
-
-## What was the central idea of this video? 
-<sparkle-feed-post assignment-name="What was the central idea of this video?" ></sparkle-feed-post>

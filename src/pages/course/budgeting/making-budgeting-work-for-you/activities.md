@@ -15,8 +15,6 @@ pageId: "6"
 
 ![Speak Up!](/assets/img/lets-talk-about-it.png)
 
-## HERE LIST HIGHLIGHTS OF THE VIDEO:
-
 ## What was the central idea of the video?
 <sparkle-feed-post assignment-name="What was the central idea of the video?" ></sparkle-feed-post>
 

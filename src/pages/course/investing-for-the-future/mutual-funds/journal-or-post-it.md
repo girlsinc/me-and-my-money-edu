@@ -14,10 +14,6 @@ pageId: "6"
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL OR POST IT
 
-## Name one takeaway about mutual funds that you have from this activity.
-<sparkle-feed-post assignment-name="Name one takeaway about mutual funds that you have from this activity" ></sparkle-feed-post>
-
-
-## Name one take away about index funds.
-<sparkle-feed-post assignment-name="Name one take away about index funds" ></sparkle-feed-post>
+## Which would you prefer to invest in? Index fund or mutual fund, and why? 
+<sparkle-feed-post assignment-name="Which would you prefer to invest in? Index fund or mutual fund, and why? " ></sparkle-feed-post>
 

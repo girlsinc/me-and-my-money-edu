@@ -1,6 +1,6 @@
 ---
-previousText: "Take Action"
-previousUrl: "/course/investing-for-the-future/inequalities-in-investing/activities"
+previousText: "Investments by Demographics"
+previousUrl: "/course/investing-for-the-future/inequalities-in-investing/investment-by-demographics"
 nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/journal-or-post-it"
 lastLession: "false"

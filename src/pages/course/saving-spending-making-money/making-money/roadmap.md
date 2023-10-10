@@ -23,3 +23,6 @@ pageId: "6"
 1. Identify business opportunities
 2. Assess the need for a new product or service
 3. Identify the key elements of a business plan
+
+## Warm Up
+- When you think about making money, what do you dream about?

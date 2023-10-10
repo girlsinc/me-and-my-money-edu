@@ -25,6 +25,6 @@ In this lesson, you will create a digital Vision Board that shows your financial
 - Long-term goals: financial things that you want to do in the next 10 years and beyond
 
 
-[Click here to create your vision board](https://jamboard.google.com/d/13_keizrwCVA8uWBApeTaOrxHSIJpzJ03Ozy3zCLEO-g/copy)
+<a href="https://jamboard.google.com/d/13_keizrwCVA8uWBApeTaOrxHSIJpzJ03Ozy3zCLEO-g/copy" target="_blank">Click here to create your vision board</a>
 
 

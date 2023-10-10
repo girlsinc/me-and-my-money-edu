@@ -27,8 +27,7 @@ know anything about.” - Warren Buffet</sparkle-character-intro>
 4. To manage risk when investing
 
 
-# Warm-Up
-
-Partner up and tell your partner why you want to be rich!
+# Warm Up
+- Partner up and tell your partner why you want to be rich!
 
 

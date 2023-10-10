@@ -14,7 +14,9 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+"No matter what system you use, budgeting has only one rule: do not go over budget."
+- Leslie Tayne
+
 </sparkle-character-intro>
 
 ## In today's lesson we learned: 

@@ -14,7 +14,8 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+Tell your money where to go instead of wondering where it went. 
+—John C. Maxwell
 </sparkle-character-intro>
 
 ## In today's lesson we learned:

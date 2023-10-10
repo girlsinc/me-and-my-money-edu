@@ -15,5 +15,5 @@ pageId: "6"
 
 ![SPEAK UP!](/assets/img/lets-talk-about-it.png)
 
-# Based on what you’ve learned, which budgeting system would work best for you? Why?
-<sparkle-feed-post assignment-name="Based on what you’ve learned, which budgeting system would work best for you? Why?" ></sparkle-feed-post>
+# From your perspective, list the pros and cons of each budgetting method.
+<sparkle-feed-post assignment-name="From your perspective, list the pros and cons of each budgetting method." ></sparkle-feed-post>

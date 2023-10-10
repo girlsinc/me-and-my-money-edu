@@ -17,3 +17,5 @@ pageId: "6"
 1. Describe what the stock market is, how it functions, and how people make money from buying stocks.
 2. What are the two major stock exchanges in the United States?
 3. According to the video, how has the relationship between share price and CEO pay changed over time? 
+
+<sparkle-feed-post assignment-name="Describe what the stock market is" ></sparkle-feed-post>

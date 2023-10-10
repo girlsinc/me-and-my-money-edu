@@ -1,8 +1,8 @@
 ---
 previousText: "Wrap it up"
 previousUrl: "/course/budgeting/intro-to-budgeting/summary"
-nextText: "Take Action"
-nextUrl: "/course/budgeting/different-budget-systems/different-budget-systems"
+nextText: "Additional Reading"
+nextUrl: "/course/budgeting/different-budget-systems/additional-reading"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"

@@ -14,5 +14,5 @@ pageId: "6"
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
 
-## What is asset allocation?
-<sparkle-feed-post assignment-name="What is asset allocation?" ></sparkle-feed-post>
+## What are the key advantages and disadvantages of mutual funds?
+<sparkle-feed-post assignment-name="What are the key advantages and disadvantages of mutual funds?" ></sparkle-feed-post>

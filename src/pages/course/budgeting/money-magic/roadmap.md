@@ -23,3 +23,5 @@ Unlock the power of your money with our 'Money Magic' lesson! Learn how to creat
 
 
 
+# Warm Up
+- Think about how you came up with the numbers for your last budget. Is there more useful way?

@@ -14,5 +14,10 @@ pageId: "6"
 # SPEAK UP
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 
-## Describe the differences between stocks and bonds.
-<sparkle-feed-post assignment-name="Describe the differences between stocks and bonds." ></sparkle-feed-post>
+
+## Complete the Venn Diagram on the Jamboard using what you learned to describe the similarities and differences between stocks and bonds.
+
+<a href="https://jamboard.google.com/d/1OZFTesmAZK-gUF0kouDpY41sEA4nWznz-GROwA-iM1I/edit?usp=sharing" target="_blank">Click here to access the Jamboard</a>
+
+## Post your Venn diagram here
+<sparkle-feed-post assignment-name="Post your Venn diagram here" ></sparkle-feed-post>

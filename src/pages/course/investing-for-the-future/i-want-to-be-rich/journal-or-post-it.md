@@ -14,7 +14,7 @@ pageId: "6"
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL OR POST IT
 
-## What are some ways that you currently developing the skills you need to succeed?
+## What are some ways that you are currently developing the skills you need to succeed?
 <sparkle-feed-post assignment-name="What are some ways that you currently developing the skills you need to succeed?" ></sparkle-feed-post>
 
 ## What are your short and long term savings and investing goals?

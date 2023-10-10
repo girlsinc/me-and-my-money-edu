@@ -24,3 +24,7 @@ I have a fantastic relationship with money. I use it to buy my freedom.
 1. Change attitudes you want to change
 2. Find a role model whose attitude toward money you admire
 3. Be careful of the company you keep
+
+
+## Warm Up
+- Think about whether any of your friends or familily members have negative attitudes towards money. How can you make sure you don't adopt these?

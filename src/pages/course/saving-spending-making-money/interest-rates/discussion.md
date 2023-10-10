@@ -13,6 +13,5 @@ pageId: "6"
 
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
-## Choose a partner and tell her what the “prime rate” is. Look up the daily prime rate published in the Wall Street Journal.
-
-<sparkle-feed-post assignment-name="Who did you admire for their financial accomplishments, and why?" ></sparkle-feed-post>
+## Do you think credit card interest rates are too high, and why might that be?
+<sparkle-feed-post assignment-name="Do you think credit card interest rates are too high, and why might that be?" ></sparkle-feed-post>

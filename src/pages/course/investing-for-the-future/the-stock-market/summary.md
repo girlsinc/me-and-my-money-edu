@@ -20,5 +20,5 @@ Let's look at the highlights from today's lesson
 ## In today's lesson we learned to: 
 - The stock market is a place where shares of publically listed companies are traded, meaning shares are issued, bought and sold.
 - To understand a stock/the stock market you need to know: ticker symbol, earnings per share, P/E ratio, day high and low, opening price, closing price,  previous price, net change.
-- The major US Stock Exchanges are: The Dow Jones average and the S&P 500 index.
+- The major US Stock Exchanges are: NYSE (New York Stock Exchange) and NASDAQ
 - You can track the real time market price of a stock by monitoring its ticker symbol, the abbreviated name of the stock.

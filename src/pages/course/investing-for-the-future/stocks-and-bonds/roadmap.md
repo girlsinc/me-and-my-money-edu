@@ -24,9 +24,4 @@ Take control of your investments with our 'Stocks and Bonds' lesson! Discover th
 3. What makes the stock market go up and down
 
 # Warm-Up
-
-## Pair up and tell your partner: People rarely become wealthy from their salaries. You have to invest your money to accumulate wealth.
-
-1. What do you already know about stocks?
-2. What do you already know about bonds?
-3. What do you know about real estate?
+- What do you already know about stocks and bonds

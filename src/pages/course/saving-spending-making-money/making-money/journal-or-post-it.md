@@ -14,8 +14,6 @@ pageId: "6"
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL OR POST IT
 
-## Be sure to research the salaries and income opportunities for each.
-
 ## Describe the benefits of being an entrepreneur as well as the less attractive aspects of it
 <sparkle-feed-post assignment-name="Describe the benefits of being an entrepreneur as well as the less attractive aspects of it" ></sparkle-feed-post>
 

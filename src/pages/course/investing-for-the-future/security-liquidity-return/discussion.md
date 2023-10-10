@@ -14,5 +14,5 @@ pageId: "6"
 ![Roadmap](/assets/img/lets-talk-about-it.png)
 # SPEAK UP
 
-## What is the best thing about investing money? The worst thing?
+## Thinking about return, security, liquidity, what is most important to you and what is least important. 
 <sparkle-feed-post assignment-name="What is the best thing about investing money? The worst thing?" ></sparkle-feed-post>

@@ -1,8 +1,8 @@
 ---
 previousText: "Investments by Income"
 previousUrl: "/course/investing-for-the-future/inequalities-in-investing/investments-by-income"
-nextText: "Take Action"
-nextUrl: "/course/investing-for-the-future/inequalities-in-investing/activities"
+nextText: "Speak Up"
+nextUrl: "/course/investing-for-the-future/inequalities-in-investing/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"

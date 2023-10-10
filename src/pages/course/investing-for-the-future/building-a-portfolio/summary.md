@@ -2,7 +2,7 @@
 previousText: "Journal or Post it"
 previousUrl: "/course/investing-for-the-future/building-a-portfolio/journal-or-post-it"
 nextText: "Lesson Roadmap"
-nextUrl: "/course/investing-for-the-future/mutual-funds/roadmap"
+nextUrl: "/course/investing-for-the-future/inequalities-in-investing/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"

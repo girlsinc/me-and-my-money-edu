@@ -14,7 +14,8 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+“Every cent you own, and every moment you spend is always an investment.“ 
+- Natalie Pace
 </sparkle-character-intro>
 
 

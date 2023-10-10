@@ -1,6 +1,6 @@
 ---
 previousText: "Wrap it up"
-previousUrl: "/course/investing-for-the-future/mutual-funds/summary"
+previousUrl: "/course/investing-for-the-future/building-a-portfolio/summary"
 nextText: "Why People Don't Invest"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/why-people-don't-invest"
 lastLession: "false"
@@ -18,10 +18,10 @@ Today's lesson is about inequalities in investing, where we'll explore who inves
 # ROADMAP FOR INEQUALITIES IN INVESTING
 ## In today's lesson we will learn:
 
-1. Who's invest in the stock market, why and why not?
+1. Who is invested in the stock market, who is not, and why?
 2. Ways to change who invests.
-3. The disadvantages of keeping your money in a savings account
+3. The disadvantages of keeping your money in a savings account.
 
 
 # Warm Up
-- Based on your own experiences and what you know about investing, name some reasons that people are not invested in the stock market
+- Based on your own experiences and what you know about investing, name some reasons that people might not be invested in the stock market

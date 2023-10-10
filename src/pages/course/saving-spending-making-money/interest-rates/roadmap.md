@@ -25,3 +25,5 @@ pageId: "6"
 3. The benefits and challenges of credit cards
 4. To pay off credit card debt
 
+## Warm Up
+- How long do you think it takes for debt to double at an interest rate of 18%?

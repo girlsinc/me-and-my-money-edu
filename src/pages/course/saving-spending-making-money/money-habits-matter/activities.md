@@ -14,7 +14,7 @@ pageId: "6"
 # TAKE ACTION
 ![Take Action](/assets/img/take-action.jpg)
 
-1.	Create a priorities list of your wants vs needs. 
+1.	Create a prioritized list of your wants vs needs. 
 2.	Describe your plan for saving for college
-3.	Conduct on line research into different kinds of savings accounts
+3.	Conduct online research into different kinds of savings accounts
 
