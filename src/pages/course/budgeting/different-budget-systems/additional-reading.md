@@ -11,7 +11,6 @@ pageId: "6"
 ---
 
 
-
 # ADDITIONAL READING
 
 ![Take Action](/assets/img/take-action.jpg) 

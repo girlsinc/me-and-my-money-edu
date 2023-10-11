@@ -952,24 +952,35 @@
               "urlName": "roadmap",
               "previousText": "Wrap it up",
               "previousUrl": "/course/budgeting/intro-to-budgeting/summary",
+              "nextText": "Additional Reading",
+              "nextUrl": "/course/budgeting/different-budget-systems/additional-reading",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 2,
+              "name": "Additional Reading",
+              "urlName": "additional-reading",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/budgeting/different-budget-systems/roadmap",
               "nextText": "Take Action",
               "nextUrl": "/course/budgeting/different-budget-systems/different-budget-systems",
               "isLastLesson": false,
               "isLastSession": false
             },
             {
-              "id": 2,
+              "id": 3,
               "name": "Take Action",
               "urlName": "different-budget-systems",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/different-budget-systems/roadmap",
+              "previousText": "Additional Reading",
+              "previousUrl": "/course/budgeting/different-budget-systems/additional-reading",
               "nextText": "Speak Up",
               "nextUrl": "/course/budgeting/different-budget-systems/discussion",
               "isLastLesson": false,
               "isLastSession": false
             },
             {
-              "id": 3,
+              "id": 4,
               "name": "Speak Up",
               "urlName": "discussion",
               "previousText": "Take Action",
@@ -980,7 +991,7 @@
               "isLastSession": false
             },
             {
-              "id": 4,
+              "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it",
               "previousText": "Speak Up",
@@ -991,7 +1002,7 @@
               "isLastSession": false
             },
             {
-              "id": 5,
+              "id": 6,
               "name": "Wrap it up",
               "urlName": "summary",
               "previousText": "Journal or Post it",
@@ -1826,7 +1837,7 @@
               "previousText": "Journal or Post it",
               "previousUrl": "/course/investing-for-the-future/checking-a-stock/journal-or-post-it",
               "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/roadmap",
+              "nextUrl": "/course/investing-for-the-future/mutual-funds/roadmap",
               "isLastLesson": true,
               "isLastSession": false
             }
@@ -1835,80 +1846,6 @@
         {
           "id": 8,
           "number": 7,
-          "name": "Building a Portfolio",
-          "urlName": "building-a-portfolio",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/checking-a-stock/summary",
-              "nextText": "Building a Portfolio",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 2,
-              "name": "Building a Portfolio",
-              "urlName": "building-a-portfolio",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/activities",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 3,
-              "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Building a Portfolio",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 4,
-              "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 5,
-              "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/summary",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 6,
-              "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/mutual-funds/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
-            }
-          ]
-        },
-        {
-          "id": 9,
-          "number": 8,
           "name": "Mutual Funds",
           "urlName": "mutual-funds",
           "pages": [
@@ -1917,7 +1854,7 @@
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
               "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/summary",
+              "previousUrl": "/course/investing-for-the-future/checking-a-stock/summary",
               "nextText": "Mutual Funds",
               "nextUrl": "/course/investing-for-the-future/mutual-funds/mutual-funds",
               "isLastLesson": false,
@@ -1974,6 +1911,80 @@
               "previousText": "Journal or Post it",
               "previousUrl": "/course/investing-for-the-future/mutual-funds/journal-or-post-it",
               "nextText": "Lesson Roadmap",
+              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/roadmap",
+              "isLastLesson": true,
+              "isLastSession": false
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 8,
+          "name": "Building a Portfolio",
+          "urlName": "building-a-portfolio",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap",
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/investing-for-the-future/mutual-funds/summary",
+              "nextText": "Building a Portfolio",
+              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 2,
+              "name": "Building a Portfolio",
+              "urlName": "building-a-portfolio",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/roadmap",
+              "nextText": "Take Action",
+              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/activities",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities",
+              "previousText": "Building a Portfolio",
+              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio",
+              "nextText": "Speak Up",
+              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/discussion",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion",
+              "previousText": "Take Action",
+              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/activities",
+              "nextText": "Journal or Post it",
+              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/journal-or-post-it",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it",
+              "previousText": "Speak Up",
+              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/discussion",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/summary",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Journal or Post it",
+              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/journal-or-post-it",
+              "nextText": "Lesson Roadmap",
               "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/roadmap",
               "isLastLesson": true,
               "isLastSession": false
@@ -1991,7 +2002,7 @@
               "name": "Lesson Roadmap",
               "urlName": "roadmap",
               "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/mutual-funds/summary",
+              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/summary",
               "nextText": "Why People Don't Invest",
               "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/why-people-don't-invest",
               "isLastLesson": false,
@@ -2025,35 +2036,24 @@
               "urlName": "investment-by-demographics",
               "previousText": "Investments by Income",
               "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/investments-by-income",
-              "nextText": "Take Action",
-              "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/activities",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 5,
-              "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Investments by Demographics",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/investment-by-demographics",
               "nextText": "Speak Up",
               "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/discussion",
               "isLastLesson": false,
               "isLastSession": false
             },
             {
-              "id": 6,
+              "id": 5,
               "name": "Speak Up",
               "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/activities",
+              "previousText": "Investments by Demographics",
+              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/investment-by-demographics",
               "nextText": "Journal or Post it",
               "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/journal-or-post-it",
               "isLastLesson": false,
               "isLastSession": false
             },
             {
-              "id": 7,
+              "id": 6,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it",
               "previousText": "Speak Up",
@@ -2064,7 +2064,7 @@
               "isLastSession": false
             },
             {
-              "id": 8,
+              "id": 7,
               "name": "Wrap it up",
               "urlName": "summary",
               "previousText": "Journal or Post it",
