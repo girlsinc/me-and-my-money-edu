@@ -954,18 +954,24 @@
               "name": "Choosing Where to Invest",
               "urlName": "choosing-where-to-invest"
             },
+
             {
               "id": 3,
+              "name": "Strategies For Choosing Stocks",
+              "urlName": "strategies-for-choosing-stocks"
+            },
+            {
+              "id": 4,
               "name": "Speak Up",
               "urlName": "discussion"
             },
             {
-              "id": 4,
+              "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it"
             },
             {
-              "id": 5,
+              "id": 6,
               "name": "Wrap it up",
               "urlName": "summary"
             }

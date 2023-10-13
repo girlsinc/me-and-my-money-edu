@@ -14,7 +14,7 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+“When bonds outperform, it can indicate higher fear. Yet, in spite of extreme investor fear, the S&P 500 has proven resilient. The index had positive performance in 32 of the last 42 years.” Warren Buffet
 </sparkle-character-intro>
 
 ## In today's lesson we learned to: 

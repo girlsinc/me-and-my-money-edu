@@ -14,7 +14,7 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+"Know what you own, and know why you own it." — Peter Lynch
 </sparkle-character-intro>
 
 ## In today's lesson we learned to: 

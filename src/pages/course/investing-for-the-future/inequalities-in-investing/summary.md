@@ -14,7 +14,8 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+About 158 Million Own Stocks -- But the Wealthiest 1% Own More Than Half.
+While starting to invest may seem daunting, it's a step worth taking: the average stock market return is about 10% per year, so investing is a great way to save for retirement. And there are also investment services that outperform the market.
 </sparkle-character-intro>
 
 ## In today's lesson we learned to: 

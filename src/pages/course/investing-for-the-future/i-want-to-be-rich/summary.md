@@ -14,7 +14,7 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-Let's look at the highlights from today's lesson
+"Courage taught me no matter how bad a crisis gets ... any sound investment will eventually pay off." — Carlos Slim Helu
 </sparkle-character-intro>
 
 ## In today's lesson we learned to: 
