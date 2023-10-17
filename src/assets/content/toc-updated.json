@@ -2224,6 +2224,302 @@
               "urlName": "summary",
               "previousText": "Journal or Post it",
               "previousUrl": "/course/credit-and-debt/researching-loans/journal-or-post-it",
+              "nextText": "Lesson Roadmap",
+              "nextUrl": "/course/credit-and-debt/interest-rates/roadmap",
+              "isLastLesson": true,
+              "isLastSession": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 2,
+          "name": "Interest rates, the good, the bad and the ugly",
+          "urlName": "interest-rates",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap",
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/credit-and-debt/researching-loans/summary",
+              "nextText": "Interest rates, the good, the bad and the ugly",
+              "nextUrl": "/course/credit-and-debt/interest-rates/interest-rates-the-good-the-bad",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 2,
+              "name": "Interest rates, the good, the bad and the ugly",
+              "urlName": "interest-rates-the-good-the-bad",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/credit-and-debt/interest-rates/roadmap",
+              "nextText": "Take Action",
+              "nextUrl": "/course/credit-and-debt/interest-rates/activities",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities",
+              "previousText": "Interest rates, the good, the bad and the ugly",
+              "previousUrl": "/course/credit-and-debt/interest-rates/interest-rates-the-good-the-bad",
+              "nextText": "Take Action",
+              "nextUrl": "/course/credit-and-debt/interest-rates/discussion",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion",
+              "previousText": "Take Action",
+              "previousUrl": "/course/credit-and-debt/interest-rates/activities",
+              "nextText": "Journal or Post it",
+              "nextUrl": "/course/credit-and-debt/interest-rates/journal-or-post-it",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it",
+              "previousText": "Take Action",
+              "previousUrl": "/course/credit-and-debt/interest-rates/discussion",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/credit-and-debt/interest-rates/summary",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Journal or Post it",
+              "previousUrl": "/course/credit-and-debt/interest-rates/journal-or-post-it",
+              "nextText": "Lesson Roadmap",
+              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/roadmap",
+              "isLastLesson": true,
+              "isLastSession": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 3,
+          "name": "Good debt vs. Bad debt",
+          "urlName": "good-debt-versus-bad-debt",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap",
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/credit-and-debt/interest-rates/summary",
+              "nextText": "Good debt vs. Bad debt",
+              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/good-debt-versus-bad-debt",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 2,
+              "name": "Good debt vs. Bad debt",
+              "urlName": "good-debt-versus-bad-debt",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/roadmap",
+              "nextText": "Take Action",
+              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/activities",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities",
+              "previousText": "Good debt vs. Bad debt",
+              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/good-debt-versus-bad-debt",
+              "nextText": "Take Action",
+              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/discussion",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion",
+              "previousText": "Take Action",
+              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/activities",
+              "nextText": "Journal or Post it",
+              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/journal-or-post-it",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it",
+              "previousText": "Take Action",
+              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/discussion",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/summary",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Journal or Post it",
+              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/journal-or-post-it",
+              "nextText": "Lesson Roadmap",
+              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/roadmap",
+              "isLastLesson": true,
+              "isLastSession": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 4,
+          "name": "Establishing your credit worthiness",
+          "urlName": "establishing-your-credit-worthiness",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap",
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/summary",
+              "nextText": "Establishing your credit worthiness",
+              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/establishing-your-credit-worthiness",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 2,
+              "name": "Establishing your credit worthiness",
+              "urlName": "establishing-your-credit-worthiness",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/roadmap",
+              "nextText": "Take Action",
+              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/activities",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities",
+              "previousText": "Establishing your credit worthiness",
+              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/establishing-your-credit-worthiness",
+              "nextText": "Take Action",
+              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/discussion",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion",
+              "previousText": "Take Action",
+              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/activities",
+              "nextText": "Journal or Post it",
+              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/journal-or-post-it",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it",
+              "previousText": "Take Action",
+              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/discussion",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/summary",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Journal or Post it",
+              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/journal-or-post-it",
+              "nextText": "Lesson Roadmap",
+              "nextUrl": "/course/credit-and-debt/the-credit-trap/roadmap",
+              "isLastLesson": true,
+              "isLastSession": false
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 5,
+          "name": "The Credit Trap",
+          "urlName": "the-credit-trap",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap",
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/summary",
+              "nextText": "The Credit Trap",
+              "nextUrl": "/course/credit-and-debt/the-credit-trap/the-credit-trap",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 2,
+              "name": "The Credit Trap",
+              "urlName": "the-credit-trap",
+              "previousText": "Lesson Roadmap",
+              "previousUrl": "/course/credit-and-debt/the-credit-trap/roadmap",
+              "nextText": "Take Action",
+              "nextUrl": "/course/credit-and-debt/the-credit-trap/activities",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities",
+              "previousText": "The Credit Trap",
+              "previousUrl": "/course/credit-and-debt/the-credit-trap/the-credit-trap",
+              "nextText": "Take Action",
+              "nextUrl": "/course/credit-and-debt/the-credit-trap/discussion",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion",
+              "previousText": "Take Action",
+              "previousUrl": "/course/credit-and-debt/the-credit-trap/activities",
+              "nextText": "Journal or Post it",
+              "nextUrl": "/course/credit-and-debt/the-credit-trap/journal-or-post-it",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it",
+              "previousText": "Take Action",
+              "previousUrl": "/course/credit-and-debt/the-credit-trap/discussion",
+              "nextText": "Wrap it up",
+              "nextUrl": "/course/credit-and-debt/the-credit-trap/summary",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary",
+              "previousText": "Journal or Post it",
+              "previousUrl": "/course/credit-and-debt/the-credit-trap/journal-or-post-it",
               "nextText": "",
               "nextUrl": "",
               "isLastLesson": false,

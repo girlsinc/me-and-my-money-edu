@@ -6,7 +6,7 @@ nextUrl: "/course/money-messages/your-relationship-to-money/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

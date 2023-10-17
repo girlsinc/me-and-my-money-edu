@@ -6,7 +6,7 @@ nextUrl: "/course/budgeting/intro-to-budgeting/intro-to-budgeting"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

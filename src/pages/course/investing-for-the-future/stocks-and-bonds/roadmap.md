@@ -6,7 +6,7 @@ nextUrl: "/course/investing-for-the-future/stocks-and-bonds/stocks-and-bonds"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

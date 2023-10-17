@@ -6,7 +6,7 @@ nextUrl: "/course/investing-for-the-future/security-liquidity-return/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

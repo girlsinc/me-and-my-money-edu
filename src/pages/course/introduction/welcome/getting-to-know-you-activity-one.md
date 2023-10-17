@@ -6,7 +6,7 @@ nextUrl: "/course/money-messages/introduction/roadmap"
 lastLession: "false"
 lastSession: "true"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

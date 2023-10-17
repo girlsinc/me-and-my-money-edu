@@ -6,7 +6,7 @@ nextUrl: "/course/investing-for-the-future/the-stock-market/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

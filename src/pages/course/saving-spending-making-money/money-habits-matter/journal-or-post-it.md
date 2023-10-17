@@ -6,7 +6,7 @@ nextUrl: "/course/saving-spending-making-money/money-habits-matter/summary"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

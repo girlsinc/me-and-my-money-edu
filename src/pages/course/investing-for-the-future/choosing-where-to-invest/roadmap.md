@@ -6,7 +6,7 @@ nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/choosing-whe
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 
