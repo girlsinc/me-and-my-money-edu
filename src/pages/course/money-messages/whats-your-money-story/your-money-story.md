@@ -6,7 +6,7 @@ nextUrl: "/course/money-messages/whats-your-money-story/money-in-the-media"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

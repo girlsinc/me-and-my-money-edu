@@ -1042,7 +1042,7 @@
               "urlName": "summary"
             }
           ]
-        },        
+        },
         {
           "id": 9,
           "number": 8,
@@ -1192,6 +1192,158 @@
               "id": 2,
               "name": "Researching Loans",
               "urlName": "researching-loans"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "name": "Interest rates, the good, the bad and the ugly",
+          "urlName": "interest-rates",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Interest rates, the good, the bad and the ugly",
+              "urlName": "interest-rates-the-good-the-bad"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "name": "Good debt vs. Bad debt",
+          "urlName": "good-debt-versus-bad-debt",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Good debt vs. Bad debt",
+              "urlName": "good-debt-versus-bad-debt"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "name": "Establishing your credit worthiness",
+          "urlName": "establishing-your-credit-worthiness",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Establishing your credit worthiness",
+              "urlName": "establishing-your-credit-worthiness"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "name": "The Credit Trap",
+          "urlName": "the-credit-trap",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "The Credit Trap",
+              "urlName": "the-credit-trap"
             },
             {
               "id": 3,

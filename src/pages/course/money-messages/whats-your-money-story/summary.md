@@ -6,7 +6,7 @@ nextUrl: "/course/money-messages/imagining-your-future/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

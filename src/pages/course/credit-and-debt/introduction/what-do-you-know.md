@@ -6,8 +6,11 @@ nextUrl: "/course/credit-and-debt/introduction/what-do-you-think"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 
 
+# WHAT DO YOU KNOW?
+
+## Answer the questions below to explore your views on money

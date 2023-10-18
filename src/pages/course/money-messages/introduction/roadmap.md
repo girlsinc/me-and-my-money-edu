@@ -6,7 +6,7 @@ nextUrl: "/course/money-messages/introduction/what-do-you-know"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

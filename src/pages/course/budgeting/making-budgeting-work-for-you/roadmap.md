@@ -6,7 +6,7 @@ nextUrl: "/course/budgeting/making-budgeting-work-for-you/making-budgeting-work-
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

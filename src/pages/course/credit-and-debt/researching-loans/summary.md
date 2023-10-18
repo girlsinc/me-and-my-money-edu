@@ -1,12 +1,12 @@
 ---
 previousText: "Journal or Post it"
 previousUrl: "/course/credit-and-debt/researching-loans/journal-or-post-it"
-nextText: ""
-nextUrl: ""
-lastLession: "false"
+nextText: "Lesson Roadmap"
+nextUrl: "/course/credit-and-debt/interest-rates/roadmap"
+lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 

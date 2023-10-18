@@ -6,7 +6,7 @@ nextUrl: "/course/saving-spending-making-money/the-importance-of-saving/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "2"
+sessionId: "6"
 pageId: "6"
 ---
 
