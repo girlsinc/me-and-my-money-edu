@@ -1,14 +1,15 @@
 ---
-previousText: 'The Credit Trap'
-previousUrl: '/course/credit-and-debt/the-credit-trap/the-credit-trap'
-nextText: 'Take Action'
-nextUrl: '/course/credit-and-debt/the-credit-trap/discussion'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "The Credit Trap"
+previousUrl: "/course/credit-and-debt/the-credit-trap/the-credit-trap"
+nextText: "Take Action"
+nextUrl: "/course/credit-and-debt/the-credit-trap/discussion"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # TAKE ACTION
 

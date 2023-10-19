@@ -1,14 +1,15 @@
 ---
-previousText: 'Take Action'
-previousUrl: '/course/credit-and-debt/good-debt-versus-bad-debt/activities'
-nextText: 'Journal or Post it'
-nextUrl: '/course/credit-and-debt/good-debt-versus-bad-debt/journal-or-post-it'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "Take Action"
+previousUrl: "/course/credit-and-debt/good-debt-versus-bad-debt/activities"
+nextText: "Journal or Post it"
+nextUrl: "/course/credit-and-debt/good-debt-versus-bad-debt/journal-or-post-it"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # SPEAK UP
 

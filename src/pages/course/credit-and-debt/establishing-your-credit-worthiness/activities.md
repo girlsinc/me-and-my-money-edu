@@ -6,9 +6,10 @@ nextUrl: "/course/credit-and-debt/establishing-your-credit-worthiness/discussion
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "6"
-pageId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # TAKE ACTION
 

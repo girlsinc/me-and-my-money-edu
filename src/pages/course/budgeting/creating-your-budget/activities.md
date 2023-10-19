@@ -6,8 +6,8 @@ nextUrl: "/course/budgeting/creating-your-budget/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "6"
-pageId: "6"
+sessionId: "7"
+pageId: "2"
 ---
 
 

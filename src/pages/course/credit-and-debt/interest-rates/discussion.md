@@ -1,14 +1,15 @@
 ---
-previousText: 'Take Action'
-previousUrl: '/course/credit-and-debt/interest-rates/activities'
-nextText: 'Journal or Post it'
-nextUrl: '/course/credit-and-debt/interest-rates/journal-or-post-it'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "Take Action"
+previousUrl: "/course/credit-and-debt/interest-rates/activities"
+nextText: "Journal or Post it"
+nextUrl: "/course/credit-and-debt/interest-rates/journal-or-post-it"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # SPEAK UP
 

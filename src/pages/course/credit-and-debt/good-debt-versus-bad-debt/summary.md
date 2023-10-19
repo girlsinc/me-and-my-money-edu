@@ -1,14 +1,15 @@
 ---
-previousText: 'Journal or Post it'
-previousUrl: '/course/credit-and-debt/good-debt-versus-bad-debt/journal-or-post-it'
-nextText: 'Lesson Roadmap'
-nextUrl: '/course/credit-and-debt/establishing-your-credit-worthiness/roadmap'
-lastLession: 'true'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "Journal or Post it"
+previousUrl: "/course/credit-and-debt/good-debt-versus-bad-debt/journal-or-post-it"
+nextText: "Lesson Roadmap"
+nextUrl: "/course/credit-and-debt/establishing-your-credit-worthiness/roadmap"
+lastLession: "true"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # RECAP
 

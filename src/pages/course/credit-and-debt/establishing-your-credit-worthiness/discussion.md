@@ -1,14 +1,15 @@
 ---
-previousText: 'Take Action'
-previousUrl: '/course/credit-and-debt/establishing-your-credit-worthiness/activities'
-nextText: 'Journal or Post it'
-nextUrl: '/course/credit-and-debt/establishing-your-credit-worthiness/journal-or-post-it'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "Take Action"
+previousUrl: "/course/credit-and-debt/establishing-your-credit-worthiness/activities"
+nextText: "Journal or Post it"
+nextUrl: "/course/credit-and-debt/establishing-your-credit-worthiness/journal-or-post-it"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # SPEAK UP
 

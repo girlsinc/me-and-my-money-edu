@@ -6,8 +6,8 @@ nextUrl: "/course/investing-for-the-future/i-want-to-be-rich/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "6"
-pageId: "6"
+sessionId: "7"
+pageId: "2"
 ---
 
 

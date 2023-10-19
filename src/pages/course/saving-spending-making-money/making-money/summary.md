@@ -6,8 +6,8 @@ nextUrl: "/course/saving-spending-making-money/conclusion/what-do-you-know"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "6"
-pageId: "6"
+sessionId: "7"
+pageId: "2"
 ---
 
 

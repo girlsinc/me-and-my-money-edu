@@ -1,14 +1,15 @@
 ---
-previousText: 'Journal or Post it'
-previousUrl: '/course/credit-and-debt/the-credit-trap/journal-or-post-it'
-nextText: ''
-nextUrl: ''
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "Journal or Post it"
+previousUrl: "/course/credit-and-debt/the-credit-trap/journal-or-post-it"
+nextText: "What did you learn?"
+nextUrl: "/course/credit-and-debt/conclusion/what-do-you-know"
+lastLession: "true"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # RECAP
 

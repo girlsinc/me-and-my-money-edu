@@ -6,8 +6,8 @@ nextUrl: "/course/saving-spending-making-money/money-habits-matter/journal-or-po
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "6"
-pageId: "6"
+sessionId: "7"
+pageId: "2"
 ---
 
 

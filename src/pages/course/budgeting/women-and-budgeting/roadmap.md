@@ -6,8 +6,8 @@ nextUrl: "/course/budgeting/women-and-budgeting/women-and-budgeting"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "6"
-pageId: "6"
+sessionId: "7"
+pageId: "2"
 ---
 
 

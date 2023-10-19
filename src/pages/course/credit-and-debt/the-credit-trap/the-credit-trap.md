@@ -1,14 +1,15 @@
 ---
-previousText: 'Lesson Roadmap'
-previousUrl: '/course/credit-and-debt/the-credit-trap/roadmap'
-nextText: 'Take Action'
-nextUrl: '/course/credit-and-debt/the-credit-trap/activities'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "Lesson Roadmap"
+previousUrl: "/course/credit-and-debt/the-credit-trap/roadmap"
+nextText: "Take Action"
+nextUrl: "/course/credit-and-debt/the-credit-trap/activities"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # THE CREDIT TEAP
 

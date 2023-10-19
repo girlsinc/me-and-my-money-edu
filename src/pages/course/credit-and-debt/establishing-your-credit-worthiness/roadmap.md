@@ -1,14 +1,15 @@
 ---
-previousText: 'Wrap it up'
-previousUrl: '/course/credit-and-debt/good-debt-versus-bad-debt/summary'
-nextText: 'Establishing your credit worthiness'
-nextUrl: '/course/credit-and-debt/establishing-your-credit-worthiness/establishing-your-credit-worthiness'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "Wrap it up"
+previousUrl: "/course/credit-and-debt/good-debt-versus-bad-debt/summary"
+nextText: "Establishing your credit worthiness"
+nextUrl: "/course/credit-and-debt/establishing-your-credit-worthiness/establishing-your-credit-worthiness"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">

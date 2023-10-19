@@ -1,13 +1,13 @@
 ---
-previousText: "Choosing Where to Invest"
-previousUrl: "/course/investing-for-the-future/choosing-where-to-invest/choosing-where-to-invest"
+previousText: "Strategies For Choosing Stocks"
+previousUrl: "/course/investing-for-the-future/choosing-where-to-invest/strategies-for-choosing-stocks"
 nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "6"
-pageId: "6"
+sessionId: "7"
+pageId: "2"
 ---
 
 

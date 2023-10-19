@@ -1,14 +1,15 @@
 ---
-previousText: 'Interest rates, the good, the bad and the ugly'
-previousUrl: '/course/credit-and-debt/interest-rates/interest-rates-the-good-the-bad'
-nextText: 'Take Action'
-nextUrl: '/course/credit-and-debt/interest-rates/discussion'
-lastLession: 'false'
-lastSession: 'false'
-courseModuleId: '6'
-sessionId: '6'
-pageId: '6'
+previousText: "Interest rates, the good, the bad and the ugly"
+previousUrl: "/course/credit-and-debt/interest-rates/interest-rates-the-good-the-bad"
+nextText: "Take Action"
+nextUrl: "/course/credit-and-debt/interest-rates/discussion"
+lastLession: "false"
+lastSession: "false"
+courseModuleId: "6"
+sessionId: "7"
+pageId: "2"
 ---
+
 
 # TAKE ACTION
 

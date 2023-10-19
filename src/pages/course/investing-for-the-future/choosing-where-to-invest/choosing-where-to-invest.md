@@ -1,13 +1,13 @@
 ---
 previousText: "Lesson Roadmap"
 previousUrl: "/course/investing-for-the-future/choosing-where-to-invest/roadmap"
-nextText: "Speak Up"
-nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/discussion"
+nextText: "Strategies For Choosing Stocks"
+nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/strategies-for-choosing-stocks"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "6"
-pageId: "6"
+sessionId: "7"
+pageId: "2"
 ---
 
 
