@@ -1366,6 +1366,26 @@
               "urlName": "summary"
             }
           ]
+        },
+        {
+          "id": 6,
+          "number": 0,
+          "preventNumbering": true,
+          "name": "Conclusion",
+          "urlName": "conclusion",
+          "pages": [
+            {
+              "id": 1,
+              "name": "What did you learn?",
+              "urlName": "what-do-you-know"
+            },
+
+            {
+              "id": 2,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think"
+            }
+          ]
         }
       ]
     }
