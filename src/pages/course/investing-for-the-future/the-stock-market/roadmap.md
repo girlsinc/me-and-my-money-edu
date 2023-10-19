@@ -5,9 +5,9 @@ nextText: "The Stock Market"
 nextUrl: "/course/investing-for-the-future/the-stock-market/the-stock-market"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "5"
+sessionId: "5"
+pageId: "1"
 ---
 
 

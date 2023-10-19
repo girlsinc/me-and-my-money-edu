@@ -5,9 +5,9 @@ nextText: "Making money my friend"
 nextUrl: "/course/money-messages/your-relationship-to-money/making-money-my-friend"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "2"
+sessionId: "4"
+pageId: "1"
 ---
 
 

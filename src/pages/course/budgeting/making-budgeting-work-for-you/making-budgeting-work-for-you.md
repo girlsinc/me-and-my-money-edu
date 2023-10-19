@@ -5,7 +5,7 @@ nextText: "Speak Up"
 nextUrl: "/course/budgeting/making-budgeting-work-for-you/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
+courseModuleId: "4"
 sessionId: "7"
 pageId: "2"
 ---

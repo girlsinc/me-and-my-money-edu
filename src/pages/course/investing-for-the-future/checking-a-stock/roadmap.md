@@ -5,9 +5,9 @@ nextText: "Take Action"
 nextUrl: "/course/investing-for-the-future/checking-a-stock/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
+courseModuleId: "5"
 sessionId: "7"
-pageId: "2"
+pageId: "1"
 ---
 
 

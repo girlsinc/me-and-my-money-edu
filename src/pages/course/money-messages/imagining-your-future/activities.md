@@ -5,9 +5,9 @@ nextText: "Speak Up"
 nextUrl: "/course/money-messages/imagining-your-future/take-action"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "2"
+sessionId: "3"
+pageId: "3"
 ---
 
 

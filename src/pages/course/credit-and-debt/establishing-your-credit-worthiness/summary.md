@@ -6,8 +6,8 @@ nextUrl: "/course/credit-and-debt/the-credit-trap/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+sessionId: "5"
+pageId: "6"
 ---
 
 

@@ -5,8 +5,8 @@ nextText: "Take Action"
 nextUrl: "/course/investing-for-the-future/the-stock-market/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "5"
+sessionId: "5"
 pageId: "2"
 ---
 

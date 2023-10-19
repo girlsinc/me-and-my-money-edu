@@ -5,9 +5,9 @@ nextText: "Your spending habits can get you in trouble"
 nextUrl: "/course/saving-spending-making-money/money-habits-matter/spending-habits"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "3"
+sessionId: "3"
+pageId: "1"
 ---
 
 

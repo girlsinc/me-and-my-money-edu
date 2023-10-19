@@ -5,8 +5,8 @@ nextText: "Speak Up"
 nextUrl: "/course/budgeting/women-and-budgeting/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "4"
+sessionId: "8"
 pageId: "2"
 ---
 

@@ -5,9 +5,9 @@ nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "5"
+sessionId: "10"
+pageId: "5"
 ---
 
 

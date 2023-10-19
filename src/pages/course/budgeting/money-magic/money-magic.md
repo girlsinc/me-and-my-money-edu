@@ -5,8 +5,8 @@ nextText: "Speak Up"
 nextUrl: "/course/budgeting/money-magic/discussion"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "4"
+sessionId: "5"
 pageId: "2"
 ---
 

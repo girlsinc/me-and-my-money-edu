@@ -6,8 +6,8 @@ nextUrl: "/course/credit-and-debt/introduction/what-do-you-know"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+sessionId: "1"
+pageId: "1"
 ---
 
 

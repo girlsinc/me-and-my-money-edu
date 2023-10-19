@@ -5,9 +5,9 @@ nextText: "Wrap it up"
 nextUrl: "/course/budgeting/creating-your-budget/summary"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "9"
+pageId: "4"
 ---
 
 

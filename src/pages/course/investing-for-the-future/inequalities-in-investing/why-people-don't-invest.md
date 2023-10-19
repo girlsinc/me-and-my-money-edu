@@ -5,8 +5,8 @@ nextText: "Investments by Income"
 nextUrl: "/course/investing-for-the-future/inequalities-in-investing/investments-by-income"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "5"
+sessionId: "10"
 pageId: "2"
 ---
 

@@ -6,7 +6,7 @@ nextUrl: "/course/credit-and-debt/establishing-your-credit-worthiness/activities
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
+sessionId: "5"
 pageId: "2"
 ---
 

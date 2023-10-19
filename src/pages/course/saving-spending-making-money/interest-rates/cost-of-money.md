@@ -5,8 +5,8 @@ nextText: "Key Learnings"
 nextUrl: "/course/saving-spending-making-money/interest-rates/key-learnings"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "3"
+sessionId: "4"
 pageId: "2"
 ---
 

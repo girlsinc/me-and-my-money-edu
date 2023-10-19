@@ -6,8 +6,8 @@ nextUrl: "/course/credit-and-debt/interest-rates/interest-rates-the-good-the-bad
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+sessionId: "3"
+pageId: "1"
 ---
 
 

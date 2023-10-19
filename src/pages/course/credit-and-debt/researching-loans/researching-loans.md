@@ -6,7 +6,7 @@ nextUrl: "/course/credit-and-debt/researching-loans/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
+sessionId: "2"
 pageId: "2"
 ---
 

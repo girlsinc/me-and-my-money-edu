@@ -5,9 +5,9 @@ nextText: "Build Your Budget"
 nextUrl: "/course/budgeting/build-your-budget/build-your-budget"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "6"
+pageId: "1"
 ---
 
 

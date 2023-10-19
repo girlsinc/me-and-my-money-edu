@@ -5,9 +5,9 @@ nextText: "Speak Up"
 nextUrl: "/course/money-messages/your-relationship-to-money/discussion"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "2"
+sessionId: "4"
+pageId: "3"
 ---
 
 

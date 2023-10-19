@@ -5,9 +5,9 @@ nextText: "What did you learn?"
 nextUrl: "/course/budgeting/conclusion/what-do-you-know"
 lastLession: "true"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "9"
+pageId: "5"
 ---
 
 

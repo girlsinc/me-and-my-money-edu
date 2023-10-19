@@ -5,9 +5,9 @@ nextText: "Journal or Post it"
 nextUrl: "/course/budgeting/setting-financial-goals/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "2"
+pageId: "4"
 ---
 
 

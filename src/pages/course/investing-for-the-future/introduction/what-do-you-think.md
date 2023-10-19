@@ -5,9 +5,9 @@ nextText: "Lesson Roadmap"
 nextUrl: "/course/investing-for-the-future/i-want-to-be-rich/roadmap"
 lastLession: "true"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "5"
+sessionId: "1"
+pageId: "3"
 ---
 
 

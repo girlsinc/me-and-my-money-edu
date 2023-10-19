@@ -5,9 +5,9 @@ nextText: "What do you know?"
 nextUrl: "/course/money-messages/introduction/what-do-you-know"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "2"
+sessionId: "1"
+pageId: "1"
 ---
 
 

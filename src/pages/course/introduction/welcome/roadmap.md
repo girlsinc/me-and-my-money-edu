@@ -5,8 +5,8 @@ nextText: "Getting to know you"
 nextUrl: "/course/introduction/welcome/getting-to-know-you-activity-one"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "1"
+sessionId: "1"
 pageId: "2"
 ---
 

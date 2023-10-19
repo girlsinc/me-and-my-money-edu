@@ -6,8 +6,8 @@ nextUrl: "/course/credit-and-debt/establishing-your-credit-worthiness/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+sessionId: "4"
+pageId: "6"
 ---
 
 

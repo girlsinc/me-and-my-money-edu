@@ -5,9 +5,9 @@ nextText: "Speak Up"
 nextUrl: "/course/budgeting/different-budget-systems/discussion"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "4"
+pageId: "3"
 ---
 
 

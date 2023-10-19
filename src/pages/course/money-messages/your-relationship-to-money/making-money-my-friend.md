@@ -5,8 +5,8 @@ nextText: "Take Action"
 nextUrl: "/course/money-messages/your-relationship-to-money/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "2"
+sessionId: "4"
 pageId: "2"
 ---
 

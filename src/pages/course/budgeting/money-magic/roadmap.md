@@ -5,9 +5,9 @@ nextText: "Take Action"
 nextUrl: "/course/budgeting/money-magic/money-magic"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "5"
+pageId: "1"
 ---
 
 
