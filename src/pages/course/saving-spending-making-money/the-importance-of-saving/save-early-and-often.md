@@ -5,8 +5,8 @@ nextText: "Activities"
 nextUrl: "/course/saving-spending-making-money/the-importance-of-saving/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "3"
+sessionId: "2"
 pageId: "2"
 ---
 

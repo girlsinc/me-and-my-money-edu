@@ -5,8 +5,8 @@ nextText: "Strategies For Choosing Stocks"
 nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/strategies-for-choosing-stocks"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "5"
+sessionId: "6"
 pageId: "2"
 ---
 

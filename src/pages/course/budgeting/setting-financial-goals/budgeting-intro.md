@@ -5,8 +5,8 @@ nextText: "Take Action"
 nextUrl: "/course/budgeting/setting-financial-goals/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "4"
+sessionId: "2"
 pageId: "2"
 ---
 

@@ -6,7 +6,7 @@ nextUrl: "/course/credit-and-debt/introduction/what-do-you-think"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
+sessionId: "1"
 pageId: "2"
 ---
 

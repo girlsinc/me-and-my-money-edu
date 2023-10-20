@@ -6,8 +6,8 @@ nextUrl: "/course/credit-and-debt/good-debt-versus-bad-debt/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+sessionId: "3"
+pageId: "6"
 ---
 
 

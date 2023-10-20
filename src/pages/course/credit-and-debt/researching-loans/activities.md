@@ -6,8 +6,8 @@ nextUrl: "/course/credit-and-debt/researching-loans/discussion"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+sessionId: "2"
+pageId: "3"
 ---
 
 

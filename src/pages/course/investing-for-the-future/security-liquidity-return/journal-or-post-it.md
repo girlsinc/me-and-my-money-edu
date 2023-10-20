@@ -5,9 +5,9 @@ nextText: "Wrap it up"
 nextUrl: "/course/investing-for-the-future/security-liquidity-return/summary"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "5"
+sessionId: "4"
+pageId: "5"
 ---
 
 

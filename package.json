@@ -28,7 +28,7 @@
     "@sparkle-learning/core": "^0.0.64",
     "@stencil/router": "^1.0.1",
     "@stencil/store": "^1.5.0",
-    "sparkle-scripts": "0.0.19"
+    "sparkle-scripts": "^0.0.20"
   },
   "devDependencies": {
     "@ionic/core": "^6.0.14",

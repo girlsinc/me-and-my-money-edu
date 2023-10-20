@@ -5,9 +5,9 @@ nextText: "Speak Up"
 nextUrl: "/course/investing-for-the-future/building-a-portfolio/discussion"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "5"
+sessionId: "9"
+pageId: "3"
 ---
 
 

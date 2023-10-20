@@ -5,9 +5,9 @@ nextText: "Budgeting"
 nextUrl: "/course/budgeting/setting-financial-goals/budgeting-intro"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "2"
+pageId: "1"
 ---
 
 

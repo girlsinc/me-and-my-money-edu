@@ -5,8 +5,8 @@ nextText: "What do you think?"
 nextUrl: "/course/saving-spending-making-money/introduction/what-do-you-think"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "3"
+sessionId: "1"
 pageId: "2"
 ---
 

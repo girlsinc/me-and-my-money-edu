@@ -5,8 +5,8 @@ nextText: "Take Action"
 nextUrl: "/course/investing-for-the-future/security-liquidity-return/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "5"
+sessionId: "4"
 pageId: "2"
 ---
 

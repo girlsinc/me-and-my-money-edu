@@ -5,8 +5,8 @@ nextText: "Module Roadmap"
 nextUrl: "/course/credit-and-debt/introduction/roadmap"
 lastLession: "false"
 lastSession: "true"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "5"
+sessionId: "11"
 pageId: "2"
 ---
 

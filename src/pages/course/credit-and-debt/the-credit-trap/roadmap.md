@@ -6,8 +6,8 @@ nextUrl: "/course/credit-and-debt/the-credit-trap/the-credit-trap"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+sessionId: "6"
+pageId: "1"
 ---
 
 

@@ -5,9 +5,9 @@ nextText: "Take Action"
 nextUrl: "/course/budgeting/intro-to-budgeting/intro-to-budgeting"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "3"
+pageId: "1"
 ---
 
 

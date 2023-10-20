@@ -6,7 +6,7 @@ nextUrl: "/course/credit-and-debt/the-credit-trap/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
+sessionId: "6"
 pageId: "2"
 ---
 

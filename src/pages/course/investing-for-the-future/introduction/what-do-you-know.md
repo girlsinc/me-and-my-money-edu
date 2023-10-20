@@ -5,8 +5,8 @@ nextText: "What do you think?"
 nextUrl: "/course/investing-for-the-future/introduction/what-do-you-think"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "5"
+sessionId: "1"
 pageId: "2"
 ---
 

@@ -6,7 +6,7 @@ nextUrl: "/course/credit-and-debt/interest-rates/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
+sessionId: "3"
 pageId: "2"
 ---
 

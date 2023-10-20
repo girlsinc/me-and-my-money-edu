@@ -5,9 +5,9 @@ nextText: "Wrap it up"
 nextUrl: "/course/budgeting/different-budget-systems/summary"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "4"
+pageId: "5"
 ---
 
 

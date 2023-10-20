@@ -5,9 +5,9 @@ nextText: "Take Action"
 nextUrl: "/course/saving-spending-making-money/the-importance-of-saving/discussion"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "3"
+sessionId: "2"
+pageId: "3"
 ---
 
 

@@ -1751,24 +1751,35 @@
               "urlName": "choosing-where-to-invest",
               "previousText": "Lesson Roadmap",
               "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/roadmap",
+              "nextText": "Strategies For Choosing Stocks",
+              "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/strategies-for-choosing-stocks",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 3,
+              "name": "Strategies For Choosing Stocks",
+              "urlName": "strategies-for-choosing-stocks",
+              "previousText": "Choosing Where to Invest",
+              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/choosing-where-to-invest",
               "nextText": "Speak Up",
               "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/discussion",
               "isLastLesson": false,
               "isLastSession": false
             },
             {
-              "id": 3,
+              "id": 4,
               "name": "Speak Up",
               "urlName": "discussion",
-              "previousText": "Choosing Where to Invest",
-              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/choosing-where-to-invest",
+              "previousText": "Strategies For Choosing Stocks",
+              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/strategies-for-choosing-stocks",
               "nextText": "Journal or Post it",
               "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/journal-or-post-it",
               "isLastLesson": false,
               "isLastSession": false
             },
             {
-              "id": 4,
+              "id": 5,
               "name": "Journal or Post it",
               "urlName": "journal-or-post-it",
               "previousText": "Speak Up",
@@ -1779,7 +1790,7 @@
               "isLastSession": false
             },
             {
-              "id": 5,
+              "id": 6,
               "name": "Wrap it up",
               "urlName": "summary",
               "previousText": "Journal or Post it",
@@ -2520,6 +2531,37 @@
               "urlName": "summary",
               "previousText": "Journal or Post it",
               "previousUrl": "/course/credit-and-debt/the-credit-trap/journal-or-post-it",
+              "nextText": "What did you learn?",
+              "nextUrl": "/course/credit-and-debt/conclusion/what-do-you-know",
+              "isLastLesson": true,
+              "isLastSession": false
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 6,
+          "preventNumbering": true,
+          "name": "Conclusion",
+          "urlName": "conclusion",
+          "pages": [
+            {
+              "id": 1,
+              "name": "What did you learn?",
+              "urlName": "what-do-you-know",
+              "previousText": "Wrap it up",
+              "previousUrl": "/course/credit-and-debt/the-credit-trap/summary",
+              "nextText": "What do you think?",
+              "nextUrl": "/course/credit-and-debt/conclusion/what-do-you-think",
+              "isLastLesson": false,
+              "isLastSession": false
+            },
+            {
+              "id": 2,
+              "name": "What do you think?",
+              "urlName": "what-do-you-think",
+              "previousText": "What did you learn?",
+              "previousUrl": "/course/credit-and-debt/conclusion/what-do-you-know",
               "nextText": "",
               "nextUrl": "",
               "isLastLesson": false,

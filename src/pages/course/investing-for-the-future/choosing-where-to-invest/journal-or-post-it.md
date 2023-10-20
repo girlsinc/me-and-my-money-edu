@@ -5,9 +5,9 @@ nextText: "Wrap it up"
 nextUrl: "/course/investing-for-the-future/choosing-where-to-invest/summary"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "5"
+sessionId: "6"
+pageId: "5"
 ---
 
 

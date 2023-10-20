@@ -6,7 +6,7 @@ nextUrl: "/course/credit-and-debt/good-debt-versus-bad-debt/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
+sessionId: "4"
 pageId: "2"
 ---
 

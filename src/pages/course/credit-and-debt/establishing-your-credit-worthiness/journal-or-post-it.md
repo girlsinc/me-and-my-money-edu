@@ -6,8 +6,8 @@ nextUrl: "/course/credit-and-debt/establishing-your-credit-worthiness/summary"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+sessionId: "5"
+pageId: "5"
 ---
 
 

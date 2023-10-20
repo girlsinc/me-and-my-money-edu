@@ -5,9 +5,9 @@ nextText: "Journal or Post it"
 nextUrl: "/course/investing-for-the-future/mutual-funds/journal-or-post-it"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "5"
+sessionId: "8"
+pageId: "4"
 ---
 
 

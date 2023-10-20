@@ -5,8 +5,8 @@ nextText: "Take Action"
 nextUrl: "/course/saving-spending-making-money/making-money/activities"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "3"
+sessionId: "5"
 pageId: "2"
 ---
 

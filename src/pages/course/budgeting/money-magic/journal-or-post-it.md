@@ -5,9 +5,9 @@ nextText: "Wrap it up"
 nextUrl: "/course/budgeting/money-magic/summary"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "4"
+sessionId: "5"
+pageId: "4"
 ---
 
 

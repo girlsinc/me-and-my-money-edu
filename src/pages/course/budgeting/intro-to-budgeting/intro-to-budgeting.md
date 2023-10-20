@@ -5,8 +5,8 @@ nextText: "Speak Up"
 nextUrl: "/course/budgeting/intro-to-budgeting/discussion"
 lastLession: "false"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
+courseModuleId: "4"
+sessionId: "3"
 pageId: "2"
 ---
 

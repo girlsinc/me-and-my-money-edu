@@ -5,9 +5,9 @@ nextText: "What did you learn?"
 nextUrl: "/course/saving-spending-making-money/conclusion/what-do-you-know"
 lastLession: "true"
 lastSession: "false"
-courseModuleId: "6"
-sessionId: "7"
-pageId: "2"
+courseModuleId: "3"
+sessionId: "5"
+pageId: "6"
 ---
 
 
