@@ -20,10 +20,10 @@ Too many people spend money they have an earned to buy things they don’t want 
 ## In today's lesson we will learn:
 
 1. A credit trap is created when banks and credit card companies make seemingly very attractive offers with major hidden costs.
-2. to look carefully at the terms of your credit card payments, and avoid spending more than you earn and borrowing against your credit to facilitate that spending.
+2. To look carefully at the terms of your credit card payments, and avoid spending more than you earn and borrowing against your credit to facilitate that spending.
 3. Having inadequate savings to handle unforeseen costs can also result in a credit/debt trap.
 4. Common examples of credit traps
-5. how to avoid a credit trap
+5. How to avoid a credit trap
 
 ## Warm up:
-- Discuss whether you have ever been in a credit trap, I eat a situation where you didn’t realize you were paying very high interest and penalties?
+- Were you ever in a situation where you didn’t realize you were paying very high interest and penalties?

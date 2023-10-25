@@ -19,10 +19,10 @@ Compound interest is the eighth wonder of the world. He who understands it, earn
 
 ## In today's lesson we will learn:
 
-1. interest is the price you pay for boring money, or the cost of borrowing money; and understanding it is critical to manage debt, and save money.
-2. interest can build or hurt your finances
-3. interest rates can be fixed or variable; fix rates, stay the same over the life of the loan, well variable rates will fluctuate based on market conditions.
-4. the relationship between interest rates and inflation
+1. Interest is the price you pay for boring money, or the cost of borrowing money; and understanding it is critical to manage debt, and save money.
+2. Interest can build or hurt your finances
+3. Interest rates can be fixed or variable; fix rates, stay the same over the life of the loan, well variable rates will fluctuate based on market conditions.
+4. The relationship between interest rates and inflation
 
 # Warm Up
 

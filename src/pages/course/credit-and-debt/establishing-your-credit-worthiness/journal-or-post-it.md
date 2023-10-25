@@ -17,3 +17,5 @@ pageId: "5"
 
 
 ![Journal or Post it](/assets/img/credit-worthiness-journal.png)
+## Which score would you like to achieve and how will you do it? 
+<sparkle-feed-post assignment-name="Which score would you like to achieve and how will you do it? " ></sparkle-feed-post>

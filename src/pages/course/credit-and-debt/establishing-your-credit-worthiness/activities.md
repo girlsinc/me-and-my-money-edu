@@ -22,7 +22,7 @@ If a person doesn't pay their bills on time, use a calculator to see the exact p
 
 ## Name the benefits of a good credit score: 
 
-1. lower interest rates when you apply for a loan; lower rates are reserve for applicants with the highest credit scores.
+1. Lower interest rates when you apply for a loan; lower rates are reserve for applicants with the highest credit scores.
 2. Better chances of qualifying for a loan or credit
 3. Higher loan, credit card limits.
 4. Approval for certain jobs that require you work with money and ask for a personal credit check.

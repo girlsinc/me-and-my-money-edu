@@ -23,3 +23,6 @@ In today's lesson, we'll explore effective ways to research loans by reviewing b
 - To understand what's most important to include, based on your needs, ie weekly, monthly, yearly
 - To understand that the purpose of a budget is to give you guidelines to follow so you can achieve other savings goals, without overdrawing your account.
 - To learn different ways to keep track of your spending, ie an app, the "envelope method"
+
+## Warm up:
+- Think of a debt that you owe, and whether or not you researched it first. Why or why not?

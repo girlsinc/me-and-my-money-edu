@@ -14,9 +14,10 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-“Interest rates, exert, a huge gravitational pull on asset value” -Warren Buffett.
+“Interest rates, exert a huge gravitational pull on asset value” -Warren Buffett.
 </sparkle-character-intro>
 
 ## In today's lesson we learned:
 
-- Changes in interest rates can have significant impact on debt, credit, and the value of any assets you may have. The federal reserve has been raising interest rates as it races to temper inflation.
+- Changes in interest rates can have significant impact on debt, credit, and the value of any assets you may have. 
+- The federal reserve has been raising interest rates as it races to temper inflation.
