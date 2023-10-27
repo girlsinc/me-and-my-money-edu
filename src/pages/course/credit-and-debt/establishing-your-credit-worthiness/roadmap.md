@@ -13,7 +13,7 @@ pageId: "1"
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
-Poor people daily, seek to increase their credit, score, while wealthy people daily seek to increase their net worth. - Robert N. Wilson.</sparkle-character-intro>
+Poor people daily seek to increase their credit score, while wealthy people daily seek to increase their net worth. - Robert N. Wilson.</sparkle-character-intro>
 
 # ROADMAP FOR ESTABLISHING YOUR CREDIT WORTHINESS
 
