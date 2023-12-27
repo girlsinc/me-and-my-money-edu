@@ -1,12 +1,12 @@
 ---
-previousText: "What do you think?"
-previousUrl: "/course/saving-spending-making-money/introduction/what-do-you-think"
+previousText: "Wrap it up"
+previousUrl: "/course/saving-spending-making-money/the-rule-of-72/summary"
 nextText: "Save Early and Often"
 nextUrl: "/course/saving-spending-making-money/the-importance-of-saving/save-early-and-often"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "3"
-sessionId: "2"
+sessionId: "5"
 pageId: "1"
 ---
 

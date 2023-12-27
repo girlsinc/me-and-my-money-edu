@@ -10,6 +10,7 @@ sessionId: "7"
 pageId: "2"
 ---
 
+
 # WHAT DO YOU THINK?
 
 ## Answer the questions below to explore your views on money

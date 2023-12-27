@@ -210,12 +210,12 @@
     {
       "id": 3,
       "number": 2,
-      "name": "Saving It, Spending It, Making It",
+      "name": "Money in the Bank",
       "urlName": "saving-spending-making-money",
       "comingSoon": false,
       "sessions": [
         {
-          "id": 0,
+          "id": 1,
           "number": 0,
           "preventNumbering": true,
           "name": "Introduction",
@@ -240,10 +240,10 @@
           ]
         },
         {
-          "id": 1,
-          "number": 0,
-          "name": "The Importance of Saving",
-          "urlName": "the-importance-of-saving",
+          "id": 2,
+          "number": 1,
+          "name": "Banking and Bank Accounts",
+          "urlName": "banking-and-bank-accounts",
           "pages": [
             {
               "id": 1,
@@ -252,8 +252,8 @@
             },
             {
               "id": 2,
-              "name": "Save Early and Often",
-              "urlName": "save-early-and-often"
+              "name": "Banking and Bank Accounts",
+              "urlName": "banking-and-bank-accounts"
             },
             {
               "id": 3,
@@ -278,47 +278,9 @@
           ]
         },
         {
-          "id": 2,
-          "number": 1,
-          "name": "Money Habits Matter",
-          "urlName": "money-habits-matter",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap"
-            },
-            {
-              "id": 2,
-              "name": "Your spending habits can get you in trouble",
-              "urlName": "spending-habits"
-            },
-            {
-              "id": 3,
-              "name": "Take Action",
-              "urlName": "activities"
-            },
-            {
-              "id": 4,
-              "name": "Speak Up",
-              "urlName": "discussion"
-            },
-            {
-              "id": 5,
-              "name": "Journal or Post it",
-              "urlName": "journal-or-post-it"
-            },
-            {
-              "id": 6,
-              "name": "Wrap it up",
-              "urlName": "summary"
-            }
-          ]
-        },
-        {
           "id": 3,
           "number": 2,
-          "name": "Interest Rates",
+          "name": "Importance of Interest",
           "urlName": "interest-rates",
           "pages": [
             {
@@ -360,9 +322,9 @@
         },
         {
           "id": 4,
-          "number": 2,
-          "name": "Making Money",
-          "urlName": "making-money",
+          "number":3,
+          "name": "The Rule of 72",
+          "urlName": "the-rule-of-72",
           "pages": [
             {
               "id": 1,
@@ -371,8 +333,84 @@
             },
             {
               "id": 2,
-              "name": "Making Money by Solving Problems",
-              "urlName": "making-money-by-solving-problems"
+              "name": "The Rule of 72",
+              "urlName": "the-rule-of-72"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },        
+        {
+          "id": 5,
+          "number": 4,
+          "name": "The Importance of Saving",
+          "urlName": "the-importance-of-saving",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Save Early and Often",
+              "urlName": "save-early-and-often"
+            },
+            {
+              "id": 3,
+              "name": "Activities",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Take Action",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 5,
+          "name": "Balancing Your Checking Account",
+          "urlName": "learning-to-balance-your-checking-account",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Learning to Balance Your Checking Account",
+              "urlName": "learning-to-balance-your-checking-account"
             },
             {
               "id": 3,
@@ -397,7 +435,79 @@
           ]
         },
         {
-          "id": 5,
+          "id": 7,
+          "number": 6,
+          "name": "Selecting a Financial Institution",
+          "urlName": "selecting-a-financial-institution",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Selecting a Financial Institution",
+              "urlName": "selecting-a-financial-institution"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+
+        {
+          "id": 8,
+          "number": 7,
+          "name": "Discrimination in Banking",
+          "urlName": "descrimination-in-banking",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 3,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 4,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 9,
           "number": 0,
           "preventNumbering": true,
           "name": "Conclusion",

@@ -2,7 +2,7 @@
 previousText: "What do you know?"
 previousUrl: "/course/saving-spending-making-money/introduction/what-do-you-know"
 nextText: "Lesson Roadmap"
-nextUrl: "/course/saving-spending-making-money/the-importance-of-saving/roadmap"
+nextUrl: "/course/saving-spending-making-money/banking-and-bank-accounts/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "3"

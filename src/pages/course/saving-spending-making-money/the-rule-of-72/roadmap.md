@@ -1,17 +1,17 @@
 ---
 previousText: "Wrap it up"
-previousUrl: "/course/saving-spending-making-money/banking-and-bank-accounts/summary"
-nextText: "How Much Does This Money Cost?"
-nextUrl: "/course/saving-spending-making-money/interest-rates/cost-of-money"
+previousUrl: "/course/saving-spending-making-money/interest-rates/summary"
+nextText: "The Rule of 72"
+nextUrl: "/course/saving-spending-making-money/the-rule-of-72/the-rule-of-72"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "3"
-sessionId: "3"
+sessionId: "4"
 pageId: "1"
 ---
 
 
-# ROADMAP FOR IMPORTANCE OF INTEREST
+# ROADMAP FOR THE RULE OF 72
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="jen">
@@ -20,10 +20,7 @@ pageId: "1"
 
 ## In today's lesson we will learn:
 
-1. The definition of interest, examples of where we earn interest, and where we pay interest.
-2. The definition of simple interest
-3. The definition of compound interest
-
+1. To use the rule of 72 to determine how long it will take the amount in your savings account to double.
 
 ## Warm Up
-- What comes to mind when you hear the term interest?
+- Based on what you learned, why is it important to know the interest rate when opening a savings account?

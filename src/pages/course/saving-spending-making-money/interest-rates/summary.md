@@ -2,11 +2,11 @@
 previousText: "Journal or Post it"
 previousUrl: "/course/saving-spending-making-money/interest-rates/journal-or-post-it"
 nextText: "Lesson Roadmap"
-nextUrl: "/course/saving-spending-making-money/making-money/roadmap"
+nextUrl: "/course/saving-spending-making-money/the-rule-of-72/roadmap"
 lastLession: "true"
 lastSession: "false"
 courseModuleId: "3"
-sessionId: "4"
+sessionId: "3"
 pageId: "7"
 ---
 
@@ -19,9 +19,9 @@ If you don't take good care of your credit, then your credit won't take good car
 </sparkle-character-intro>
 
 ## In today's lesson we learned:
-1. Banks make money in two ways: commercial banking, and investment banking. They earn fees for customer services, in both investment and commercial banking, such as fees for checking accounts, savings accounts, financial counseling, loan servicing and the sales of other financial products (e.g., insurance and mutual funds).
-2. Credit card companies also make money by collecting fees. On fees, interest charges are the primary source of revenue. When credit card users fail to pay off their bill at the end of the month, the bank is allowed to charge interest on the borrowed amount.
-3. Banks set interest rates corresponding to the rates set by the Federal Reserve. Other factors involved: banks also consider the interest rates charged by competitors, borrower's creditworthiness, which includes their credit score, income, savings, and other financial metrics.
-4. The benefits of credit cards far outweigh the disadvantages. The benefits include building, credit, convenience, and rewards. The downside is how easy it is to overspend and wind up paying very high interest rates and quickly getting into spiraling debt
+1. Interest is the monetary charge for the privilege of borrowing money; typically expressed as an annual percentage rate (APR).
+2. Two main types of interest can be applied to loans, simple and compound. Simple interest is a set rate on the principal originally loaned to the borrower, that the borrower has to pay for the privilege of using the money.
+3. Compound interest is interest on both the principal and the accumulated interest paid on the loan.
+
 
 <a href="https://docs.google.com/presentation/d/10A9EB9snTR3xqcJvPxzfHLlW01NDQM6yN04bOMZ4BFE/edit#slide=id.g123d434f4d3_0_16" target="_blank">Summative Review</a>

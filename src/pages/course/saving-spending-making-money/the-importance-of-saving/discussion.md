@@ -6,7 +6,7 @@ nextUrl: "/course/saving-spending-making-money/the-importance-of-saving/journal-
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "3"
-sessionId: "2"
+sessionId: "5"
 pageId: "4"
 ---
 
@@ -16,4 +16,4 @@ pageId: "4"
 
 ## Describe your most important future goal, and how much you want to save to achieve it. Also, indicate how long it will take you and how much you will have to save annually.
 
-<sparkle-feed-post assignment-name="Who did you admire for their financial accomplishments, and why?" ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Describe your most important future goal" ></sparkle-feed-post>

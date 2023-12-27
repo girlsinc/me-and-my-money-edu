@@ -1,12 +1,12 @@
 ---
 previousText: "Wrap it up"
-previousUrl: "/course/saving-spending-making-money/making-money/summary"
+previousUrl: "/course/saving-spending-making-money/descrimination-in-banking/summary"
 nextText: "What do you think?"
 nextUrl: "/course/saving-spending-making-money/conclusion/what-do-you-think"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "3"
-sessionId: "6"
+sessionId: "9"
 pageId: "1"
 ---
 
