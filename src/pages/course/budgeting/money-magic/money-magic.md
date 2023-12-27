@@ -18,3 +18,4 @@ pageId: "2"
 
 ## <a href="https://www.playmoneymagic.com" target="_blank">Complete the Money Magic game here</a> 
 
+<sparkle-youtube src="https://www.youtube.com/embed/cyIkpCsfJBE"></sparkle-youtube>

@@ -23,3 +23,5 @@ If you don't take good care of your credit, then your credit won't take good car
 2. Credit card companies also make money by collecting fees. On fees, interest charges are the primary source of revenue. When credit card users fail to pay off their bill at the end of the month, the bank is allowed to charge interest on the borrowed amount.
 3. Banks set interest rates corresponding to the rates set by the Federal Reserve. Other factors involved: banks also consider the interest rates charged by competitors, borrower's creditworthiness, which includes their credit score, income, savings, and other financial metrics.
 4. The benefits of credit cards far outweigh the disadvantages. The benefits include building, credit, convenience, and rewards. The downside is how easy it is to overspend and wind up paying very high interest rates and quickly getting into spiraling debt
+
+<a href="https://docs.google.com/presentation/d/10A9EB9snTR3xqcJvPxzfHLlW01NDQM6yN04bOMZ4BFE/edit#slide=id.g123d434f4d3_0_16" target="_blank">Summative Review</a>

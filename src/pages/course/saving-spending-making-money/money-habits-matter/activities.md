@@ -17,4 +17,5 @@ pageId: "3"
 1.	Create a prioritized list of your wants vs needs. 
 2.	Describe your plan for saving for college
 3.	Conduct online research into different kinds of savings accounts
+4.  Use <a href="https://docs.google.com/document/d/1vGhc8plcL-nSAOKGNIoXIqSvzoTTPSDkIxuZIujARrA/edit" target="_blank">this tracker</a> to record your spending for the week. 
 

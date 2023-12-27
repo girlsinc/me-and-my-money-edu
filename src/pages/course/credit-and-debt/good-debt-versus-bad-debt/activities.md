@@ -15,6 +15,8 @@ pageId: "3"
 
 ![Take Action](/assets/img/take-action.jpg)
 
+- <a href="https://edpuzzle.com/media/5c8fdbdce9ec1f40a9ff2568" target="_blank">Credit Card Debt Explained</a>
+
 ## 1. Good debt can help you achieve goals, while bad debt is expensive and can derail them.
 
 For each category, let's distinguish between good debt and bad debt:

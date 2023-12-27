@@ -15,6 +15,8 @@ pageId: "3"
 
 ![SPEAK UP!](/assets/img/lets-talk-about-it.png) 
 
+- <a href="https://docs.google.com/document/d/1-NPpC4LKg8qjFJodzY8I2gc83A64nb4m3xq5KRYJDPI/edit" target="_blank">Money Magic Reflection Document</a>
+
 ## What are some of the advantages of creating a Zero-Based Budget? What disadvantages did you encounter with this style of budgeting?
 <sparkle-feed-post assignment-name="What are some of the advantages of creating a Zero-Based Budget?" ></sparkle-feed-post>
 

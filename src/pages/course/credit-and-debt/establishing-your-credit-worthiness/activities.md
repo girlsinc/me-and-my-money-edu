@@ -15,6 +15,9 @@ pageId: "3"
 
 ![Take Action](/assets/img/take-action.jpg)
 
+- <a href="https://www.myfico.com/fico-credit-score-estimator/estimator" target="_blank">FICO Score Estimator</a>
+- <a href="https://docs.google.com/document/d/1hkzZrcdoKIeubycSwxR-U965Q3GFjMHf8MnMRdAoI7A/edit" target="_blank">Follow the details on this sheet</a>
+
 ## What is most important in establishing good credit?
 Paying your bills on time.
 
