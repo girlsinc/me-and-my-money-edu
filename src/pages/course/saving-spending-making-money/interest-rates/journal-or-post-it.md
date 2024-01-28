@@ -6,17 +6,14 @@ nextUrl: "/course/saving-spending-making-money/interest-rates/summary"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "3"
-sessionId: "4"
+sessionId: "3"
 pageId: "6"
 ---
 
 
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL OR POST IT
-## The average credit card debt is  $5,834 
 
-## What is the secret to avoiding credit card debt?
-<sparkle-feed-post assignment-name="What is the secret to avoiding credit card debt?" ></sparkle-feed-post>
+## What is more important in the interest rate I will pay for a loan, the prime rate or my credit worthiness?
+<sparkle-feed-post assignment-name="What is more important in the interest rate I will pay for a loan" ></sparkle-feed-post>
 
-## What is the next best action, if that is not possible?
-<sparkle-feed-post assignment-name="What is the next best action, if that is not possible?" ></sparkle-feed-post>

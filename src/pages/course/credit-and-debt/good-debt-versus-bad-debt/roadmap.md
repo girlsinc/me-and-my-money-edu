@@ -19,6 +19,10 @@ It’s foolish to buy something that’s over priced; more foolish, if it’s un
 
 ## In today's lesson we will learn:
 
-1. not all debt is bad.
-2. the common causes of debt
-3. that predatory lending refers to any unfair practices to benefits the lender, and makes it difficult for the borrower to repay the debt.
+1. Not all debt is bad.
+2. The common causes of debt
+3. That predatory lending makes it difficult for the borrower to repay the debt.
+
+
+## Warm up:
+- Think of someone you know that is in serious debt. See if you know why they got into debt. 

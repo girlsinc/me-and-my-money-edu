@@ -19,4 +19,5 @@ pageId: "6"
 
 ## In today's lesson we learned:
 
-- Building and maintaining a strong credit profile is crucial, because your credit score plays a key role in most lending decisions. If you haven’t have a low credit score, take time to improve it, to prepare for any future loan or rental applications.
+- Building and maintaining a strong credit profile is crucial, because your credit score plays a key role in most lending decisions. 
+- If you have a low credit score, make a plan to improve it. This will prepare you for future loan or rental applications.

@@ -18,35 +18,17 @@
             {
               "id": 1,
               "name": "Meet the Giga Girls",
-              "urlName": "meet-the-giga-girls",
-              "previousText": "",
-              "previousUrl": "",
-              "nextText": "Roadmap to Her Future",
-              "nextUrl": "/course/introduction/welcome/roadmap",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "meet-the-giga-girls"
             },
             {
               "id": 2,
               "name": "Roadmap to Her Future",
-              "urlName": "roadmap",
-              "previousText": "Meet the Giga Girls",
-              "previousUrl": "/course/introduction/welcome/meet-the-giga-girls",
-              "nextText": "Getting to know you",
-              "nextUrl": "/course/introduction/welcome/getting-to-know-you-activity-one",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 3,
               "name": "Getting to know you",
-              "urlName": "getting-to-know-you-activity-one",
-              "previousText": "Roadmap to Her Future",
-              "previousUrl": "/course/introduction/welcome/roadmap",
-              "nextText": "Module Roadmap",
-              "nextUrl": "/course/money-messages/introduction/roadmap",
-              "isLastLesson": false,
-              "isLastSession": true
+              "urlName": "getting-to-know-you-activity-one"
             }
           ]
         }
@@ -59,7 +41,7 @@
       "urlName": "money-messages",
       "sessions": [
         {
-          "id": 1,
+          "id": 0,
           "number": 0,
           "preventNumbering": true,
           "name": "Introduction",
@@ -68,274 +50,142 @@
             {
               "id": 1,
               "name": "Module Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Getting to know you",
-              "previousUrl": "/course/introduction/welcome/getting-to-know-you-activity-one",
-              "nextText": "What do you know?",
-              "nextUrl": "/course/money-messages/introduction/what-do-you-know",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "What do you know?",
-              "urlName": "what-do-you-know",
-              "previousText": "Module Roadmap",
-              "previousUrl": "/course/money-messages/introduction/roadmap",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/money-messages/introduction/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 3,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What do you know?",
-              "previousUrl": "/course/money-messages/introduction/what-do-you-know",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/money-messages/whats-your-money-story/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "what-do-you-think"
             }
           ]
         },
         {
-          "id": 2,
-          "number": 1,
+          "id": 1,
+          "number": 0,
           "name": "What's Your Money Story",
           "urlName": "whats-your-money-story",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/money-messages/introduction/what-do-you-think",
-              "nextText": "Your Money Story",
-              "nextUrl": "/course/money-messages/whats-your-money-story/your-money-story",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Your Money Story",
-              "urlName": "your-money-story",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/money-messages/whats-your-money-story/roadmap",
-              "nextText": "Money in the Media",
-              "nextUrl": "/course/money-messages/whats-your-money-story/money-in-the-media",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "your-money-story"
             },
             {
               "id": 3,
               "name": "Money in the Media",
-              "urlName": "money-in-the-media",
-              "previousText": "Your Money Story",
-              "previousUrl": "/course/money-messages/whats-your-money-story/your-money-story",
-              "nextText": "Take Action",
-              "nextUrl": "/course/money-messages/whats-your-money-story/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "money-in-the-media"
             },
             {
               "id": 4,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Money in the Media",
-              "previousUrl": "/course/money-messages/whats-your-money-story/money-in-the-media",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/money-messages/whats-your-money-story/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 5,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/money-messages/whats-your-money-story/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/money-messages/whats-your-money-story/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 6,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/money-messages/whats-your-money-story/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/money-messages/whats-your-money-story/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 7,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/money-messages/whats-your-money-story/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/money-messages/imagining-your-future/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 3,
-          "number": 2,
+          "id": 2,
+          "number": 1,
           "name": "Imagining Your Future",
           "urlName": "imagining-your-future",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/money-messages/whats-your-money-story/summary",
-              "nextText": "The Future You",
-              "nextUrl": "/course/money-messages/imagining-your-future/the-future-you",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "The Future You",
-              "urlName": "the-future-you",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/money-messages/imagining-your-future/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/money-messages/imagining-your-future/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "the-future-you"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "The Future You",
-              "previousUrl": "/course/money-messages/imagining-your-future/the-future-you",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/money-messages/imagining-your-future/take-action",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "take-action",
-              "previousText": "Take Action",
-              "previousUrl": "/course/money-messages/imagining-your-future/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/money-messages/imagining-your-future/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "take-action"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/money-messages/imagining-your-future/take-action",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/money-messages/imagining-your-future/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/money-messages/imagining-your-future/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/money-messages/your-relationship-to-money/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 4,
-          "number": 3,
+          "id": 3,
+          "number": 2,
           "name": "Your Relationship to Money",
           "urlName": "your-relationship-to-money",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/money-messages/imagining-your-future/summary",
-              "nextText": "Making money my friend",
-              "nextUrl": "/course/money-messages/your-relationship-to-money/making-money-my-friend",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Making money my friend",
-              "urlName": "making-money-my-friend",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/money-messages/your-relationship-to-money/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/money-messages/your-relationship-to-money/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "making-money-my-friend"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Making money my friend",
-              "previousUrl": "/course/money-messages/your-relationship-to-money/making-money-my-friend",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/money-messages/your-relationship-to-money/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/money-messages/your-relationship-to-money/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/money-messages/your-relationship-to-money/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/money-messages/your-relationship-to-money/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/money-messages/your-relationship-to-money/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/money-messages/your-relationship-to-money/journal-or-post-it",
-              "nextText": "What did you learn?",
-              "nextUrl": "/course/money-messages/conclusion/what-do-you-know",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 5,
-          "number": 4,
+          "id": 4,
+          "number": 0,
           "preventNumbering": true,
           "name": "Conclusion",
           "urlName": "conclusion",
@@ -343,24 +193,12 @@
             {
               "id": 1,
               "name": "What did you learn?",
-              "urlName": "what-do-you-know",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/money-messages/your-relationship-to-money/summary",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/money-messages/conclusion/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 2,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What did you learn?",
-              "previousUrl": "/course/money-messages/conclusion/what-do-you-know",
-              "nextText": "Module Roadmap",
-              "nextUrl": "/course/saving-spending-making-money/introduction/roadmap",
-              "isLastLesson": false,
-              "isLastSession": true
+              "urlName": "what-do-you-think"
             }
           ]
         }
@@ -369,7 +207,7 @@
     {
       "id": 3,
       "number": 2,
-      "name": "Saving It, Spending It, Making It",
+      "name": "Money in the Bank",
       "urlName": "saving-spending-making-money",
       "comingSoon": false,
       "sessions": [
@@ -383,348 +221,289 @@
             {
               "id": 1,
               "name": "Module Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/money-messages/conclusion/what-do-you-think",
-              "nextText": "What do you know?",
-              "nextUrl": "/course/saving-spending-making-money/introduction/what-do-you-know",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "What do you know?",
-              "urlName": "what-do-you-know",
-              "previousText": "Module Roadmap",
-              "previousUrl": "/course/saving-spending-making-money/introduction/roadmap",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/saving-spending-making-money/introduction/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 3,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What do you know?",
-              "previousUrl": "/course/saving-spending-making-money/introduction/what-do-you-know",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "what-do-you-think"
             }
           ]
         },
         {
           "id": 2,
           "number": 1,
-          "name": "The Importance of Saving",
-          "urlName": "the-importance-of-saving",
+          "name": "Banking and Bank Accounts",
+          "urlName": "banking-and-bank-accounts",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/saving-spending-making-money/introduction/what-do-you-think",
-              "nextText": "Save Early and Often",
-              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/save-early-and-often",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
-              "name": "Save Early and Often",
-              "urlName": "save-early-and-often",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/roadmap",
-              "nextText": "Activities",
-              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Banking and Bank Accounts",
+              "urlName": "banking-and-bank-accounts"
             },
             {
               "id": 3,
               "name": "Activities",
-              "urlName": "activities",
-              "previousText": "Save Early and Often",
-              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/save-early-and-often",
-              "nextText": "Take Action",
-              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Take Action",
-              "urlName": "discussion",
-              "previousText": "Activities",
-              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Take Action",
-              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/saving-spending-making-money/the-importance-of-saving/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 3,
           "number": 2,
-          "name": "Money Habits Matter",
-          "urlName": "money-habits-matter",
+          "name": "Importance of Interest",
+          "urlName": "interest-rates",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/saving-spending-making-money/the-importance-of-saving/summary",
-              "nextText": "Your spending habits can get you in trouble",
-              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/spending-habits",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
-              "name": "Your spending habits can get you in trouble",
-              "urlName": "spending-habits",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "How Much Does This Money Cost?",
+              "urlName": "cost-of-money"
             },
             {
               "id": 3,
-              "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Your spending habits can get you in trouble",
-              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/spending-habits",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Key Learnings",
+              "urlName": "key-learnings"
             },
             {
               "id": 4,
-              "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Take Action",
+              "urlName": "activities"
             },
             {
               "id": 5,
-              "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/saving-spending-making-money/money-habits-matter/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Speak Up",
+              "urlName": "discussion"
             },
             {
               "id": 6,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 7,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/saving-spending-making-money/interest-rates/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 4,
           "number": 3,
-          "name": "Interest Rates",
-          "urlName": "interest-rates",
+          "name": "The Rule of 72",
+          "urlName": "the-rule-of-72",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/saving-spending-making-money/money-habits-matter/summary",
-              "nextText": "How Much Does This Money Cost?",
-              "nextUrl": "/course/saving-spending-making-money/interest-rates/cost-of-money",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
-              "name": "How Much Does This Money Cost?",
-              "urlName": "cost-of-money",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/saving-spending-making-money/interest-rates/roadmap",
-              "nextText": "Key Learnings",
-              "nextUrl": "/course/saving-spending-making-money/interest-rates/key-learnings",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "The Rule of 72",
+              "urlName": "the-rule-of-72"
             },
             {
               "id": 3,
-              "name": "Key Learnings",
-              "urlName": "key-learnings",
-              "previousText": "How Much Does This Money Cost?",
-              "previousUrl": "/course/saving-spending-making-money/interest-rates/cost-of-money",
-              "nextText": "Take Action",
-              "nextUrl": "/course/saving-spending-making-money/interest-rates/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Take Action",
+              "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Key Learnings",
-              "previousUrl": "/course/saving-spending-making-money/interest-rates/key-learnings",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/saving-spending-making-money/interest-rates/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Speak Up",
+              "urlName": "discussion"
             },
             {
               "id": 5,
-              "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/saving-spending-making-money/interest-rates/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/saving-spending-making-money/interest-rates/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
-              "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/saving-spending-making-money/interest-rates/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/saving-spending-making-money/interest-rates/summary",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 7,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/saving-spending-making-money/interest-rates/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/saving-spending-making-money/making-money/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 5,
           "number": 4,
-          "name": "Making Money",
-          "urlName": "making-money",
+          "name": "The Importance of Saving",
+          "urlName": "the-importance-of-saving",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/saving-spending-making-money/interest-rates/summary",
-              "nextText": "Making Money by Solving Problems",
-              "nextUrl": "/course/saving-spending-making-money/making-money/making-money-by-solving-problems",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
-              "name": "Making Money by Solving Problems",
-              "urlName": "making-money-by-solving-problems",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/saving-spending-making-money/making-money/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/saving-spending-making-money/making-money/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Save Early and Often",
+              "urlName": "save-early-and-often"
             },
             {
               "id": 3,
-              "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Making Money by Solving Problems",
-              "previousUrl": "/course/saving-spending-making-money/making-money/making-money-by-solving-problems",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/saving-spending-making-money/making-money/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Activities",
+              "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/saving-spending-making-money/making-money/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/saving-spending-making-money/making-money/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Take Action",
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/saving-spending-making-money/making-money/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/saving-spending-making-money/making-money/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/saving-spending-making-money/making-money/journal-or-post-it",
-              "nextText": "What did you learn?",
-              "nextUrl": "/course/saving-spending-making-money/conclusion/what-do-you-know",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 6,
           "number": 5,
+          "name": "Balancing Your Checking Account",
+          "urlName": "learning-to-balance-your-checking-account",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Learning to Balance Your Checking Account",
+              "urlName": "learning-to-balance-your-checking-account"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 6,
+          "name": "Selecting a Financial Institution",
+          "urlName": "selecting-a-financial-institution",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Selecting a Financial Institution",
+              "urlName": "selecting-a-financial-institution"
+            },
+            {
+              "id": 3,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 4,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 7,
+          "name": "Discrimination in Banking",
+          "urlName": "descrimination-in-banking",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 3,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 4,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 0,
           "preventNumbering": true,
           "name": "Conclusion",
           "urlName": "conclusion",
@@ -732,24 +511,12 @@
             {
               "id": 1,
               "name": "What did you learn?",
-              "urlName": "what-do-you-know",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/saving-spending-making-money/making-money/summary",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/saving-spending-making-money/conclusion/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 2,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What did you learn?",
-              "previousUrl": "/course/saving-spending-making-money/conclusion/what-do-you-know",
-              "nextText": "Module Roadmap",
-              "nextUrl": "/course/budgeting/introduction/roadmap",
-              "isLastLesson": false,
-              "isLastSession": true
+              "urlName": "what-do-you-think"
             }
           ]
         }
@@ -762,7 +529,7 @@
       "urlName": "budgeting",
       "sessions": [
         {
-          "id": 1,
+          "id": 0,
           "number": 0,
           "preventNumbering": true,
           "name": "Introduction",
@@ -771,172 +538,88 @@
             {
               "id": 1,
               "name": "Module Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/saving-spending-making-money/conclusion/what-do-you-think",
-              "nextText": "What do you know?",
-              "nextUrl": "/course/budgeting/introduction/what-do-you-know",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "What do you know?",
-              "urlName": "what-do-you-know",
-              "previousText": "Module Roadmap",
-              "previousUrl": "/course/budgeting/introduction/roadmap",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/budgeting/introduction/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 3,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What do you know?",
-              "previousUrl": "/course/budgeting/introduction/what-do-you-know",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/budgeting/setting-financial-goals/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "what-do-you-think"
             }
           ]
         },
         {
-          "id": 2,
-          "number": 1,
+          "id": 1,
+          "number": 0,
           "name": "Setting Financial Goals",
           "urlName": "setting-financial-goals",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/budgeting/introduction/what-do-you-think",
-              "nextText": "Budgeting",
-              "nextUrl": "/course/budgeting/setting-financial-goals/budgeting-intro",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Budgeting",
-              "urlName": "budgeting-intro",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/setting-financial-goals/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/budgeting/setting-financial-goals/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "budgeting-intro"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Budgeting",
-              "previousUrl": "/course/budgeting/setting-financial-goals/budgeting-intro",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/setting-financial-goals/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/budgeting/setting-financial-goals/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/budgeting/setting-financial-goals/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/setting-financial-goals/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/budgeting/setting-financial-goals/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/budgeting/setting-financial-goals/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/budgeting/intro-to-budgeting/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 3,
-          "number": 2,
+          "id": 2,
+          "number": 1,
           "name": "Intro to Budgeting",
           "urlName": "intro-to-budgeting",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/budgeting/setting-financial-goals/summary",
-              "nextText": "Take Action",
-              "nextUrl": "/course/budgeting/intro-to-budgeting/intro-to-budgeting",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Take Action",
-              "urlName": "intro-to-budgeting",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/intro-to-budgeting/roadmap",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/intro-to-budgeting/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "intro-to-budgeting"
             },
             {
               "id": 3,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/budgeting/intro-to-budgeting/intro-to-budgeting",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/budgeting/intro-to-budgeting/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 4,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/intro-to-budgeting/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/budgeting/intro-to-budgeting/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 5,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/budgeting/intro-to-budgeting/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/budgeting/different-budget-systems/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -949,400 +632,208 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/budgeting/intro-to-budgeting/summary",
-              "nextText": "Additional Reading",
-              "nextUrl": "/course/budgeting/different-budget-systems/additional-reading",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Additional Reading",
-              "urlName": "additional-reading",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/different-budget-systems/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/budgeting/different-budget-systems/different-budget-systems",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "additional-reading"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "different-budget-systems",
-              "previousText": "Additional Reading",
-              "previousUrl": "/course/budgeting/different-budget-systems/additional-reading",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/different-budget-systems/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "different-budget-systems"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/budgeting/different-budget-systems/different-budget-systems",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/budgeting/different-budget-systems/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/different-budget-systems/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/budgeting/different-budget-systems/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/budgeting/different-budget-systems/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/budgeting/money-magic/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "number": 4,
-          "name": "Money Magic",
-          "urlName": "money-magic",
-          "pages": [
-            {
-              "id": 1,
-              "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/budgeting/different-budget-systems/summary",
-              "nextText": "Take Action",
-              "nextUrl": "/course/budgeting/money-magic/money-magic",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 2,
-              "name": "Take Action",
-              "urlName": "money-magic",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/money-magic/roadmap",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/money-magic/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 3,
-              "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/budgeting/money-magic/money-magic",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/budgeting/money-magic/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 4,
-              "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/money-magic/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/budgeting/money-magic/summary",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 5,
-              "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/budgeting/money-magic/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/budgeting/build-your-budget/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 6,
           "number": 5,
-          "name": "Build Your Budget",
-          "urlName": "build-your-budget",
+          "name": "Money Magic",
+          "urlName": "money-magic",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/budgeting/money-magic/summary",
-              "nextText": "Build Your Budget",
-              "nextUrl": "/course/budgeting/build-your-budget/build-your-budget",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
-              "name": "Build Your Budget",
-              "urlName": "build-your-budget",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/build-your-budget/roadmap",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/build-your-budget/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Take Action",
+              "urlName": "money-magic"
             },
             {
               "id": 3,
               "name": "Speak Up",
-              "urlName": "activities",
-              "previousText": "Build Your Budget",
-              "previousUrl": "/course/budgeting/build-your-budget/build-your-budget",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/build-your-budget/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 4,
-              "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/build-your-budget/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/budgeting/build-your-budget/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 5,
-              "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/build-your-budget/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/budgeting/build-your-budget/summary",
-              "isLastLesson": false,
-              "isLastSession": false
-            },
-            {
-              "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/budgeting/build-your-budget/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/budgeting/making-budgeting-work-for-you/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 7,
           "number": 6,
-          "name": "Making Budgeting Work for You",
-          "urlName": "making-budgeting-work-for-you",
+          "name": "Build Your Budget",
+          "urlName": "build-your-budget",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/budgeting/build-your-budget/summary",
-              "nextText": "Take Action",
-              "nextUrl": "/course/budgeting/making-budgeting-work-for-you/making-budgeting-work-for-you",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
-              "name": "Take Action",
-              "urlName": "making-budgeting-work-for-you",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/making-budgeting-work-for-you/roadmap",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/making-budgeting-work-for-you/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Build Your Budget",
+              "urlName": "build-your-budget"
             },
             {
               "id": 3,
               "name": "Speak Up",
-              "urlName": "activities",
-              "previousText": "Take Action",
-              "previousUrl": "/course/budgeting/making-budgeting-work-for-you/making-budgeting-work-for-you",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/budgeting/making-budgeting-work-for-you/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
-              "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/making-budgeting-work-for-you/activities",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/budgeting/making-budgeting-work-for-you/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "name": "Speak Up",
+              "urlName": "discussion"
             },
             {
               "id": 5,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/budgeting/making-budgeting-work-for-you/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/budgeting/women-and-budgeting/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 8,
           "number": 7,
-          "name": "Women and Budgeting",
-          "urlName": "women-and-budgeting",
+          "name": "Making Budgeting Work for You",
+          "urlName": "making-budgeting-work-for-you",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/budgeting/making-budgeting-work-for-you/summary",
-              "nextText": "Take Action",
-              "nextUrl": "/course/budgeting/women-and-budgeting/women-and-budgeting",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Take Action",
-              "urlName": "women-and-budgeting",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/women-and-budgeting/roadmap",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/women-and-budgeting/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "making-budgeting-work-for-you"
             },
             {
               "id": 3,
               "name": "Speak Up",
-              "urlName": "activities",
-              "previousText": "Take Action",
-              "previousUrl": "/course/budgeting/women-and-budgeting/women-and-budgeting",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/budgeting/women-and-budgeting/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/women-and-budgeting/activities",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/budgeting/women-and-budgeting/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 5,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/budgeting/women-and-budgeting/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/budgeting/creating-your-budget/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 9,
           "number": 8,
-          "name": "Creating Your Budget",
-          "urlName": "creating-your-budget",
+          "name": "Women and Budgeting",
+          "urlName": "women-and-budgeting",
           "pages": [
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/budgeting/women-and-budgeting/summary",
-              "nextText": "Take Action",
-              "nextUrl": "/course/budgeting/creating-your-budget/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/budgeting/creating-your-budget/roadmap",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/budgeting/creating-your-budget/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "women-and-budgeting"
             },
             {
               "id": 3,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/budgeting/creating-your-budget/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/budgeting/creating-your-budget/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/budgeting/creating-your-budget/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/budgeting/creating-your-budget/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 5,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/budgeting/creating-your-budget/journal-or-post-it",
-              "nextText": "What did you learn?",
-              "nextUrl": "/course/budgeting/conclusion/what-do-you-know",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 10,
           "number": 9,
+          "name": "Creating Your Budget",
+          "urlName": "creating-your-budget",
+          "pages": [
+            {
+              "id": 1,
+              "name": "Lesson Roadmap",
+              "urlName": "roadmap"
+            },
+            {
+              "id": 2,
+              "name": "Take Action",
+              "urlName": "activities"
+            },
+            {
+              "id": 3,
+              "name": "Speak Up",
+              "urlName": "discussion"
+            },
+            {
+              "id": 4,
+              "name": "Journal or Post it",
+              "urlName": "journal-or-post-it"
+            },
+            {
+              "id": 5,
+              "name": "Wrap it up",
+              "urlName": "summary"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 0,
           "preventNumbering": true,
           "name": "Conclusion",
           "urlName": "conclusion",
@@ -1350,24 +841,12 @@
             {
               "id": 1,
               "name": "What did you learn?",
-              "urlName": "what-do-you-know",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/budgeting/creating-your-budget/summary",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/budgeting/conclusion/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 2,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What did you learn?",
-              "previousUrl": "/course/budgeting/conclusion/what-do-you-know",
-              "nextText": "Module Roadmap",
-              "nextUrl": "/course/investing-for-the-future/introduction/roadmap",
-              "isLastLesson": false,
-              "isLastSession": true
+              "urlName": "what-do-you-think"
             }
           ]
         }
@@ -1380,7 +859,7 @@
       "urlName": "investing-for-the-future",
       "sessions": [
         {
-          "id": 1,
+          "id": 0,
           "number": 0,
           "preventNumbering": true,
           "name": "Introduction",
@@ -1389,35 +868,17 @@
             {
               "id": 1,
               "name": "Module Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/budgeting/conclusion/what-do-you-think",
-              "nextText": "What do you know?",
-              "nextUrl": "/course/investing-for-the-future/introduction/what-do-you-know",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "What do you know?",
-              "urlName": "what-do-you-know",
-              "previousText": "Module Roadmap",
-              "previousUrl": "/course/investing-for-the-future/introduction/roadmap",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/investing-for-the-future/introduction/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 3,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What do you know?",
-              "previousUrl": "/course/investing-for-the-future/introduction/what-do-you-know",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/i-want-to-be-rich/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "what-do-you-think"
             }
           ]
         },
@@ -1430,68 +891,32 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/investing-for-the-future/introduction/what-do-you-think",
-              "nextText": "I Want To Be Rich!",
-              "nextUrl": "/course/investing-for-the-future/i-want-to-be-rich/i-want-to-be-rich",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "I Want To Be Rich!",
-              "urlName": "i-want-to-be-rich",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/i-want-to-be-rich/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/investing-for-the-future/i-want-to-be-rich/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "i-want-to-be-rich"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "I Want To Be Rich!",
-              "previousUrl": "/course/investing-for-the-future/i-want-to-be-rich/i-want-to-be-rich",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/i-want-to-be-rich/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/investing-for-the-future/i-want-to-be-rich/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/i-want-to-be-rich/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/i-want-to-be-rich/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/i-want-to-be-rich/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/i-want-to-be-rich/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/stocks-and-bonds/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -1504,79 +929,37 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/i-want-to-be-rich/summary",
-              "nextText": "Stocks and Bonds",
-              "nextUrl": "/course/investing-for-the-future/stocks-and-bonds/stocks-and-bonds",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Stocks and Bonds",
-              "urlName": "stocks-and-bonds",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/stocks-and-bonds/roadmap",
-              "nextText": "Take Action - Stocks",
-              "nextUrl": "/course/investing-for-the-future/stocks-and-bonds/activities-stocks",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "stocks-and-bonds"
             },
             {
               "id": 3,
               "name": "Take Action - Stocks",
-              "urlName": "activities-stocks",
-              "previousText": "Stocks and Bonds",
-              "previousUrl": "/course/investing-for-the-future/stocks-and-bonds/stocks-and-bonds",
-              "nextText": "Take Action - Bonds",
-              "nextUrl": "/course/investing-for-the-future/stocks-and-bonds/activities-bonds",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities-stocks"
             },
             {
               "id": 4,
               "name": "Take Action - Bonds",
-              "urlName": "activities-bonds",
-              "previousText": "Take Action - Stocks",
-              "previousUrl": "/course/investing-for-the-future/stocks-and-bonds/activities-stocks",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/stocks-and-bonds/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities-bonds"
             },
             {
               "id": 5,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action - Bonds",
-              "previousUrl": "/course/investing-for-the-future/stocks-and-bonds/activities-bonds",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/stocks-and-bonds/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 6,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/stocks-and-bonds/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/stocks-and-bonds/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 7,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/stocks-and-bonds/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/security-liquidity-return/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -1589,68 +972,32 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/stocks-and-bonds/summary",
-              "nextText": "Security, Liquidity and Return",
-              "nextUrl": "/course/investing-for-the-future/security-liquidity-return/security-liquidity-return",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Security, Liquidity and Return",
-              "urlName": "security-liquidity-return",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/security-liquidity-return/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/investing-for-the-future/security-liquidity-return/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "security-liquidity-return"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Security, Liquidity and Return",
-              "previousUrl": "/course/investing-for-the-future/security-liquidity-return/security-liquidity-return",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/security-liquidity-return/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/investing-for-the-future/security-liquidity-return/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/security-liquidity-return/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/security-liquidity-return/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/security-liquidity-return/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/security-liquidity-return/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/the-stock-market/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -1663,68 +1010,32 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/security-liquidity-return/summary",
-              "nextText": "The Stock Market",
-              "nextUrl": "/course/investing-for-the-future/the-stock-market/the-stock-market",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "The Stock Market",
-              "urlName": "the-stock-market",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/the-stock-market/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/investing-for-the-future/the-stock-market/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "the-stock-market"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "The Stock Market",
-              "previousUrl": "/course/investing-for-the-future/the-stock-market/the-stock-market",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/the-stock-market/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/investing-for-the-future/the-stock-market/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/the-stock-market/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/the-stock-market/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/the-stock-market/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/the-stock-market/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -1737,68 +1048,32 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/the-stock-market/summary",
-              "nextText": "Choosing Where to Invest",
-              "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/choosing-where-to-invest",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Choosing Where to Invest",
-              "urlName": "choosing-where-to-invest",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/roadmap",
-              "nextText": "Strategies For Choosing Stocks",
-              "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/strategies-for-choosing-stocks",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "choosing-where-to-invest"
             },
             {
               "id": 3,
               "name": "Strategies For Choosing Stocks",
-              "urlName": "strategies-for-choosing-stocks",
-              "previousText": "Choosing Where to Invest",
-              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/choosing-where-to-invest",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "strategies-for-choosing-stocks"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Strategies For Choosing Stocks",
-              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/strategies-for-choosing-stocks",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/choosing-where-to-invest/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/checking-a-stock/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -1811,46 +1086,22 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/choosing-where-to-invest/summary",
-              "nextText": "Take Action",
-              "nextUrl": "/course/investing-for-the-future/checking-a-stock/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/checking-a-stock/roadmap",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/checking-a-stock/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 3,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Take Action",
-              "previousUrl": "/course/investing-for-the-future/checking-a-stock/activities",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/checking-a-stock/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 4,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/checking-a-stock/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/mutual-funds/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -1863,68 +1114,32 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/checking-a-stock/summary",
-              "nextText": "Mutual Funds",
-              "nextUrl": "/course/investing-for-the-future/mutual-funds/mutual-funds",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Mutual Funds",
-              "urlName": "mutual-funds",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/mutual-funds/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/investing-for-the-future/mutual-funds/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "mutual-funds"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Mutual Funds",
-              "previousUrl": "/course/investing-for-the-future/mutual-funds/mutual-funds",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/mutual-funds/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/investing-for-the-future/mutual-funds/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/mutual-funds/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/mutual-funds/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/mutual-funds/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/mutual-funds/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -1937,68 +1152,32 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/mutual-funds/summary",
-              "nextText": "Building a Portfolio",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Building a Portfolio",
-              "urlName": "building-a-portfolio",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "building-a-portfolio"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Building a Portfolio",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/building-a-portfolio",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/building-a-portfolio/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
@@ -2011,85 +1190,43 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/building-a-portfolio/summary",
-              "nextText": "Why People Don't Invest",
-              "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/why-people-don't-invest",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Why People Don't Invest",
-              "urlName": "why-people-don't-invest",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/roadmap",
-              "nextText": "Investments by Income",
-              "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/investments-by-income",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "why-people-don't-invest"
             },
             {
               "id": 3,
               "name": "Investments by Income",
-              "urlName": "investments-by-income",
-              "previousText": "Why People Don't Invest",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/why-people-don't-invest",
-              "nextText": "Investments by Demographics",
-              "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/investment-by-demographics",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "investments-by-income"
             },
             {
               "id": 4,
               "name": "Investments by Demographics",
-              "urlName": "investment-by-demographics",
-              "previousText": "Investments by Income",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/investments-by-income",
-              "nextText": "Speak Up",
-              "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "investment-by-demographics"
             },
             {
               "id": 5,
               "name": "Speak Up",
-              "urlName": "discussion",
-              "previousText": "Investments by Demographics",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/investment-by-demographics",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 6,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Speak Up",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/investing-for-the-future/inequalities-in-investing/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 7,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/journal-or-post-it",
-              "nextText": "What did you learn?",
-              "nextUrl": "/course/investing-for-the-future/conclusion/what-do-you-know",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
           "id": 11,
-          "number": 10,
+          "number": 0,
           "preventNumbering": true,
           "name": "Conclusion",
           "urlName": "conclusion",
@@ -2097,24 +1234,12 @@
             {
               "id": 1,
               "name": "What did you learn?",
-              "urlName": "what-do-you-know",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/investing-for-the-future/inequalities-in-investing/summary",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/investing-for-the-future/conclusion/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 2,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What did you learn?",
-              "previousUrl": "/course/investing-for-the-future/conclusion/what-do-you-know",
-              "nextText": "Module Roadmap",
-              "nextUrl": "/course/credit-and-debt/introduction/roadmap",
-              "isLastLesson": false,
-              "isLastSession": true
+              "urlName": "what-do-you-think"
             }
           ]
         }
@@ -2127,7 +1252,7 @@
       "urlName": "credit-and-debt",
       "sessions": [
         {
-          "id": 1,
+          "id": 0,
           "number": 0,
           "preventNumbering": true,
           "name": "Introduction",
@@ -2136,40 +1261,22 @@
             {
               "id": 1,
               "name": "Module Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/investing-for-the-future/conclusion/what-do-you-think",
-              "nextText": "What do you know?",
-              "nextUrl": "/course/credit-and-debt/introduction/what-do-you-know",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "What do you know?",
-              "urlName": "what-do-you-know",
-              "previousText": "Module Roadmap",
-              "previousUrl": "/course/credit-and-debt/introduction/roadmap",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/credit-and-debt/introduction/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 3,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What do you know?",
-              "previousUrl": "/course/credit-and-debt/introduction/what-do-you-know",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/credit-and-debt/researching-loans/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "what-do-you-think"
             }
           ]
         },
         {
-          "id": 2,
+          "id": 1,
           "number": 1,
           "name": "Researching Loans",
           "urlName": "researching-loans",
@@ -2177,73 +1284,37 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "What do you think?",
-              "previousUrl": "/course/credit-and-debt/introduction/what-do-you-think",
-              "nextText": "Researching Loans",
-              "nextUrl": "/course/credit-and-debt/researching-loans/researching-loans",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Researching Loans",
-              "urlName": "researching-loans",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/credit-and-debt/researching-loans/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/researching-loans/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "researching-loans"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Researching Loans",
-              "previousUrl": "/course/credit-and-debt/researching-loans/researching-loans",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/researching-loans/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Take Action",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/researching-loans/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/credit-and-debt/researching-loans/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/researching-loans/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/credit-and-debt/researching-loans/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/credit-and-debt/researching-loans/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/credit-and-debt/interest-rates/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 3,
+          "id": 2,
           "number": 2,
           "name": "Interest rates, the good, the bad and the ugly",
           "urlName": "interest-rates",
@@ -2251,73 +1322,37 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/credit-and-debt/researching-loans/summary",
-              "nextText": "Interest rates, the good, the bad and the ugly",
-              "nextUrl": "/course/credit-and-debt/interest-rates/interest-rates-the-good-the-bad",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Interest rates, the good, the bad and the ugly",
-              "urlName": "interest-rates-the-good-the-bad",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/credit-and-debt/interest-rates/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/interest-rates/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "interest-rates-the-good-the-bad"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Interest rates, the good, the bad and the ugly",
-              "previousUrl": "/course/credit-and-debt/interest-rates/interest-rates-the-good-the-bad",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/interest-rates/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Take Action",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/interest-rates/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/credit-and-debt/interest-rates/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/interest-rates/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/credit-and-debt/interest-rates/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/credit-and-debt/interest-rates/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 4,
+          "id": 3,
           "number": 3,
           "name": "Good debt vs. Bad debt",
           "urlName": "good-debt-versus-bad-debt",
@@ -2325,73 +1360,37 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/credit-and-debt/interest-rates/summary",
-              "nextText": "Good debt vs. Bad debt",
-              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/good-debt-versus-bad-debt",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Good debt vs. Bad debt",
-              "urlName": "good-debt-versus-bad-debt",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "good-debt-versus-bad-debt"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Good debt vs. Bad debt",
-              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/good-debt-versus-bad-debt",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Take Action",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 5,
+          "id": 4,
           "number": 4,
           "name": "Establishing your credit worthiness",
           "urlName": "establishing-your-credit-worthiness",
@@ -2399,73 +1398,37 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/credit-and-debt/good-debt-versus-bad-debt/summary",
-              "nextText": "Establishing your credit worthiness",
-              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/establishing-your-credit-worthiness",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "Establishing your credit worthiness",
-              "urlName": "establishing-your-credit-worthiness",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "establishing-your-credit-worthiness"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "Establishing your credit worthiness",
-              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/establishing-your-credit-worthiness",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Take Action",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/journal-or-post-it",
-              "nextText": "Lesson Roadmap",
-              "nextUrl": "/course/credit-and-debt/the-credit-trap/roadmap",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 6,
+          "id": 5,
           "number": 5,
           "name": "The Credit Trap",
           "urlName": "the-credit-trap",
@@ -2473,74 +1436,38 @@
             {
               "id": 1,
               "name": "Lesson Roadmap",
-              "urlName": "roadmap",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/credit-and-debt/establishing-your-credit-worthiness/summary",
-              "nextText": "The Credit Trap",
-              "nextUrl": "/course/credit-and-debt/the-credit-trap/the-credit-trap",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "roadmap"
             },
             {
               "id": 2,
               "name": "The Credit Trap",
-              "urlName": "the-credit-trap",
-              "previousText": "Lesson Roadmap",
-              "previousUrl": "/course/credit-and-debt/the-credit-trap/roadmap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/the-credit-trap/activities",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "the-credit-trap"
             },
             {
               "id": 3,
               "name": "Take Action",
-              "urlName": "activities",
-              "previousText": "The Credit Trap",
-              "previousUrl": "/course/credit-and-debt/the-credit-trap/the-credit-trap",
-              "nextText": "Take Action",
-              "nextUrl": "/course/credit-and-debt/the-credit-trap/discussion",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "activities"
             },
             {
               "id": 4,
               "name": "Take Action",
-              "urlName": "discussion",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/the-credit-trap/activities",
-              "nextText": "Journal or Post it",
-              "nextUrl": "/course/credit-and-debt/the-credit-trap/journal-or-post-it",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "discussion"
             },
             {
               "id": 5,
               "name": "Journal or Post it",
-              "urlName": "journal-or-post-it",
-              "previousText": "Take Action",
-              "previousUrl": "/course/credit-and-debt/the-credit-trap/discussion",
-              "nextText": "Wrap it up",
-              "nextUrl": "/course/credit-and-debt/the-credit-trap/summary",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "journal-or-post-it"
             },
             {
               "id": 6,
               "name": "Wrap it up",
-              "urlName": "summary",
-              "previousText": "Journal or Post it",
-              "previousUrl": "/course/credit-and-debt/the-credit-trap/journal-or-post-it",
-              "nextText": "What did you learn?",
-              "nextUrl": "/course/credit-and-debt/conclusion/what-do-you-know",
-              "isLastLesson": true,
-              "isLastSession": false
+              "urlName": "summary"
             }
           ]
         },
         {
-          "id": 7,
-          "number": 6,
+          "id": 6,
+          "number": 0,
           "preventNumbering": true,
           "name": "Conclusion",
           "urlName": "conclusion",
@@ -2548,24 +1475,12 @@
             {
               "id": 1,
               "name": "What did you learn?",
-              "urlName": "what-do-you-know",
-              "previousText": "Wrap it up",
-              "previousUrl": "/course/credit-and-debt/the-credit-trap/summary",
-              "nextText": "What do you think?",
-              "nextUrl": "/course/credit-and-debt/conclusion/what-do-you-think",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-know"
             },
             {
               "id": 2,
               "name": "What do you think?",
-              "urlName": "what-do-you-think",
-              "previousText": "What did you learn?",
-              "previousUrl": "/course/credit-and-debt/conclusion/what-do-you-know",
-              "nextText": "",
-              "nextUrl": "",
-              "isLastLesson": false,
-              "isLastSession": false
+              "urlName": "what-do-you-think"
             }
           ]
         }

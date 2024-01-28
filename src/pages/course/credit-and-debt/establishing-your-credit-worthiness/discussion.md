@@ -15,15 +15,10 @@ pageId: "4"
 
 ![Speak Up!](/assets/img/lets-talk-about-it.png)
 
-## 1. If a person does not have a good credit score, what are some of the ways they can begin to repair it?
+## 1. A credit score of 700, or above is generally considered good a score of 800 is considered to be excellent most consumers have credit scores that fall between 600 and 750. If a person does not have a good credit score, what are some of the ways they can begin to repair it?
 
 <sparkle-feed-post assignment-name="If a person does not have a good credit score, what are some of the ways they can begin to repair it?" ></sparkle-feed-post>
 
-## 2. A credit score of 700, or above is generally considered good a score of 800 is considered to be excellent most consumers have credit scores that fall between 600 and 750
-<sparkle-feed-post assignment-name="A credit score of 700, or above is generally considered good a score of 800 is considered to be excellent most consumers have credit scores that fall between 600 and 750" ></sparkle-feed-post>
-
-## 3. Living loan free is a good way to stay financially secure, and it is possible.
-<sparkle-feed-post assignment-name="Living loan free is a good way to stay financially secure, and it is possible." ></sparkle-feed-post>
-
-## Name several ways to live loan free.
+## 2. Living loan free is a good way to stay financially secure, and it is possible. Name several ways to live loan free.
 <sparkle-feed-post assignment-name="Name several ways to live loan free." ></sparkle-feed-post>
+

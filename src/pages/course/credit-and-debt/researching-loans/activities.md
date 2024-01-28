@@ -21,3 +21,5 @@ pageId: "3"
 - The pluses and minuses of the system the loan compared to others
 
 
+- <a href="https://docs.google.com/presentation/d/1fyPT4xzKyV7TEc8XxFwx6goIXGPeeJc_8-N7C9rD11U/edit?usp=sharing" target="_blank">Classroom Signs</a>
+

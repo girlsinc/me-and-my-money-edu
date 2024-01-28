@@ -6,7 +6,7 @@ nextUrl: "/course/saving-spending-making-money/interest-rates/activities"
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "3"
-sessionId: "4"
+sessionId: "3"
 pageId: "3"
 ---
 

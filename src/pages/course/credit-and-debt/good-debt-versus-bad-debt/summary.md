@@ -14,11 +14,11 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-“Be vigilant when it comes to taking out any kind of loan educate yourself and know what to expect in terms of today’s interest rates. 
-”
+“Be vigilant when it comes to taking out any kind of loan. Educate yourself and know what to expect in terms of today’s interest rates.”
 </sparkle-character-intro>
 
 ## In today's lesson we learned:
 
-- not all debt is bad
-- the common causes of debt
+- Not all debt is bad
+- The common causes of debt
+- What predatory lending is

@@ -13,13 +13,17 @@ pageId: "1"
 
 ![Roadmap](/assets/img/roadmap.png)
 <sparkle-character-intro class="shift-up-overlap" position="right" character="yuna">
-In today's lesson, we'll explore effective ways to research loans by reviewing budget systems, understanding what to include, and tracking spending using different methods like an app or the "envelope method.</sparkle-character-intro>
+"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.” – Zig Ziglar</sparkle-character-intro>
 
 # ROADMAP FOR RESEACHING LOANS
 
 ## In today's lesson we will learn how:
 
-- To review the different budget systems and determine which one works best for you.
-- To understand what's most important to include, based on your needs, ie weekly, monthly, yearly
-- To understand that the purpose of a budget is to give you guidelines to follow so you can achieve other savings goals, without overdrawing your account.
-- To learn different ways to keep track of your spending, ie an app, the "envelope method"
+
+- Research the lender. Look for the best rate, the annual percentage rates (APR) from each lender that you consider. 
+- To qualify for a loan you must be approved. Banks only approve only borrowers who meet their requirements. 
+- Consider a fixed rate loan. A fixed rate loan means the lender will not raise the interest rate throughout the life of the loan; the interest will not fluctuate with the economy.
+- Banks and loan companies have one thing in common: They want to get paid back on time. 
+
+## Warm up:
+- Think of a debt that you owe, and whether or not you researched it first. Why or why not?

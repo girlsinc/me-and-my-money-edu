@@ -15,6 +15,6 @@ pageId: "5"
 
 # JOURNAL OR POST IT
 
-## Name three credit card repair companies.
+## Name three credit repair companies.
 
-<sparkle-feed-post assignment-name="Name three credit card repair companies." ></sparkle-feed-post>
+<sparkle-feed-post assignment-name="Name three credit repair companies." ></sparkle-feed-post>

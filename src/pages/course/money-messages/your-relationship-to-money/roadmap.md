@@ -27,4 +27,4 @@ I have a fantastic relationship with money. I use it to buy my freedom.
 
 
 ## Warm Up
-- Think about whether any of your friends or familily members have negative attitudes towards money. How can you make sure you don't adopt these?
+- Think about whether any of your friends or family members have negative attitudes towards money. How can you make sure you don't adopt these?

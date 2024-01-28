@@ -14,5 +14,6 @@ pageId: "2"
 # Choosing Where to Invest
 
 <sparkle-youtube src="https://www.youtube.com/watch?v=znRyjYlHruE"></sparkle-youtube>
+<sparkle-youtube src="https://www.youtube.com/watch?v=fTOAsQR77B0"></sparkle-youtube>
 
 <img src="./assets-and-risk.jpg" />

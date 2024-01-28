@@ -6,7 +6,7 @@ nextUrl: "/course/saving-spending-making-money/the-importance-of-saving/activiti
 lastLession: "false"
 lastSession: "false"
 courseModuleId: "3"
-sessionId: "2"
+sessionId: "5"
 pageId: "2"
 ---
 
