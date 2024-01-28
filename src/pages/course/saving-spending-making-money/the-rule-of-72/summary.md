@@ -17,5 +17,8 @@ pageId: "6"
 "He who understands it, earns it. He who doesn’t, pays it,"
 </sparkle-character-intro>
 
-## The rule of 72 is a simple way to estimate the number of years it takes an investment to double in value at a given annual rate of return. Divide 72 by your annual compound interest rate to see how many years it will take for your investment to double.
+## In today's lesson we learned
+
+- The rule of 72 is a simple way to estimate the number of years it takes an investment to double in value at a given annual rate of return. 
+- Divide 72 by your annual compound interest rate to see how many years it will take for your investment to double.
 

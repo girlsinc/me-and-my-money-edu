@@ -17,7 +17,7 @@ We're The Stars of HER FUTURE and will be your guide throughout the course. Let'
 
 
 
-<sparkle-intro></sparkle-intro>
+< ></sparkle-intro>
   
 <!-- <sparkle-cards>
    <sparkle-card header="Zinab" icon="/assets/img/characters/zynab.png" size="lg">

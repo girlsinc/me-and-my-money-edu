@@ -14,7 +14,12 @@ pageId: "6"
 # RECAP
 
 <sparkle-character-intro position="right" character="jen">
-
+Money, like emotions, is something you must control to keep your life on the right track - Natasha Munso
 </sparkle-character-intro>
 
-## Financial independence begins with keeping track of your spending as well as your deposits; knowing how much you have in the bank, and monitoring your balance carefully. 
+## In today's lesson we have learned
+
+Financial independence begins with:
+- Keeping track of your spending as well as your deposits
+- Knowing how much you have in the bank
+- Monitoring your balance carefully

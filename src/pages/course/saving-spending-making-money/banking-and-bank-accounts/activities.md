@@ -11,7 +11,7 @@ pageId: "3"
 ---
 
 
-![Roadmap](/assets/img/lets-talk-about-it.png)
+![Take Action](/assets/img/take-action.jpg)
 # Take Action
 
 ## A class discussion will be led around the following questions:

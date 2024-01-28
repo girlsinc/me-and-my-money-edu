@@ -18,12 +18,12 @@ Are you ready to take control of your financial future? Let's build the habit of
 
 # ROADMAP FOR THE IMPORTANCE OF SAVING
 
-## In today's lesson we will learn how to:
+## In today's lesson we will learn:
 
-1. Learn the importance and benefits of saving
-2. Understand how compound interest works
-3. Learn to identify goals for your savings
-4. Learn to get into the habit of saving
+1. The importance and benefits of saving
+2. To understand how compound interest works
+3. To identify goals for your savings
+4. To get into the habit of saving
 
 ## Warm Up
 - Think about whether or not you have been able to save. Why or why not?

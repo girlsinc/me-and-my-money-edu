@@ -14,4 +14,4 @@ pageId: "5"
 ![Journal or Post it](/assets/img/journal-it.png)
 # JOURNAL OR POST IT
 
-## Create your own paper check register for practice. If you don't have paper checks and a register, you can accomplish the same thing with a piece of paper, a small notebook or a custom printed Ledger. 
+## What's your favorite digital method for tracking your checking balance

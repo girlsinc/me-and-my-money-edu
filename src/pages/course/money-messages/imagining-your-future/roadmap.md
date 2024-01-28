@@ -22,7 +22,7 @@ What we really want to do is what we are really meant to do. When we do what we 
 
 1. Experience the feeling of setting lofty goals, that it is possible to attain your dreams
 2. See the value of entering careers that will give you a lifestyle you choose as well as inner satisfaction.
-3. Not be limited by others ideas of who and what they should become.
+3. Not be limited by other's ideas of who and what you should become.
 
 ## Warm Up
 - How often do you think about the future? How does it feel? 

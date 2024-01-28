@@ -27,4 +27,4 @@ pageId: "1"
 
 
 ## Warm Up
-- Gina works as a court clerk and gets a paycheck every Thursday. She can never meet Miriam for lunch that day because she spends her whole lunch hour standing in line at the post office to buy money orders to pay her rent, phone bill, and cable bill. She has to buy money orders because companies won't take cash payments. She spends $2.00 for each money order which adds up to $10 a month or $120 a year.  Do you think Gina should have a checking account? How could a checking account be helpful to her?
+- Have you tried to balance your checking account? What was your experience? 

@@ -14,6 +14,6 @@ pageId: "5"
 # JOURNAL IT OR POST IT
 ![Journal or Post it](/assets/img/journal-it.png)
 
-## How did your vision tree change the way you imaginged your future? Did you feel different?
+## How did your vision tree change the way you imagined your future? Did you feel different?
 <sparkle-feed-post assignment-name="How did your vision tree change the way you imaginged your future? Did you feel different?" ></sparkle-feed-post>
 

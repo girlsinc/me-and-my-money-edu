@@ -14,7 +14,7 @@ pageId: "3"
 # TAKE ACTION
 ![Take Action](/assets/img/take-action.jpg)
 
-In your check register, enter your transactions for the month
+In your check register - or your preferred digital alternative - enter your transactions for the month
 
 | Check # | Date | Payment | Deposit | Fees | Balance |
 |---------|------|---------|---------|------|---------|

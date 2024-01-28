@@ -18,7 +18,7 @@ pageId: "1"
 -Mark Twain
 </sparkle-character-intro>
 
-
+## In this module, we will learn:
 1. What banks do and how bank accounts help you keep track of your spending and saving and what you earn through interest.
 2. Characteristics and benefits of savings and checking accounts, ie recordkeeping, tools, and online access. 
 3. Fees and interest rates vary, according to the financial institution you choose, ie commercial banks, or credit unions

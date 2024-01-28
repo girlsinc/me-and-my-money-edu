@@ -20,10 +20,9 @@ We are bombarded by money messages in the media from our family, everywhere. Onl
 
 ## In today's lesson we will learn how to:
 
-1. Become aware of money messages we hear every day including those from your own family
-2. Learn the difference between wants and needs
-3. Become aware of your own relationship to money, your “money story”
-4. Understand that money is energy, and our relationship to money creates positive or negative energy
+- Become aware of money messages we hear every day including those from your own family
+- Become aware of your own relationship to money, your “money story”
+- Understand that money is energy, and our relationship to money creates positive or negative energy
 
 ## Let's warm up:
 - Is thinking about money generally a good or bad experience for you?  

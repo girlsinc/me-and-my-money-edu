@@ -15,3 +15,4 @@ pageId: "3"
 ![Take Action](/assets/img/take-action.jpg)
 <sparkle-youtube src="https://www.youtube.com/embed/OeznUa1tr80"></sparkle-youtube>
 
+- Give some suggestions about how you can begin to change stereotypes about women and money.

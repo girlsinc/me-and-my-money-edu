@@ -17,4 +17,8 @@ pageId: "6"
 "Banks do not create money for the public good. They are businesses owned by private shareholders. Their purpose is to make a profit." - John Rogers
 </sparkle-character-intro>
 
-## In looking for the best bank for you, make a list of desired features and services before heading to different bank’s websites. Consider the types of accounts you'll need, the interest rates you will earn on your deposits, and fees for withdrawal, and overdraft. Also consider location and accessibility: does the bank have conveniently located ATM’s?
+## In today's lesson we have learned
+In looking for the best bank for your needs: 
+- Make a list of desired features and services before heading to different bank’s websites. 
+- Consider the types of accounts you'll need, the interest rates you will earn on your deposits, and fees for withdrawal, and overdraft. 
+- Also consider location and accessibility: does the bank have conveniently located ATMs and/or branches?
